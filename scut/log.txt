@@ -1,0 +1,1565 @@
+2016-04-27 23:34:25.284:$ Thread:11 $ Adding to workload $ http://www.scut.edu.cn/
+2016-04-27 23:34:25.301:$ Thread:15 $ Connecting $http://www.scut.edu.cn/ $ Successful
+2016-04-27 23:34:25.309:$ Thread:17 $ Fetching $ http://www.scut.edu.cn/ $ Successful
+2016-04-27 23:34:25.403:$ Thread:12 $ Adding to workload $ http://www.scut.edu.cn/index.html
+2016-04-27 23:34:25.404:$ Thread:15 $ Adding to workload $ http://webmail.scut.edu.cn/scutmail/
+2016-04-27 23:34:25.404:$ Thread:17 $ Adding to workload $ http://web.scut.edu.cn/service/
+2016-04-27 23:34:25.404:$ Thread:16 $ Adding to workload $ http://portal.scut.edu.cn/cmstar/index.portal
+2016-04-27 23:34:25.405:$ Thread:12 $ Adding to workload $ http://en.scut.edu.cn/
+2016-04-27 23:34:25.404:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/scutnxq/
+2016-04-27 23:34:25.406:$ Thread:12 $ Adding to workload $ http://www.scut.edu.cn/webpage/yj.htm
+2016-04-27 23:34:25.407:$ Thread:12 $ Adding to workload $ http://www2.scut.edu.cn/s/135/t/141/p/1/c/4121/list.htm
+2016-04-27 23:34:25.407:$ Thread:12 $ Adding to workload $ http://www.scut.edu.cn/webpage/leaders.htm
+2016-04-27 23:34:25.408:$ Thread:16 $ Adding to workload $ http://www.scut.edu.cn/webpage/jg.htm
+2016-04-27 23:34:25.409:$ Thread:17 $ Adding to workload $ http://www.scut.edu.cn/index2011.html
+2016-04-27 23:34:25.411:$ Thread:15 $ Adding to workload $ http://www.lib.scut.edu.cn/
+2016-04-27 23:34:25.417:$ Thread:15 $ Adding to workload $ http://www.scut.edu.cn/bys/
+2016-04-27 23:34:25.417:$ Thread:16 $ Adding to workload $ http://www.scut.edu.cn/sie/
+2016-04-27 23:34:25.417:$ Thread:15 $ Adding to workload $ http://www.scut.edu.cn/webpage/spotlights.htm?={link}
+2016-04-27 23:34:25.418:$ Thread:16 $ Adding to workload $ http://news.scut.edu.cn/s/22/t/3/p/61/list.htm
+2016-04-27 23:34:25.418:$ Thread:15 $ Adding to workload $ http://news.scut.edu.cn/s/22/t/7/p/69/c/8/list.htm
+2016-04-27 23:34:25.418:$ Thread:16 $ Adding to workload $ http://www.scut.edu.cn/webpage/notice.htm
+2016-04-27 23:34:25.418:$ Thread:15 $ Adding to workload $ http://news.scut.edu.cn/
+2016-04-27 23:34:25.418:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/113/main.htm
+2016-04-27 23:34:25.418:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/100/t/97/main.htm
+2016-04-27 23:34:25.419:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/341/main.jspy
+2016-04-27 23:34:25.419:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/354/main.htm
+2016-04-27 23:34:25.419:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/386/p/13/list.htm
+2016-04-27 23:34:25.419:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/108/main.htm
+2016-04-27 23:34:25.419:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/main.htm
+2016-04-27 23:34:25.419:$ Thread:15 $ Adding to workload $ http://www.scut.edu.cn/houqin
+2016-04-27 23:34:25.420:$ Thread:16 $ Adding to workload $ http://www.scut.edu.cn/security/
+2016-04-27 23:34:25.420:$ Thread:17 $ Adding to workload $ http://www.scut.edu.cn/socialsci/
+2016-04-27 23:34:25.420:$ Thread:12 $ Adding to workload $ http://www.scut.edu.cn/xsg
+2016-04-27 23:34:25.420:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/78/t/151/p/1/c/4329/list.htm
+2016-04-27 23:34:25.420:$ Thread:17 $ Adding to workload $ http://www.scut.edu.cn/qingfengyuan/index.htm
+2016-04-27 23:34:25.420:$ Thread:15 $ Adding to workload $ http://bbs.scut.edu.cn/
+2016-04-27 23:34:25.420:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/science/
+2016-04-27 23:34:25.421:$ Thread:12 $ Adding to workload $ http://www.scut.edu.cn/admission/
+2016-04-27 23:34:25.421:$ Thread:15 $ Adding to workload $ http://www.scut.edu.cn/e-online/
+2016-04-27 23:34:25.421:$ Thread:12 $ Adding to workload $ http://www.scut.edu.cn/graduate/
+2016-04-27 23:34:25.421:$ Thread:17 $ Adding to workload $ http://www.scut.edu.cn/webpage/magazine.htm
+2016-04-27 23:34:25.421:$ Thread:16 $ Adding to workload $ http://www.scut.edu.cn/course/
+2016-04-27 23:34:25.422:$ Thread:17 $ Adding to workload $ http://www.scut.edu.cn/webpage/view.htm
+2016-04-27 23:34:25.421:$ Thread:12 $ Adding to workload $ http://map.scut.edu.cn/
+2016-04-27 23:34:25.422:$ Thread:17 $ Adding to workload $ http://www.scut.edu.cn/webpage/history.htm
+2016-04-27 23:34:25.422:$ Thread:16 $ Adding to workload $ http://www.scut.edu.cn/webpage/logo.htm
+2016-04-27 23:34:25.422:$ Thread:17 $ Adding to workload $ http://www.scut.edu.cn/
+2016-04-27 23:34:25.422:$ Thread:12 $ Adding to workload $ http://www.scut.edu.cn/webpage/st.htm
+2016-04-27 23:34:25.422:$ Thread:16 $ Adding to workload $ http://www.scut.edu.cn/webpage/group.htm
+2016-04-27 23:34:25.422:$ Thread:17 $ Adding to workload $ http://www.scut.edu.cn/webpage/about.htm
+2016-04-27 23:34:25.423:$ Thread:15 $ Adding to workload $ http://www.scut.edu.cn/academic/
+2016-04-27 23:34:25.424:$ Thread:12 $ Adding to workload $ http://www.scut.edu.cn/webpage/hotnews.htm
+2016-04-27 23:34:25.424:$ Thread:16 $ Adding to workload $ http://www.scut.edu.cn/{link}
+2016-04-27 23:34:25.424:$ Thread:17 $ Adding to workload $ http://www.scut.edu.cn/webpage/yg.htm
+2016-04-27 23:34:25.425:$ Thread:15 $ Adding to workload $ http://news.scut.edu.cn/s/22/t/3/p/32/list.htm
+2016-04-27 23:34:25.428:$ Thread:12 $ Adding to workload $ http://news.scut.edu.cn/s/22/t/3/p/68/c/44/list.htm
+2016-04-27 23:34:25.428:$ Thread:16 $ Adding to workload $ http://xb.scut.edu.cn/
+2016-04-27 23:34:25.428:$ Thread:17 $ Adding to workload $ http://web.scut.edu.cn/s/39/t/13/p/1/c/562/list.htm
+2016-04-27 23:34:25.429:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/xxgk/index.html
+2016-04-27 23:34:25.428:$ Thread:15 $ Adding to workload $ http://www.scut.edu.cn/qingfengyuan/
+2016-04-27 23:34:25.429:$ Thread:17 $ Adding to workload $ http://news.scut.edu.cn/s/22/t/3/p/68/c/68/list.htm
+2016-04-27 23:34:25.428:$ Thread:12 $ Adding to workload $ http://www.scut.edu.cn/webpage/service.htm
+2016-04-27 23:34:25.429:$ Thread:12 $ Adding to workload $ http://web.scut.edu.cn/
+2016-04-27 23:34:25.430:$ Thread:15 $ Adding to workload $ http://mapp.scut.edu.cn/
+2016-04-27 23:34:25.432:$ Thread:17 $ Parsing $ http://www.scut.edu.cn/ $ Successful
+2016-04-27 23:34:25.433:$ Thread:12 $ Complete $http://www.scut.edu.cn/ Successful $
+2016-04-27 23:34:25.433:$ Thread:11 $ Connecting $http://www.scut.edu.cn/index.html $ Successful
+2016-04-27 23:34:25.437:$ Thread:12 $ Fetching $ http://www.scut.edu.cn/index.html $ Successful
+2016-04-27 23:34:25.445:$ Thread:17 $ Adding to workload $ http://www.scut.edu.cn/index.html
+2016-04-27 23:34:25.459:$ Thread:11 $ Parsing $ http://www.scut.edu.cn/index.html $ Successful
+2016-04-27 23:34:25.459:$ Thread:12 $ Complete $http://www.scut.edu.cn/index.html Successful $
+2016-04-27 23:34:25.469:$ Thread:16 $ Connecting $http://webmail.scut.edu.cn/scutmail/ $ Successful
+2016-04-27 23:34:25.483:$ Thread:15 $ Fetching $ http://webmail.scut.edu.cn/scutmail/ $ Successful
+2016-04-27 23:34:25.485:$ Thread:17 $ Adding to workload $ http://webmail.scut.edu.cn/scutmail/cmcu_var/index_scut.jsp
+2016-04-27 23:34:25.487:$ Thread:16 $ Parseing $ http://webmail.scut.edu.cn/scutmail/Error $Found malformed URL: javascript:bookmarkme()
+2016-04-27 23:34:25.487:$ Thread:16 $ Adding to workload $ http://webmail.scut.edu.cn/scutmail/index.jsp?locale=en_us
+2016-04-27 23:34:25.487:$ Thread:16 $ Adding to workload $ http://webmail.scut.edu.cn/coremail/help/index_zh_cn.jsp
+2016-04-27 23:34:25.491:$ Thread:17 $ Parsing $ http://webmail.scut.edu.cn/scutmail/ $ Successful
+2016-04-27 23:34:25.492:$ Thread:15 $ Complete $http://webmail.scut.edu.cn/scutmail/ Successful $
+2016-04-27 23:34:25.493:$ Thread:12 $ Connecting $http://portal.scut.edu.cn/cmstar/index.portal $ Successful
+2016-04-27 23:34:25.499:$ Thread:15 $ Connecting $http://web.scut.edu.cn/service/ $ Successful
+2016-04-27 23:34:25.502:$ Thread:12 $ Fetching $ http://portal.scut.edu.cn/cmstar/index.portal $ Successful
+2016-04-27 23:34:25.503:$ Thread:15 $ Parsing $ http://portal.scut.edu.cn/cmstar/index.portal $ Successful
+2016-04-27 23:34:25.504:$ Thread:12 $ Complete $http://portal.scut.edu.cn/cmstar/index.portal Successful $
+2016-04-27 23:34:25.505:$ Thread:17 $ Fetching $ http://web.scut.edu.cn/service/ $ Successful
+2016-04-27 23:34:25.509:$ Thread:12 $ Parsing $ http://web.scut.edu.cn/service/ $ Successful
+2016-04-27 23:34:25.509:$ Thread:12 $ Complete $http://web.scut.edu.cn/service/ Successful $
+2016-04-27 23:34:25.510:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/scutnxq/ $ Successful
+2016-04-27 23:34:25.515:$ Thread:11 $ Connecting $http://en.scut.edu.cn/ $ Successful
+2016-04-27 23:34:25.517:$ Thread:17 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/p/1/c/22/list.htm
+2016-04-27 23:34:25.517:$ Thread:17 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/p/1/c/23/list.htm
+2016-04-27 23:34:25.518:$ Thread:12 $ Fetching $ http://www2.scut.edu.cn/scutnxq/ $ Successful
+2016-04-27 23:34:25.518:$ Thread:17 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/p/1/c/26/list.htm
+2016-04-27 23:34:25.518:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/27/main.htm
+2016-04-27 23:34:25.519:$ Thread:17 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/p/1/c/24/list.htm
+2016-04-27 23:34:25.519:$ Thread:12 $ Adding to workload $ http://www.scut.edu.cn/areabooking/
+2016-04-27 23:34:25.533:$ Thread:17 $ Adding to workload $ http://www2.scut.edu.cn/scutnxq/
+2016-04-27 23:34:25.534:$ Thread:12 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/p/2/c/66/list.htm
+2016-04-27 23:34:25.534:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/p/2/c/64/list.htm
+2016-04-27 23:34:25.534:$ Thread:17 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/p/2/c/65/list.htm
+2016-04-27 23:34:25.550:$ Thread:12 $ Fetching $ http://en.scut.edu.cn/ $ Successful
+2016-04-27 23:34:25.554:$ Thread:11 $ Adding to workload $ http://en.scut.edu.cn/
+2016-04-27 23:34:25.554:$ Thread:12 $ Adding to workload $ http://en.scut.edu.cn/index.jsp
+2016-04-27 23:34:25.560:$ Thread:17 $ Adding to workload $ http://en.scut.edu.cn/new/feature.jsp?topid=63&directoryid=63
+2016-04-27 23:34:25.560:$ Thread:11 $ Adding to workload $ http://en.scut.edu.cn/aboutscut/introducing.jsp
+2016-04-27 23:34:25.560:$ Thread:17 $ Adding to workload $ http://en.scut.edu.cn/aboutscut/maps.jsp
+2016-04-27 23:34:25.561:$ Thread:11 $ Adding to workload $ http://en.scut.edu.cn/aboutscut/jobs.jsp
+2016-04-27 23:34:25.561:$ Thread:12 $ Adding to workload $ http://en.scut.edu.cn/aboutscut/factsfigures.jsp
+2016-04-27 23:34:25.561:$ Thread:11 $ Adding to workload $ http://en.scut.edu.cn/teaching/undergraduate.jsp
+2016-04-27 23:34:25.561:$ Thread:17 $ Adding to workload $ http://en.scut.edu.cn/news/people.jsp
+2016-04-27 23:34:25.561:$ Thread:12 $ Adding to workload $ http://en.scut.edu.cn/teaching/postgraduate.jsp
+2016-04-27 23:34:25.561:$ Thread:11 $ Adding to workload $ http://en.scut.edu.cn/admissions/undergraduateprograms.jsp
+2016-04-27 23:34:25.562:$ Thread:17 $ Adding to workload $ http://en.scut.edu.cn/admissions/graduateprograms.jsp
+2016-04-27 23:34:25.562:$ Thread:11 $ Adding to workload $ http://en.scut.edu.cn/research/funds.jsp
+2016-04-27 23:34:25.562:$ Thread:12 $ Adding to workload $ http://en.scut.edu.cn/research/dynamicacademicstechnology.jsp
+2016-04-27 23:34:25.562:$ Thread:11 $ Adding to workload $ http://en.scut.edu.cn/research/humanitiessocialsciences.jsp
+2016-04-27 23:34:25.562:$ Thread:17 $ Adding to workload $ http://en.scut.edu.cn/research/paper.jsp
+2016-04-27 23:34:25.562:$ Thread:11 $ Adding to workload $ http://en.scut.edu.cn/research/statekeylabs.jsp
+2016-04-27 23:34:25.563:$ Thread:12 $ Adding to workload $ http://en.scut.edu.cn/research/researchservices.jsp
+2016-04-27 23:34:25.563:$ Thread:11 $ Adding to workload $ http://www2.scut.edu.cn/sie-en/
+2016-04-27 23:34:25.563:$ Thread:17 $ Adding to workload $ http://en.scut.edu.cn/research/overview.jsp
+2016-04-27 23:34:25.563:$ Thread:11 $ Adding to workload $ http://en.scut.edu.cn/news/academic.jsp
+2016-04-27 23:34:25.564:$ Thread:17 $ Adding to workload $ http://en.scut.edu.cn/news/newsevents.jsp
+2016-04-27 23:34:25.564:$ Thread:12 $ Adding to workload $ http://en.scut.edu.cn/admissions/schoolsdepartments.jsp
+2016-04-27 23:34:25.564:$ Thread:11 $ Adding to workload $ http://en.scut.edu.cn/aboutscut/stafffaculty.jsp
+2016-04-27 23:34:25.565:$ Thread:17 $ Adding to workload $ http://en.scut.edu.cn/aboutscut/governance.jsp
+2016-04-27 23:34:25.565:$ Thread:12 $ Adding to workload $ http://en.scut.edu.cn/aboutscut/president.jsp
+2016-04-27 23:34:25.568:$ Thread:11 $ Adding to workload $ http://en.scut.edu.cn/research/journals.jsp
+2016-04-27 23:34:25.568:$ Thread:17 $ Adding to workload $ http://en.scut.edu.cn/research/labsoverview.jsp
+2016-04-27 23:34:25.569:$ Thread:12 $ Adding to workload $ http://en.scut.edu.cn/library/history.jsp
+2016-04-27 23:34:25.568:$ Thread:11 $ Adding to workload $ http://en.scut.edu.cn/library/interlibraryloan.jsp
+2016-04-27 23:34:25.569:$ Thread:17 $ Adding to workload $ http://en.scut.edu.cn/library/e-resources.jsp
+2016-04-27 23:34:25.569:$ Thread:12 $ Adding to workload $ http://en.scut.edu.cn/life/campus_gallery.jsp
+2016-04-27 23:34:25.569:$ Thread:11 $ Adding to workload $ http://en.scut.edu.cn/life/servicesfacilities.jsp
+2016-04-27 23:34:25.570:$ Thread:17 $ Adding to workload $ http://en.scut.edu.cn/relations/studentsprograms.jsp
+2016-04-27 23:34:25.570:$ Thread:12 $ Adding to workload $ http://en.scut.edu.cn/relations/internationalpartners.jsp
+2016-04-27 23:34:25.570:$ Thread:11 $ Adding to workload $ http://en.scut.edu.cn/relations/contacts.jsp
+2016-04-27 23:34:25.570:$ Thread:17 $ Adding to workload $ http://en.scut.edu.cn/alumni/introduction.jsp
+2016-04-27 23:34:25.571:$ Thread:12 $ Adding to workload $ http://en.scut.edu.cn/alumni/branches.jsp
+2016-04-27 23:34:25.570:$ Thread:11 $ Adding to workload $ http://en.scut.edu.cn/giving/introduction.jsp
+2016-04-27 23:34:25.571:$ Thread:17 $ Adding to workload $ http://en.scut.edu.cn/giving/studentfieldfund.jsp
+2016-04-27 23:34:25.571:$ Thread:12 $ Adding to workload $ http://en.scut.edu.cn/contact.jsp
+2016-04-27 23:34:25.571:$ Thread:11 $ Adding to workload $ http://en.scut.edu.cn/news/weekly.jsp
+2016-04-27 23:34:25.572:$ Thread:17 $ Adding to workload $ http://en.scut.edu.cn/new/list1.jsp?directoryid=24068&topid=24067
+2016-04-27 23:34:25.572:$ Thread:11 $ Adding to workload $ http://en.scut.edu.cn/detail.jsp?id=55403
+2016-04-27 23:34:25.572:$ Thread:17 $ Adding to workload $ http://en.scut.edu.cn/giving/acknowledgement.jsp
+2016-04-27 23:34:25.572:$ Thread:12 $ Adding to workload $ http://en.scut.edu.cn/giving/downloads.jsp
+2016-04-27 23:34:25.572:$ Thread:11 $ Adding to workload $ http://en.scut.edu.cn/detail.jsp?id=55283
+2016-04-27 23:34:25.573:$ Thread:12 $ Adding to workload $ http://en.scut.edu.cn/detail.jsp?id=55143
+2016-04-27 23:34:25.573:$ Thread:11 $ Adding to workload $ http://en.scut.edu.cn/detail.jsp?id=55317
+2016-04-27 23:34:25.573:$ Thread:17 $ Adding to workload $ http://en.scut.edu.cn/detail.jsp?id=55383
+2016-04-27 23:34:25.574:$ Thread:12 $ Adding to workload $ http://en.scut.edu.cn/detail.jsp?id=55244
+2016-04-27 23:34:25.574:$ Thread:11 $ Adding to workload $ http://www2.scut.edu.cn/architecture-en/
+2016-04-27 23:34:25.574:$ Thread:17 $ Adding to workload $ http://www2.scut.edu.cn/arts-en/
+2016-04-27 23:34:25.574:$ Thread:11 $ Adding to workload $ http://www2.scut.edu.cn/ce-en/
+2016-04-27 23:34:25.575:$ Thread:17 $ Adding to workload $ http://www2.scut.edu.cn/sba-en/
+2016-04-27 23:34:25.575:$ Thread:11 $ Adding to workload $ http://en.scut.edu.cn/detail.jsp?id=26883
+2016-04-27 23:34:25.574:$ Thread:12 $ Adding to workload $ http://www2.scut.edu.cn/auto-en/
+2016-04-27 23:34:25.575:$ Thread:17 $ Adding to workload $ http://en.scut.edu.cn/detail.jsp?id=55265
+2016-04-27 23:34:25.576:$ Thread:11 $ Adding to workload $ http://en.scut.edu.cn/detail.jsp?id=55208
+2016-04-27 23:34:25.576:$ Thread:17 $ Adding to workload $ http://en.scut.edu.cn/detail.jsp?id=55343
+2016-04-27 23:34:25.576:$ Thread:17 $ Complete $http://en.scut.edu.cn/ Successful $
+2016-04-27 23:34:25.575:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/biology-en/
+2016-04-27 23:34:25.576:$ Thread:11 $ Adding to workload $ http://en.scut.edu.cn/detail.jsp?id=55213
+2016-04-27 23:34:25.576:$ Thread:12 $ Parsing $ http://en.scut.edu.cn/ $ Successful
+2016-04-27 23:34:25.577:$ Thread:11 $ Connecting $http://www.scut.edu.cn/index2011.html $ Successful
+2016-04-27 23:34:25.577:$ Thread:12 $ Adding to workload $ http://en.scut.edu.cn/detail.jsp?id=55319
+2016-04-27 23:34:25.577:$ Thread:11 $ Adding to workload $ http://en.scut.edu.cn/giving/giveonline.jsp
+2016-04-27 23:34:25.577:$ Thread:12 $ Adding to workload $ http://en.scut.edu.cn/giving/studentprogramsfund.jsp
+2016-04-27 23:34:25.577:$ Thread:11 $ Adding to workload $ http://en.scut.edu.cn/alumni/contact.jsp
+2016-04-27 23:34:25.576:$ Thread:17 $ Adding to workload $ http://en.scut.edu.cn/detail.jsp?id=55246
+2016-04-27 23:34:25.578:$ Thread:11 $ Adding to workload $ http://en.scut.edu.cn/alumni/spotlights.jsp
+2016-04-27 23:34:25.578:$ Thread:12 $ Adding to workload $ http://en.scut.edu.cn/alumni/service.jsp
+2016-04-27 23:34:25.579:$ Thread:17 $ Adding to workload $ http://en.scut.edu.cn/alumni/mission.jsp
+2016-04-27 23:34:25.579:$ Thread:17 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/131/main.htm
+2016-04-27 23:34:25.579:$ Thread:12 $ Adding to workload $ http://en.scut.edu.cn/alumni/regulations.jsp
+2016-04-27 23:34:25.579:$ Thread:11 $ Adding to workload $ http://en.scut.edu.cn/alumni/structure.jsp
+2016-04-27 23:34:25.580:$ Thread:17 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/132/main.htm
+2016-04-27 23:34:25.580:$ Thread:12 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/136/main.htm
+2016-04-27 23:34:25.580:$ Thread:11 $ Adding to workload $ http://en.scut.edu.cn/relations/overview.jsp
+2016-04-27 23:34:25.580:$ Thread:17 $ Adding to workload $ http://en.scut.edu.cn/life/local_resources.jsp
+2016-04-27 23:34:25.581:$ Thread:12 $ Adding to workload $ http://en.scut.edu.cn/life/student_organizations.jsp
+2016-04-27 23:34:25.580:$ Thread:11 $ Adding to workload $ http://en.scut.edu.cn/life/athleticsrecreation.jsp
+2016-04-27 23:34:25.584:$ Thread:15 $ Fetching $ http://www.scut.edu.cn/index2011.html $ Successful
+2016-04-27 23:34:25.589:$ Thread:11 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/13/61/info4961.htm
+2016-04-27 23:34:25.589:$ Thread:11 $ Adding to workload $ http://www.scut.edu.cn/slib/
+2016-04-27 23:34:25.589:$ Thread:11 $ Adding to workload $ http://www.scut.edu.cn/favicon.ico
+2016-04-27 23:34:25.598:$ Thread:11 $ Adding to workload $ https://security.scut.edu.cn/cas/index.jsp?service=http://my.scut.edu.cn/login&renew=true
+2016-04-27 23:34:25.599:$ Thread:12 $ Adding to workload $ http://www.scut.edu.cn/page/portal.htm
+2016-04-27 23:34:25.600:$ Thread:15 $ Adding to workload $ http://search.scut.edu.cn:8080/index.html
+2016-04-27 23:34:25.600:$ Thread:12 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/p/31/list.htm
+2016-04-27 23:34:25.600:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/p/32/list.htm
+2016-04-27 23:34:25.600:$ Thread:11 $ Adding to workload $ http://www.scut.edu.cn/journal/
+2016-04-27 23:34:25.602:$ Thread:12 $ Adding to workload $ http://www.scut.edu.cn/press/
+2016-04-27 23:34:25.603:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/party_sch/
+2016-04-27 23:34:25.603:$ Thread:11 $ Adding to workload $ http://www.scut.edu.cn/index2011.html
+2016-04-27 23:34:25.604:$ Thread:12 $ Adding to workload $ http://www.scut.edu.cn/magazine/index.html
+2016-04-27 23:34:25.604:$ Thread:11 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/07/45/info132933.htm
+2016-04-27 23:34:25.604:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/0e/36/info134710.htm
+2016-04-27 23:34:25.605:$ Thread:11 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/f1/f1/info127473.htm
+2016-04-27 23:34:25.605:$ Thread:12 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/06/8b/info132747.htm
+2016-04-27 23:34:25.605:$ Thread:11 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/ea/44/info125508.htm
+2016-04-27 23:34:25.605:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/ea/45/info125509.htm
+2016-04-27 23:34:25.607:$ Thread:12 $ Adding to workload $ http://cxzy.scut.edu.cn
+2016-04-27 23:34:25.614:$ Thread:11 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/0e/78/info134776.htm
+2016-04-27 23:34:25.614:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/0e/34/info134708.htm
+2016-04-27 23:34:25.617:$ Thread:11 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/p/35/list.htm
+2016-04-27 23:34:25.617:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/p/34/list.htm
+2016-04-27 23:34:25.617:$ Thread:11 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/p/33/list.htm
+2016-04-27 23:34:25.618:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/0a/63/info133731.htm
+2016-04-27 23:34:25.618:$ Thread:11 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/0b/3f/info133951.htm
+2016-04-27 23:34:25.618:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/0b/5f/info133983.htm
+2016-04-27 23:34:25.618:$ Thread:12 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/0c/e4/info134372.htm
+2016-04-27 23:34:25.618:$ Thread:11 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/0d/af/info134575.htm
+2016-04-27 23:34:25.619:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/0d/7e/info134526.htm
+2016-04-27 23:34:25.619:$ Thread:12 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/0c/b1/info134321.htm
+2016-04-27 23:34:25.619:$ Thread:11 $ Adding to workload $ http://my.scut.edu.cn
+2016-04-27 23:34:25.620:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/09/7f/info133503.htm
+2016-04-27 23:34:25.620:$ Thread:12 $ Adding to workload $ http://www.scut.edu.cn/top/
+2016-04-27 23:34:25.621:$ Thread:12 $ Adding to workload $ http://www.scut.edu.cn/page/about1.htm
+2016-04-27 23:34:25.621:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/78/4d/info96333.htm
+2016-04-27 23:34:25.621:$ Thread:11 $ Adding to workload $ http://cxzy.scut.edu.cn/index.jsp
+2016-04-27 23:34:25.622:$ Thread:12 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/78/4c/info96332.htm
+2016-04-27 23:34:25.622:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/77/c5/info96197.htm
+2016-04-27 23:34:25.623:$ Thread:11 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/0c/43/info3139.htm
+2016-04-27 23:34:25.623:$ Thread:12 $ Adding to workload $ http://60years.scut.edu.cn/
+2016-04-27 23:34:25.623:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/0c/45/info3141.htm
+2016-04-27 23:34:25.624:$ Thread:11 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/0c/46/info3142.htm
+2016-04-27 23:34:25.624:$ Thread:12 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/0c/48/info3144.htm
+2016-04-27 23:34:25.625:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/p/41/list.htm
+2016-04-27 23:34:25.625:$ Thread:11 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/p/41/c/54/list.htm
+2016-04-27 23:34:25.626:$ Thread:12 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/p/41/c/55/list.htm
+2016-04-27 23:34:25.626:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/p/41/c/56/list.htm
+2016-04-27 23:34:25.627:$ Thread:11 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/p/42/list.htm
+2016-04-27 23:34:25.627:$ Thread:12 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/p/5/list.htm
+2016-04-27 23:34:25.628:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/0f/66/info3942.htm
+2016-04-27 23:34:25.628:$ Thread:11 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/0f/67/info3943.htm
+2016-04-27 23:34:25.628:$ Thread:12 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/0f/68/info3944.htm
+2016-04-27 23:34:25.629:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/0f/69/info3945.htm
+2016-04-27 23:34:25.629:$ Thread:11 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/0f/6a/info3946.htm
+2016-04-27 23:34:25.630:$ Thread:12 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/0f/6b/info3947.htm
+2016-04-27 23:34:25.630:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/27/t/3/0f/6c/info3948.htm
+2016-04-27 23:34:25.631:$ Thread:11 $ Adding to workload $ http://www.scut.edu.cn/telephone/tel82.htm
+2016-04-27 23:34:25.631:$ Thread:12 $ Adding to workload $ https://security.scut.edu.cn/cas/login
+2016-04-27 23:34:25.631:$ Thread:12 $ Parsing $ http://www.scut.edu.cn/index2011.html $ Successful
+2016-04-27 23:34:25.632:$ Thread:11 $ Complete $http://www.scut.edu.cn/index2011.html Successful $
+2016-04-27 23:34:25.632:$ Thread:11 $ Parsing $ http://www2.scut.edu.cn/scutnxq/ $ Successful
+2016-04-27 23:34:25.633:$ Thread:17 $ Connecting $http://www.scut.edu.cn/webpage/about.htm $ Successful
+2016-04-27 23:34:25.633:$ Thread:17 $ Complete $http://www2.scut.edu.cn/scutnxq/ Successful $
+2016-04-27 23:34:25.642:$ Thread:12 $ Connecting $http://www.scut.edu.cn/webpage/jg.htm $ Successful
+2016-04-27 23:34:25.645:$ Thread:17 $ Fetching $ http://www.scut.edu.cn/webpage/about.htm $ Successful
+2016-04-27 23:34:25.647:$ Thread:16 $ Adding to workload $ http://www.scut.edu.cn/webpage/about.htm
+2016-04-27 23:34:25.648:$ Thread:16 $ Adding to workload $ http://www.scut.edu.cn/webpage/jg.htm
+2016-04-27 23:34:25.649:$ Thread:11 $ Fetching $ http://www.scut.edu.cn/webpage/jg.htm $ Successful
+2016-04-27 23:34:25.655:$ Thread:11 $ Parsing $ http://www.scut.edu.cn/webpage/jg.htm $ Successful
+2016-04-27 23:34:25.656:$ Thread:11 $ Parsing $ http://www.scut.edu.cn/webpage/about.htm $ Successful
+2016-04-27 23:34:25.657:$ Thread:11 $ Complete $http://www.scut.edu.cn/webpage/about.htm Successful $
+2016-04-27 23:34:25.658:$ Thread:16 $ Connecting $http://www.scut.edu.cn/webpage/yj.htm $ Successful
+2016-04-27 23:34:25.658:$ Thread:17 $ Connecting $http://www.scut.edu.cn/webpage/group.htm $ Successful
+2016-04-27 23:34:25.658:$ Thread:12 $ Complete $http://www.scut.edu.cn/webpage/jg.htm Successful $
+2016-04-27 23:34:25.666:$ Thread:16 $ Fetching $ http://www.scut.edu.cn/webpage/yj.htm $ Successful
+2016-04-27 23:34:25.674:$ Thread:17 $ Adding to workload $ http://www.scut.edu.cn/webpage/group.htm
+2016-04-27 23:34:25.679:$ Thread:11 $ Adding to workload $ http://www2.scut.edu.cn/science/publish/news/keyanjigou/guojiagongchen/3jbo0443q53hvg.html
+2016-04-27 23:34:25.675:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/eemd/
+2016-04-27 23:34:25.679:$ Thread:17 $ Adding to workload $ http://www2.scut.edu.cn/science/publish/news/keyanjigou/guojiagongchen/3j39ib71gqctb0.html
+2016-04-27 23:34:25.680:$ Thread:11 $ Adding to workload $ http://www.scut.edu.cn/webpage/yj.htm
+2016-04-27 23:34:25.683:$ Thread:12 $ Complete $http://www.scut.edu.cn/webpage/yj.htm Successful $
+2016-04-27 23:34:25.683:$ Thread:12 $ Fetching $ http://www.scut.edu.cn/webpage/group.htm $ Successful
+2016-04-27 23:34:25.683:$ Thread:12 $ Connecting $http://www.scut.edu.cn/ $ Successful
+2016-04-27 23:34:25.684:$ Thread:16 $ Parsing $ http://www.scut.edu.cn/webpage/yj.htm $ Successful
+2016-04-27 23:34:25.687:$ Thread:16 $ Fetching $ http://www.scut.edu.cn/ $ Successful
+2016-04-27 23:34:25.688:$ Thread:15 $ Adding to workload $ http://www.scut.edu.cn/webpage/{link}
+2016-04-27 23:34:25.691:$ Thread:16 $ Parsing $ http://www.scut.edu.cn/webpage/group.htm $ Successful
+2016-04-27 23:34:25.691:$ Thread:11 $ Complete $http://www.scut.edu.cn/webpage/group.htm Successful $
+2016-04-27 23:34:25.694:$ Thread:12 $ Parsing $ http://www.scut.edu.cn/ $ Successful
+2016-04-27 23:34:25.695:$ Thread:16 $ Complete $http://www.scut.edu.cn/ Successful $
+2016-04-27 23:34:25.695:$ Thread:15 $ Connecting $http://www.scut.edu.cn/webpage/st.htm $ Successful
+2016-04-27 23:34:25.700:$ Thread:16 $ Fetching $ http://www.scut.edu.cn/webpage/st.htm $ Successful
+2016-04-27 23:34:25.703:$ Thread:11 $ Adding to workload $ http://www.scut.edu.cn/webpage/st.htm
+2016-04-27 23:34:25.704:$ Thread:11 $ Adding to workload $ http://www.lib.scut.edu.cn/
+2016-04-27 23:34:25.707:$ Thread:16 $ Connecting $http://www.lib.scut.edu.cn/ $ Successful
+2016-04-27 23:34:25.709:$ Thread:17 $ Parsing $ http://www.scut.edu.cn/webpage/st.htm $ Successful
+2016-04-27 23:34:25.711:$ Thread:15 $ Complete $http://www.scut.edu.cn/webpage/st.htm Successful $
+2016-04-27 23:34:25.712:$ Thread:16 $ Fetching $ http://www.lib.scut.edu.cn/ $ Successful
+2016-04-27 23:34:25.712:$ Thread:16 $ Parsing $ http://www.lib.scut.edu.cn/ $ Successful
+2016-04-27 23:34:25.713:$ Thread:17 $ Complete $http://www.lib.scut.edu.cn/ Successful $
+2016-04-27 23:34:25.714:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/s/135/t/141/p/1/c/4121/list.htm $ Successful
+2016-04-27 23:34:25.715:$ Thread:11 $ Connecting $http://www.scut.edu.cn/webpage/history.htm $ Successful
+2016-04-27 23:34:25.719:$ Thread:16 $ Fetching $ http://www2.scut.edu.cn/s/135/t/141/p/1/c/4121/list.htm $ Successful
+2016-04-27 23:34:25.722:$ Thread:15 $ Fetching $ http://www.scut.edu.cn/webpage/history.htm $ Successful
+2016-04-27 23:34:25.726:$ Thread:11 $ Adding to workload $ http://www2.scut.edu.cn/s/135/t/141/p/1/c/4121/list.htm
+2016-04-27 23:34:25.727:$ Thread:17 $ Adding to workload $ http://www.scut.edu.cn/webpage/history.htm
+2016-04-27 23:34:25.728:$ Thread:12 $ Parsing $ http://www.scut.edu.cn/webpage/history.htm $ Successful
+2016-04-27 23:34:25.729:$ Thread:17 $ Complete $http://www.scut.edu.cn/webpage/history.htm Successful $
+2016-04-27 23:34:25.730:$ Thread:17 $ Connecting $http://www.scut.edu.cn/webpage/logo.htm $ Successful
+2016-04-27 23:34:25.735:$ Thread:11 $ Fetching $ http://www.scut.edu.cn/webpage/logo.htm $ Successful
+2016-04-27 23:34:25.740:$ Thread:15 $ Adding to workload $ http://www.scut.edu.cn/webpage/logo.htm
+2016-04-27 23:34:25.742:$ Thread:12 $ Parsing $ http://www.scut.edu.cn/webpage/logo.htm $ Successful
+2016-04-27 23:34:25.742:$ Thread:15 $ Complete $http://www.scut.edu.cn/webpage/logo.htm Successful $
+2016-04-27 23:34:25.744:$ Thread:12 $ Adding to workload $ http://www2.scut.edu.cn/s/135/t/141/p/1/c/4121/d/4122/list.htm
+2016-04-27 23:34:25.744:$ Thread:11 $ Connecting $http://www.scut.edu.cn/webpage/leaders.htm $ Successful
+2016-04-27 23:34:25.745:$ Thread:11 $ Adding to workload $ http://www2.scut.edu.cn/s/135/t/141/p/1/c/4121/d/4569/list.htm
+2016-04-27 23:34:25.746:$ Thread:11 $ Adding to workload $ http://www2.scut.edu.cn/s/135/t/141/p/1/c/4121/d/4571/list.htm
+2016-04-27 23:34:25.747:$ Thread:17 $ Adding to workload $ http://www2.scut.edu.cn/s/135/t/141/p/1/c/4121/d/6429/list.htm
+2016-04-27 23:34:25.747:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/135/t/141/main.htm
+2016-04-27 23:34:25.748:$ Thread:11 $ Adding to workload $ http://www2.scut.edu.cn/s/135/t/141/a1/3a/info106810.htm
+2016-04-27 23:34:25.749:$ Thread:11 $ Adding to workload $ http://www2.scut.edu.cn/s/135/t/141/0c/34/info134196.htm
+2016-04-27 23:34:25.749:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/135/t/141/a7/d7/info108503.htm
+2016-04-27 23:34:25.749:$ Thread:17 $ Adding to workload $ http://www2.scut.edu.cn/s/135/t/141/e2/2c/info123436.htm
+2016-04-27 23:34:25.750:$ Thread:11 $ Parseing $ http://www2.scut.edu.cn/s/135/t/141/p/1/c/4121/list.htmError $Found malformed URL: javascript:if(true){gotourl='/s/135/t/141/p/1/c/4121/i//list.htm';location.href=gotourl.replace('i/','i/'+document.all('pageindex_pdt').value)}
+2016-04-27 23:34:25.750:$ Thread:15 $ Connecting $http://www.scut.edu.cn/webpage/view.htm $ Successful
+2016-04-27 23:34:25.751:$ Thread:15 $ Parsing $ http://www2.scut.edu.cn/s/135/t/141/p/1/c/4121/list.htm $ Successful
+2016-04-27 23:34:25.751:$ Thread:11 $ Complete $http://www2.scut.edu.cn/s/135/t/141/p/1/c/4121/list.htm Successful $
+2016-04-27 23:34:25.754:$ Thread:17 $ Fetching $ http://www.scut.edu.cn/webpage/leaders.htm $ Successful
+2016-04-27 23:34:25.755:$ Thread:12 $ Adding to workload $ http://www.scut.edu.cn/webpage/leaders.htm
+2016-04-27 23:34:25.756:$ Thread:12 $ Adding to workload $ http://www.scut.edu.cn/webpage/view.htm
+2016-04-27 23:34:25.756:$ Thread:12 $ Adding to workload $ http://map.scut.edu.cn/
+2016-04-27 23:34:25.758:$ Thread:12 $ Fetching $ http://www.scut.edu.cn/webpage/view.htm $ Successful
+2016-04-27 23:34:25.761:$ Thread:16 $ Parsing $ http://www.scut.edu.cn/webpage/leaders.htm $ Successful
+2016-04-27 23:34:25.761:$ Thread:15 $ Complete $http://www.scut.edu.cn/webpage/leaders.htm Successful $
+2016-04-27 23:34:25.762:$ Thread:16 $ Connecting $http://www.scut.edu.cn/xsg $ Successful
+2016-04-27 23:34:25.765:$ Thread:17 $ Connecting $http://map.scut.edu.cn/ $ Successful
+2016-04-27 23:34:25.771:$ Thread:11 $ Parsing $ http://www.scut.edu.cn/webpage/view.htm $ Successful
+2016-04-27 23:34:25.772:$ Thread:12 $ Complete $http://www.scut.edu.cn/webpage/view.htm Successful $
+2016-04-27 23:34:25.776:$ Thread:12 $ Connecting $http://www.scut.edu.cn/academic/ $ Successful
+2016-04-27 23:34:25.777:$ Thread:12 $ Fetching $ http://www.scut.edu.cn/xsg $ Successful
+2016-04-27 23:34:25.777:$ Thread:11 $ Parsing $ http://www.scut.edu.cn/xsg $ Successful
+2016-04-27 23:34:25.780:$ Thread:12 $ Complete $http://www.scut.edu.cn/xsg Successful $
+2016-04-27 23:34:25.780:$ Thread:15 $ Connecting $http://www.scut.edu.cn/graduate/ $ Successful
+2016-04-27 23:34:25.782:$ Thread:15 $ Fetching $ http://www.scut.edu.cn/academic/ $ Successful
+2016-04-27 23:34:25.782:$ Thread:11 $ Adding to workload $ http://www.scut.edu.cn/academic/blank.htm
+2016-04-27 23:34:25.783:$ Thread:11 $ Parsing $ http://www.scut.edu.cn/academic/ $ Successful
+2016-04-27 23:34:25.784:$ Thread:11 $ Connecting $http://www.scut.edu.cn/sie/ $ Successful
+2016-04-27 23:34:25.785:$ Thread:15 $ Complete $http://www.scut.edu.cn/academic/ Successful $
+2016-04-27 23:34:25.797:$ Thread:12 $ Fetching $ http://www.scut.edu.cn/graduate/ $ Successful
+2016-04-27 23:34:25.802:$ Thread:16 $ Fetching $ http://www.scut.edu.cn/sie/ $ Successful
+2016-04-27 23:34:25.802:$ Thread:11 $ Adding to workload $ http://www.scut.edu.cn/sie/blank.htm
+2016-04-27 23:34:25.803:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/sie-cn/
+2016-04-27 23:34:25.804:$ Thread:16 $ Parsing $ http://www.scut.edu.cn/graduate/ $ Successful
+2016-04-27 23:34:25.804:$ Thread:11 $ Parsing $ http://www.scut.edu.cn/sie/ $ Successful
+2016-04-27 23:34:25.804:$ Thread:11 $ Complete $http://www.scut.edu.cn/graduate/ Successful $
+2016-04-27 23:34:25.805:$ Thread:11 $ Complete $http://www.scut.edu.cn/sie/ Successful $
+2016-04-27 23:34:25.805:$ Thread:11 $ Connecting $http://www.scut.edu.cn/e-online/ $ Successful
+2016-04-27 23:34:25.806:$ Thread:11 $ Connecting $http://www.scut.edu.cn/course/ $ Successful
+2016-04-27 23:34:25.809:$ Thread:16 $ Fetching $ http://www.scut.edu.cn/e-online/ $ Successful
+2016-04-27 23:34:25.809:$ Thread:15 $ Parsing $ http://www.scut.edu.cn/e-online/ $ Successful
+2016-04-27 23:34:25.811:$ Thread:11 $ Fetching $ http://www.scut.edu.cn/course/ $ Successful
+2016-04-27 23:34:25.810:$ Thread:16 $ Complete $http://www.scut.edu.cn/e-online/ Successful $
+2016-04-27 23:34:25.812:$ Thread:16 $ Parsing $ http://www.scut.edu.cn/course/ $ Successful
+2016-04-27 23:34:25.810:$ Thread:12 $ Connecting $http://www.scut.edu.cn/webpage/magazine.htm $ Successful
+2016-04-27 23:34:25.812:$ Thread:11 $ Adding to workload $ http://www.scut.edu.cn/course/blank.html
+2016-04-27 23:34:25.813:$ Thread:11 $ Complete $http://www.scut.edu.cn/course/ Successful $
+2016-04-27 23:34:25.813:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/science/ $ Successful
+2016-04-27 23:34:25.819:$ Thread:15 $ Fetching $ http://www2.scut.edu.cn/science/ $ Successful
+2016-04-27 23:34:25.820:$ Thread:15 $ Adding to workload $ http://www.scut.edu.cn/webpage/magazine.htm
+2016-04-27 23:34:25.822:$ Thread:12 $ Fetching $ http://www.scut.edu.cn/webpage/magazine.htm $ Successful
+2016-04-27 23:34:25.822:$ Thread:12 $ Adding to workload $ http://www2.scut.edu.cn/science/
+2016-04-27 23:34:25.824:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/41/main.htm
+2016-04-27 23:34:25.825:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/p/1/c/712/list.htm
+2016-04-27 23:34:25.828:$ Thread:15 $ Adding to workload $ http://www.scut.edu.cn/xuebao
+2016-04-27 23:34:25.828:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/p/1/c/715/list.htm
+2016-04-27 23:34:25.829:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/p/1/c/716/list.htm
+2016-04-27 23:34:25.829:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/p/1/c/717/list.htm
+2016-04-27 23:34:25.829:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/p/1/c/718/list.htm
+2016-04-27 23:34:25.829:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/p/1/c/714/list.htm
+2016-04-27 23:34:25.830:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/p/1/c/720/list.htm
+2016-04-27 23:34:25.830:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/p/1/c/726/list.htm
+2016-04-27 23:34:25.838:$ Thread:15 $ Fetching $ http://map.scut.edu.cn/ $ Successful
+2016-04-27 23:34:25.839:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/p/1/c/721/list.htm
+2016-04-27 23:34:25.839:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/p/1/c/712/d/2789/list.htm
+2016-04-27 23:34:25.840:$ Thread:15 $ Adding to workload $ https://cas.scut.edu.cn/amserver/ui/login?goto=http%3a%2f%2fkygl.7i2.cas.scut.edu.cn%2fbusiness%2fssologin.jsp
+2016-04-27 23:34:25.831:$ Thread:12 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/p/1/c/713/list.htm
+2016-04-27 23:34:25.841:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/p/11/list.htm
+2016-04-27 23:34:25.848:$ Thread:12 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/p/1/c/722/list.htm
+2016-04-27 23:34:25.849:$ Thread:15 $ Parseing $ http://map.scut.edu.cn/Error $Found malformed URL: javascript:smallmapsearch.doindexpagenavgsearch(1,'82');
+2016-04-27 23:34:25.849:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/p/14/list.htm
+2016-04-27 23:34:25.849:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/59/1f/info22815.htm
+2016-04-27 23:34:25.849:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/59/21/info22817.htm
+2016-04-27 23:34:25.850:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/59/20/info22816.htm
+2016-04-27 23:34:25.850:$ Thread:12 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/59/1e/info22814.htm
+2016-04-27 23:34:25.850:$ Thread:12 $ Connecting $http://www.scut.edu.cn/houqin $ Successful
+2016-04-27 23:34:25.850:$ Thread:12 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/59/22/info22818.htm
+2016-04-27 23:34:25.851:$ Thread:12 $ Parseing $ http://map.scut.edu.cn/Error $Found malformed URL: javascript:smallmapsearch.doindexpagenavgsearch(1,'81');
+2016-04-27 23:34:25.852:$ Thread:11 $ Adding to workload $ http://sites.scut.edu.cn
+2016-04-27 23:34:25.852:$ Thread:12 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/ab/94/info109460.htm
+2016-04-27 23:34:25.853:$ Thread:12 $ Parsing $ http://www.scut.edu.cn/webpage/magazine.htm $ Successful
+2016-04-27 23:34:25.853:$ Thread:11 $ Connecting $http://www.scut.edu.cn/security/ $ Successful
+2016-04-27 23:34:25.858:$ Thread:12 $ Complete $http://www.scut.edu.cn/webpage/magazine.htm Successful $
+2016-04-27 23:34:25.860:$ Thread:11 $ Fetching $ http://www.scut.edu.cn/security/ $ Successful
+2016-04-27 23:34:25.862:$ Thread:12 $ Adding to workload $ http://www.scut.edu.cn/security/blank.htm
+2016-04-27 23:34:25.862:$ Thread:12 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/0b/d9/info134105.htm
+2016-04-27 23:34:25.869:$ Thread:15 $ Complete $http://www.scut.edu.cn/security/ Successful $
+2016-04-27 23:34:25.870:$ Thread:11 $ Parseing $ http://map.scut.edu.cn/Error $Found malformed URL: javascript:;
+2016-04-27 23:34:25.870:$ Thread:11 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/p/15/list.htm
+2016-04-27 23:34:25.870:$ Thread:11 $ Parsing $ http://www.scut.edu.cn/security/ $ Successful
+2016-04-27 23:34:25.870:$ Thread:11 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/0c/15/info134165.htm
+2016-04-27 23:34:25.871:$ Thread:11 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/0c/35/info134197.htm
+2016-04-27 23:34:25.872:$ Thread:12 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/main.htm $ Successful
+2016-04-27 23:34:25.873:$ Thread:12 $ Fetching $ http://www2.scut.edu.cn/s/56/t/402/main.htm $ Successful
+2016-04-27 23:34:25.880:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/e4/0b/info123915.htm
+2016-04-27 23:34:25.880:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/dd/c0/info122304.htm
+2016-04-27 23:34:25.882:$ Thread:12 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/a4/93/info107667.htm
+2016-04-27 23:34:25.888:$ Thread:12 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/a2/ee/info107246.htm
+2016-04-27 23:34:25.888:$ Thread:17 $ Fetching $ http://www.scut.edu.cn/webpage/hotnews.htm $ Error: get InputStream failed
+2016-04-27 23:34:25.888:$ Thread:12 $ Connecting $http://web.scut.edu.cn/ $ Successful
+2016-04-27 23:34:25.889:$ Thread:12 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/a2/f0/info107248.htm
+2016-04-27 23:34:25.890:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/a2/f4/info107252.htm
+2016-04-27 23:34:25.891:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/a2/f8/info107256.htm
+2016-04-27 23:34:25.893:$ Thread:17 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/a2/fb/info107259.htm
+2016-04-27 23:34:25.893:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/a3/00/info107264.htm
+2016-04-27 23:34:25.894:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/picture/article/43/86/69/4dced07041169a5f67231f034e23/ad46ff08-6b4d-4f82-a23a-05c25921707d.doc
+2016-04-27 23:34:25.894:$ Thread:15 $ Adding to workload $ http://sites.scut.edu.cn/picture/article/43/be/eb/1e7da9c141ecb77eeceaed400663/d9e0401f-2831-487f-bf88-f4f104674601.doc
+2016-04-27 23:34:25.894:$ Thread:15 $ Adding to workload $ http://sites.scut.edu.cn/picture/article/43/6e/a3/298a08064e548089b74136ed59aa/5f2c8645-5734-4c06-a891-8a4f82f90282.doc
+2016-04-27 23:34:25.894:$ Thread:15 $ Adding to workload $ http://sites.scut.edu.cn/picture/article/43/83/f0/8e860b0c445cbe1f8eb85c0d8925/1705e895-0019-4025-84c9-dae21e55d51c.doc
+2016-04-27 23:34:25.894:$ Thread:15 $ Adding to workload $ http://news.scut.edu.cn/s/22/t/7/72/3d/info29245.htm
+2016-04-27 23:34:25.894:$ Thread:15 $ Adding to workload $ http://sites.scut.edu.cn/picture/article/56/73/ff/b9f0fa42499ea215461214d254e0/00de7a73-2429-43e2-8d72-7887c74fa0b0.doc
+2016-04-27 23:34:25.895:$ Thread:15 $ Adding to workload $ http://news.scut.edu.cn/s/22/t/7/72/13/info29203.htm
+2016-04-27 23:34:25.895:$ Thread:15 $ Adding to workload $ http://sites.scut.edu.cn/picture/article/56/a2/6b/a698d404444d92438e7ea39fa738/1863c5c8-7ff6-4630-be73-2997479a8bfe.doc
+2016-04-27 23:34:25.895:$ Thread:17 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/c1/5b/info115035.htm
+2016-04-27 23:34:25.895:$ Thread:17 $ Adding to workload $ http://sites.scut.edu.cn/picture/article/56/4e/ad/e74e039f4ff1bc77d493d9d147e0/c3c644e7-ce51-43bb-b56f-96db2b94d07d.doc
+2016-04-27 23:34:25.895:$ Thread:17 $ Adding to workload $ http://sites.scut.edu.cn/picture/article/43/25/ea/6e16b2eb4920aec8f899d7f81f8b/c516ad1b-a624-44e2-b27f-4f18ace7a640.doc
+2016-04-27 23:34:25.896:$ Thread:17 $ Adding to workload $ http://sites.scut.edu.cn/picture/article/43/7c/e7/aa1806ac40878d7f7b0b0c4d1111/3eb5c7b4-5277-4a7d-97b4-fb9552485664.doc
+2016-04-27 23:34:25.896:$ Thread:17 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/0c/a6/info134310.htm
+2016-04-27 23:34:25.896:$ Thread:17 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/p/20/list.htm
+2016-04-27 23:34:25.900:$ Thread:15 $ Adding to workload $ http://news.scut.edu.cn/s/22/t/4/71/cb/info29131.htm
+2016-04-27 23:34:25.900:$ Thread:12 $ Adding to workload $ http://sites.scut.edu.cn/picture/article/56/b5/44/26e7d3a34a0891ff0650e2762145/7f5b34e1-1422-4d83-bc2f-65b25b9e0041.rar
+2016-04-27 23:34:25.901:$ Thread:12 $ Adding to workload $ http://web.scut.edu.cn/s/39/t/13/50/47/info20551.htm
+2016-04-27 23:34:25.901:$ Thread:15 $ Adding to workload $ http://web.scut.edu.cn/s/39/t/13/50/42/info20546.htm
+2016-04-27 23:34:25.901:$ Thread:15 $ Adding to workload $ http://web.scut.edu.cn/s/39/t/13/50/41/info20545.htm
+2016-04-27 23:34:25.902:$ Thread:15 $ Adding to workload $ http://web.scut.edu.cn/s/39/t/13/50/51/info20561.htm
+2016-04-27 23:34:25.902:$ Thread:12 $ Complete $http://www2.scut.edu.cn/s/56/t/402/main.htm Successful $
+2016-04-27 23:34:25.902:$ Thread:12 $ Connecting $http://webmail.scut.edu.cn/scutmail/cmcu_var/index_scut.jsp $ Successful
+2016-04-27 23:34:25.903:$ Thread:16 $ Parseing $ http://web.scut.edu.cn/Error $Found malformed URL: javascript:void(0)
+2016-04-27 23:34:25.903:$ Thread:16 $ Parsing $ http://www2.scut.edu.cn/science/ $ Successful
+2016-04-27 23:34:25.907:$ Thread:12 $ Complete $http://www2.scut.edu.cn/science/ Successful $
+2016-04-27 23:34:25.908:$ Thread:16 $ Adding to workload $ http://web.scut.edu.cn/s/39/t/13/09/71/info133489.htm
+2016-04-27 23:34:25.909:$ Thread:17 $ Adding to workload $ http://web.scut.edu.cn/s/39/t/13/06/06/info132614.htm
+2016-04-27 23:34:25.910:$ Thread:17 $ Adding to workload $ http://web.scut.edu.cn/s/39/t/68/a/72905/info.jspy
+2016-04-27 23:34:25.910:$ Thread:17 $ Parsing $ http://web.scut.edu.cn/ $ Successful
+2016-04-27 23:34:25.910:$ Thread:17 $ Adding to workload $ http://www3.scut.edu.cn/cxpt/
+2016-04-27 23:34:25.910:$ Thread:17 $ Complete $http://web.scut.edu.cn/ Successful $
+2016-04-27 23:34:25.911:$ Thread:17 $ Adding to workload $ http://service.scut.edu.cn/appflow/
+2016-04-27 23:34:25.911:$ Thread:17 $ Connecting $http://www2.scut.edu.cn/s/27/t/3/p/1/c/23/list.htm $ Successful
+2016-04-27 23:34:25.911:$ Thread:17 $ Fetching $ http://mapp.scut.edu.cn/ $ Successful
+2016-04-27 23:34:25.915:$ Thread:15 $ Adding to workload $ http://web.scut.edu.cn/s/39/t/13/07/66/info132966.htm
+2016-04-27 23:34:25.915:$ Thread:11 $ Parseing $ http://mapp.scut.edu.cn/Error $Found malformed URL: javascript:;
+2016-04-27 23:34:25.915:$ Thread:11 $ Fetching $ http://www2.scut.edu.cn/s/27/t/3/p/1/c/23/list.htm $ Successful
+2016-04-27 23:34:25.916:$ Thread:16 $ Connecting $http://www2.scut.edu.cn/s/27/t/3/p/1/c/26/list.htm $ Successful
+2016-04-27 23:34:25.932:$ Thread:16 $ Fetching $ http://webmail.scut.edu.cn/scutmail/cmcu_var/index_scut.jsp $ Successful
+2016-04-27 23:34:25.932:$ Thread:16 $ Fetching $ http://webmail.scut.edu.cn/scutmail/index.jsp?locale=en_us $ Successful
+2016-04-27 23:34:25.932:$ Thread:16 $ Parsing $ http://webmail.scut.edu.cn/scutmail/cmcu_var/index_scut.jsp $ Successful
+2016-04-27 23:34:25.936:$ Thread:17 $ Complete $http://webmail.scut.edu.cn/scutmail/cmcu_var/index_scut.jsp Successful $
+2016-04-27 23:34:25.936:$ Thread:11 $ Parsing $ http://mapp.scut.edu.cn/ $ Successful
+2016-04-27 23:34:25.936:$ Thread:12 $ Adding to workload $ http://mapp.scut.edu.cn/
+2016-04-27 23:34:25.937:$ Thread:12 $ Connecting $http://en.scut.edu.cn/new/feature.jsp?topid=63&directoryid=63 $ Successful
+2016-04-27 23:34:25.937:$ Thread:12 $ Connecting $http://www2.scut.edu.cn/s/27/t/3/p/2/c/66/list.htm $ Successful
+2016-04-27 23:34:25.937:$ Thread:12 $ Connecting $http://www2.scut.edu.cn/s/27/t/3/p/2/c/65/list.htm $ Successful
+2016-04-27 23:34:25.938:$ Thread:16 $ Complete $http://mapp.scut.edu.cn/ Successful $
+2016-04-27 23:34:25.936:$ Thread:15 $ Complete $http://webmail.scut.edu.cn/scutmail/index.jsp?locale=en_us Successful $
+2016-04-27 23:34:25.939:$ Thread:15 $ Fetching $ http://www2.scut.edu.cn/s/27/t/3/p/2/c/65/list.htm $ Successful
+2016-04-27 23:34:25.939:$ Thread:15 $ Parsing $ http://webmail.scut.edu.cn/scutmail/index.jsp?locale=en_us $ Successful
+2016-04-27 23:34:25.940:$ Thread:15 $ Parsing $ http://www2.scut.edu.cn/s/27/t/3/p/1/c/23/list.htm $ Successful
+2016-04-27 23:34:25.944:$ Thread:15 $ Fetching $ http://www.scut.edu.cn/areabooking/ $ Successful
+2016-04-27 23:34:25.944:$ Thread:17 $ Complete $http://www2.scut.edu.cn/s/27/t/3/p/1/c/23/list.htm Successful $
+2016-04-27 23:34:25.944:$ Thread:17 $ Fetching $ http://www2.scut.edu.cn/s/27/t/3/p/2/c/66/list.htm $ Successful
+2016-04-27 23:34:25.949:$ Thread:12 $ Connecting $http://www2.scut.edu.cn/scutnxq/ $ Successful
+2016-04-27 23:34:25.958:$ Thread:16 $ Connecting $http://en.scut.edu.cn/index.jsp $ Successful
+2016-04-27 23:34:25.961:$ Thread:16 $ Fetching $ http://en.scut.edu.cn/new/feature.jsp?topid=63&directoryid=63 $ Successful
+2016-04-27 23:34:25.962:$ Thread:16 $ Parsing $ http://en.scut.edu.cn/new/feature.jsp?topid=63&directoryid=63 $ Successful
+2016-04-27 23:34:25.965:$ Thread:15 $ Complete $http://en.scut.edu.cn/new/feature.jsp?topid=63&directoryid=63 Successful $
+2016-04-27 23:34:25.966:$ Thread:15 $ Parsing $ http://www2.scut.edu.cn/s/27/t/3/p/2/c/66/list.htm $ Successful
+2016-04-27 23:34:25.971:$ Thread:12 $ Complete $http://www2.scut.edu.cn/s/27/t/3/p/2/c/66/list.htm Successful $
+2016-04-27 23:34:25.973:$ Thread:16 $ Fetching $ http://en.scut.edu.cn/index.jsp $ Successful
+2016-04-27 23:34:25.983:$ Thread:16 $ Fetching $ http://en.scut.edu.cn/aboutscut/introducing.jsp $ Error: get InputStream failed
+2016-04-27 23:34:25.991:$ Thread:11 $ Fetching $ http://en.scut.edu.cn/aboutscut/factsfigures.jsp $ Error: get InputStream failed
+2016-04-27 23:34:25.995:$ Thread:11 $ Connecting $http://en.scut.edu.cn/aboutscut/maps.jsp $ Successful
+2016-04-27 23:34:25.997:$ Thread:16 $ Fetching $ http://en.scut.edu.cn/aboutscut/governance.jsp $ Error: get InputStream failed
+2016-04-27 23:34:26.002:$ Thread:17 $ Fetching $ http://en.scut.edu.cn/aboutscut/maps.jsp $ Error: get InputStream failed
+2016-04-27 23:34:26.002:$ Thread:11 $ Connecting $http://en.scut.edu.cn/aboutscut/jobs.jsp $ Successful
+2016-04-27 23:34:26.007:$ Thread:11 $ Connecting $http://en.scut.edu.cn/news/newsevents.jsp $ Successful
+2016-04-27 23:34:26.010:$ Thread:17 $ Fetching $ http://en.scut.edu.cn/aboutscut/stafffaculty.jsp $ Error: get InputStream failed
+2016-04-27 23:34:26.014:$ Thread:17 $ Fetching $ http://en.scut.edu.cn/aboutscut/jobs.jsp $ Error: get InputStream failed
+2016-04-27 23:34:26.025:$ Thread:16 $ Connecting $http://en.scut.edu.cn/teaching/undergraduate.jsp $ Successful
+2016-04-27 23:34:26.033:$ Thread:12 $ Parsing $ http://en.scut.edu.cn/ $ Successful
+2016-04-27 23:34:26.072:$ Thread:12 $ Connecting $http://en.scut.edu.cn/research/overview.jsp $ Successful
+2016-04-27 23:34:26.089:$ Thread:16 $ Fetching $ http://www2.scut.edu.cn/sie-en/ $ Successful
+2016-04-27 23:34:26.089:$ Thread:16 $ Connecting $http://www2.scut.edu.cn/sie-en/ $ Successful
+2016-04-27 23:34:26.089:$ Thread:17 $ Parsing $ http://www2.scut.edu.cn/scutnxq/ $ Successful
+2016-04-27 23:34:26.089:$ Thread:17 $ Complete $http://www2.scut.edu.cn/scutnxq/ Successful $
+2016-04-27 23:34:26.092:$ Thread:16 $ Fetching $ http://en.scut.edu.cn/news/academic.jsp $ Successful
+2016-04-27 23:34:26.114:$ Thread:11 $ Fetching $ http://en.scut.edu.cn/teaching/undergraduate.jsp $ Successful
+2016-04-27 23:34:26.116:$ Thread:11 $ Parsing $ http://en.scut.edu.cn/news/academic.jsp $ Successful
+2016-04-27 23:34:26.121:$ Thread:11 $ Complete $http://en.scut.edu.cn/news/academic.jsp Successful $
+2016-04-27 23:34:26.127:$ Thread:15 $ Connecting $http://en.scut.edu.cn/research/researchservices.jsp $ Successful
+2016-04-27 23:34:26.142:$ Thread:11 $ Fetching $ http://en.scut.edu.cn/research/overview.jsp $ Successful
+2016-04-27 23:34:26.143:$ Thread:11 $ Parsing $ http://en.scut.edu.cn/research/overview.jsp $ Successful
+2016-04-27 23:34:26.152:$ Thread:16 $ Fetching $ http://en.scut.edu.cn/research/funds.jsp $ Successful
+2016-04-27 23:34:26.152:$ Thread:11 $ Parsing $ http://en.scut.edu.cn/research/funds.jsp $ Successful
+2016-04-27 23:34:26.153:$ Thread:11 $ Complete $http://en.scut.edu.cn/research/funds.jsp Successful $
+2016-04-27 23:34:26.153:$ Thread:11 $ Connecting $http://en.scut.edu.cn/library/history.jsp $ Successful
+2016-04-27 23:34:26.162:$ Thread:15 $ Connecting $http://en.scut.edu.cn/library/interlibraryloan.jsp $ Successful
+2016-04-27 23:34:26.164:$ Thread:17 $ Fetching $ http://en.scut.edu.cn/research/labsoverview.jsp $ Error: get InputStream failed
+2016-04-27 23:34:26.168:$ Thread:17 $ Complete $http://en.scut.edu.cn/research/overview.jsp Successful $
+2016-04-27 23:34:26.181:$ Thread:11 $ Fetching $ http://en.scut.edu.cn/research/paper.jsp $ Successful
+2016-04-27 23:34:26.185:$ Thread:15 $ Connecting $http://en.scut.edu.cn/life/student_organizations.jsp $ Successful
+2016-04-27 23:34:26.189:$ Thread:15 $ Fetching $ http://en.scut.edu.cn/life/athleticsrecreation.jsp $ Error: get InputStream failed
+2016-04-27 23:34:26.190:$ Thread:16 $ Connecting $http://en.scut.edu.cn/life/local_resources.jsp $ Successful
+2016-04-27 23:34:26.199:$ Thread:17 $ Fetching $ http://en.scut.edu.cn/library/history.jsp $ Successful
+2016-04-27 23:34:26.201:$ Thread:11 $ Connecting $http://en.scut.edu.cn/life/servicesfacilities.jsp $ Successful
+2016-04-27 23:34:26.201:$ Thread:15 $ Fetching $ http://en.scut.edu.cn/life/local_resources.jsp $ Error: get InputStream failed
+2016-04-27 23:34:26.208:$ Thread:11 $ Parsing $ http://en.scut.edu.cn/library/history.jsp $ Successful
+2016-04-27 23:34:26.209:$ Thread:11 $ Connecting $http://en.scut.edu.cn/relations/overview.jsp $ Successful
+2016-04-27 23:34:26.211:$ Thread:15 $ Fetching $ http://en.scut.edu.cn/life/student_organizations.jsp $ Error: get InputStream failed
+2016-04-27 23:34:26.212:$ Thread:15 $ Fetching $ http://en.scut.edu.cn/relations/overview.jsp $ Error: get InputStream failed
+2016-04-27 23:34:26.218:$ Thread:15 $ Connecting $http://www2.scut.edu.cn/s/56/t/132/main.htm $ Successful
+2016-04-27 23:34:26.227:$ Thread:11 $ Fetching $ http://www2.scut.edu.cn/s/56/t/136/main.htm $ Successful
+2016-04-27 23:34:26.232:$ Thread:16 $ Parsing $ http://www2.scut.edu.cn/s/56/t/136/main.htm $ Successful
+2016-04-27 23:34:26.240:$ Thread:16 $ Connecting $http://en.scut.edu.cn/relations/contacts.jsp $ Successful
+2016-04-27 23:34:26.251:$ Thread:15 $ Fetching $ http://www2.scut.edu.cn/s/56/t/131/main.htm $ Successful
+2016-04-27 23:34:26.256:$ Thread:17 $ Fetching $ http://en.scut.edu.cn/life/servicesfacilities.jsp $ Successful
+2016-04-27 23:34:26.256:$ Thread:15 $ Fetching $ http://en.scut.edu.cn/alumni/introduction.jsp $ Error: get InputStream failed
+2016-04-27 23:34:26.256:$ Thread:15 $ Connecting $http://en.scut.edu.cn/alumni/regulations.jsp $ Successful
+2016-04-27 23:34:26.257:$ Thread:15 $ Fetching $ http://en.scut.edu.cn/relations/contacts.jsp $ Error: get InputStream failed
+2016-04-27 23:34:26.257:$ Thread:15 $ Connecting $http://en.scut.edu.cn/alumni/introduction.jsp $ Successful
+2016-04-27 23:34:26.257:$ Thread:15 $ Fetching $ http://en.scut.edu.cn/relations/internationalpartners.jsp $ Error: get InputStream failed
+2016-04-27 23:34:26.257:$ Thread:15 $ Connecting $http://www2.scut.edu.cn/s/56/t/131/main.htm $ Successful
+2016-04-27 23:34:26.257:$ Thread:15 $ Connecting $http://en.scut.edu.cn/relations/internationalpartners.jsp $ Successful
+2016-04-27 23:34:26.257:$ Thread:15 $ Fetching $ http://en.scut.edu.cn/relations/studentsprograms.jsp $ Error: get InputStream failed
+2016-04-27 23:34:26.257:$ Thread:15 $ Complete $http://www2.scut.edu.cn/s/56/t/136/main.htm Successful $
+2016-04-27 23:34:26.258:$ Thread:15 $ Fetching $ http://en.scut.edu.cn/life/campus_gallery.jsp $ Error: get InputStream failed
+2016-04-27 23:34:26.260:$ Thread:17 $ Connecting $http://www2.scut.edu.cn/s/56/t/136/main.htm $ Successful
+2016-04-27 23:34:26.260:$ Thread:12 $ Connecting $http://en.scut.edu.cn/relations/studentsprograms.jsp $ Successful
+2016-04-27 23:34:26.260:$ Thread:17 $ Fetching $ http://en.scut.edu.cn/alumni/regulations.jsp $ Error: get InputStream failed
+2016-04-27 23:34:26.260:$ Thread:17 $ Parsing $ http://www2.scut.edu.cn/sie-en/ $ Successful
+2016-04-27 23:34:26.261:$ Thread:12 $ Complete $http://www2.scut.edu.cn/sie-en/ Successful $
+2016-04-27 23:34:26.261:$ Thread:15 $ Fetching $ http://www2.scut.edu.cn/s/56/t/132/main.htm $ Successful
+2016-04-27 23:34:26.261:$ Thread:11 $ Connecting $http://en.scut.edu.cn/alumni/mission.jsp $ Successful
+2016-04-27 23:34:26.262:$ Thread:11 $ Connecting $http://en.scut.edu.cn/alumni/structure.jsp $ Successful
+2016-04-27 23:34:26.262:$ Thread:11 $ Parsing $ http://www2.scut.edu.cn/s/56/t/132/main.htm $ Successful
+2016-04-27 23:34:26.265:$ Thread:17 $ Complete $http://www2.scut.edu.cn/s/56/t/132/main.htm Successful $
+2016-04-27 23:34:26.266:$ Thread:12 $ Connecting $http://en.scut.edu.cn/alumni/spotlights.jsp $ Successful
+2016-04-27 23:34:26.268:$ Thread:15 $ Fetching $ http://en.scut.edu.cn/alumni/structure.jsp $ Error: get InputStream failed
+2016-04-27 23:34:26.268:$ Thread:15 $ Connecting $http://en.scut.edu.cn/alumni/branches.jsp $ Successful
+2016-04-27 23:34:26.268:$ Thread:15 $ Fetching $ http://en.scut.edu.cn/alumni/mission.jsp $ Error: get InputStream failed
+2016-04-27 23:34:26.276:$ Thread:15 $ Fetching $ http://en.scut.edu.cn/alumni/spotlights.jsp $ Error: get InputStream failed
+2016-04-27 23:34:26.276:$ Thread:17 $ Parsing $ http://www2.scut.edu.cn/s/56/t/131/main.htm $ Successful
+2016-04-27 23:34:26.276:$ Thread:15 $ Connecting $http://en.scut.edu.cn/alumni/service.jsp $ Successful
+2016-04-27 23:34:26.276:$ Thread:17 $ Complete $http://en.scut.edu.cn/life/servicesfacilities.jsp Successful $
+2016-04-27 23:34:26.276:$ Thread:15 $ Parsing $ http://en.scut.edu.cn/life/servicesfacilities.jsp $ Successful
+2016-04-27 23:34:26.276:$ Thread:17 $ Complete $http://en.scut.edu.cn/library/history.jsp Successful $
+2016-04-27 23:34:26.276:$ Thread:15 $ Connecting $http://en.scut.edu.cn/life/campus_gallery.jsp $ Successful
+2016-04-27 23:34:26.276:$ Thread:17 $ Complete $http://en.scut.edu.cn/research/journals.jsp Successful $
+2016-04-27 23:34:26.277:$ Thread:17 $ Fetching $ http://en.scut.edu.cn/library/e-resources.jsp $ Error: get InputStream failed
+2016-04-27 23:34:26.277:$ Thread:15 $ Parsing $ http://en.scut.edu.cn/research/journals.jsp $ Successful
+2016-04-27 23:34:26.277:$ Thread:16 $ Complete $http://en.scut.edu.cn/research/paper.jsp Successful $
+2016-04-27 23:34:26.277:$ Thread:16 $ Parsing $ http://en.scut.edu.cn/research/paper.jsp $ Successful
+2016-04-27 23:34:26.277:$ Thread:16 $ Fetching $ http://en.scut.edu.cn/library/interlibraryloan.jsp $ Error: get InputStream failed
+2016-04-27 23:34:26.277:$ Thread:16 $ Fetching $ http://en.scut.edu.cn/research/journals.jsp $ Successful
+2016-04-27 23:34:26.277:$ Thread:16 $ Connecting $http://en.scut.edu.cn/research/labsoverview.jsp $ Successful
+2016-04-27 23:34:26.277:$ Thread:16 $ Fetching $ http://en.scut.edu.cn/research/researchservices.jsp $ Error: get InputStream failed
+2016-04-27 23:34:26.277:$ Thread:16 $ Connecting $http://en.scut.edu.cn/research/journals.jsp $ Successful
+2016-04-27 23:34:26.278:$ Thread:16 $ Fetching $ http://en.scut.edu.cn/research/humanitiessocialsciences.jsp $ Error: get InputStream failed
+2016-04-27 23:34:26.278:$ Thread:16 $ Connecting $http://en.scut.edu.cn/research/humanitiessocialsciences.jsp $ Successful
+2016-04-27 23:34:26.278:$ Thread:16 $ Fetching $ http://en.scut.edu.cn/research/statekeylabs.jsp $ Error: get InputStream failed
+2016-04-27 23:34:26.278:$ Thread:17 $ Connecting $http://en.scut.edu.cn/life/athleticsrecreation.jsp $ Successful
+2016-04-27 23:34:26.278:$ Thread:15 $ Connecting $http://en.scut.edu.cn/library/e-resources.jsp $ Successful
+2016-04-27 23:34:26.278:$ Thread:16 $ Connecting $http://en.scut.edu.cn/research/paper.jsp $ Successful
+2016-04-27 23:34:26.278:$ Thread:17 $ Connecting $http://en.scut.edu.cn/research/funds.jsp $ Successful
+2016-04-27 23:34:26.278:$ Thread:15 $ Connecting $http://en.scut.edu.cn/research/statekeylabs.jsp $ Successful
+2016-04-27 23:34:26.278:$ Thread:17 $ Complete $http://en.scut.edu.cn/teaching/postgraduate.jsp Successful $
+2016-04-27 23:34:26.278:$ Thread:16 $ Complete $http://en.scut.edu.cn/teaching/undergraduate.jsp Successful $
+2016-04-27 23:34:26.278:$ Thread:15 $ Fetching $ http://en.scut.edu.cn/research/dynamicacademicstechnology.jsp $ Error: get InputStream failed
+2016-04-27 23:34:26.278:$ Thread:17 $ Parsing $ http://en.scut.edu.cn/teaching/undergraduate.jsp $ Successful
+2016-04-27 23:34:26.279:$ Thread:15 $ Connecting $http://en.scut.edu.cn/research/dynamicacademicstechnology.jsp $ Successful
+2016-04-27 23:34:26.279:$ Thread:16 $ Parsing $ http://en.scut.edu.cn/teaching/postgraduate.jsp $ Successful
+2016-04-27 23:34:26.279:$ Thread:16 $ Fetching $ http://en.scut.edu.cn/admissions/undergraduateprograms.jsp $ Error: get InputStream failed
+2016-04-27 23:34:26.279:$ Thread:16 $ Connecting $http://en.scut.edu.cn/admissions/graduateprograms.jsp $ Successful
+2016-04-27 23:34:26.279:$ Thread:15 $ Fetching $ http://en.scut.edu.cn/admissions/graduateprograms.jsp $ Error: get InputStream failed
+2016-04-27 23:34:26.279:$ Thread:17 $ Fetching $ http://en.scut.edu.cn/teaching/postgraduate.jsp $ Successful
+2016-04-27 23:34:26.279:$ Thread:16 $ Connecting $http://en.scut.edu.cn/admissions/undergraduateprograms.jsp $ Successful
+2016-04-27 23:34:26.279:$ Thread:15 $ Fetching $ http://en.scut.edu.cn/admissions/schoolsdepartments.jsp $ Error: get InputStream failed
+2016-04-27 23:34:26.279:$ Thread:17 $ Complete $http://en.scut.edu.cn/news/people.jsp Successful $
+2016-04-27 23:34:26.279:$ Thread:15 $ Parsing $ http://en.scut.edu.cn/news/people.jsp $ Successful
+2016-04-27 23:34:26.279:$ Thread:16 $ Connecting $http://en.scut.edu.cn/admissions/schoolsdepartments.jsp $ Successful
+2016-04-27 23:34:26.280:$ Thread:16 $ Connecting $http://en.scut.edu.cn/teaching/postgraduate.jsp $ Successful
+2016-04-27 23:34:26.280:$ Thread:15 $ Fetching $ http://en.scut.edu.cn/news/people.jsp $ Successful
+2016-04-27 23:34:26.280:$ Thread:17 $ Complete $http://en.scut.edu.cn/ Successful $
+2016-04-27 23:34:26.280:$ Thread:16 $ Connecting $http://en.scut.edu.cn/news/academic.jsp $ Successful
+2016-04-27 23:34:26.280:$ Thread:15 $ Fetching $ http://en.scut.edu.cn/news/newsevents.jsp $ Error: get InputStream failed
+2016-04-27 23:34:26.280:$ Thread:17 $ Connecting $http://en.scut.edu.cn/news/people.jsp $ Successful
+2016-04-27 23:34:26.280:$ Thread:16 $ Complete $http://en.scut.edu.cn/index.jsp Successful $
+2016-04-27 23:34:26.280:$ Thread:16 $ Connecting $http://en.scut.edu.cn/giving/studentfieldfund.jsp $ Successful
+2016-04-27 23:34:26.283:$ Thread:16 $ Complete $http://www2.scut.edu.cn/s/56/t/131/main.htm Successful $
+2016-04-27 23:34:26.283:$ Thread:16 $ Connecting $http://en.scut.edu.cn/alumni/contact.jsp $ Successful
+2016-04-27 23:34:26.589:$ Thread:12 $ Connecting $http://en.scut.edu.cn/giving/introduction.jsp $ Successful
+2016-04-27 23:34:27.588:$ Thread:15 $ Fetching $ http://en.scut.edu.cn/alumni/branches.jsp $ Error: get InputStream failed
+2016-04-27 23:34:27.591:$ Thread:15 $ Fetching $ http://en.scut.edu.cn/alumni/contact.jsp $ Error: get InputStream failed
+2016-04-27 23:34:28.595:$ Thread:17 $ Connecting $http://en.scut.edu.cn/giving/acknowledgement.jsp $ Successful
+2016-04-27 23:34:28.596:$ Thread:12 $ Fetching $ http://en.scut.edu.cn/giving/introduction.jsp $ Error: get InputStream failed
+2016-04-27 23:34:28.596:$ Thread:12 $ Fetching $ http://en.scut.edu.cn/giving/studentprogramsfund.jsp $ Error: get InputStream failed
+2016-04-27 23:34:28.599:$ Thread:15 $ Fetching $ http://en.scut.edu.cn/giving/giveonline.jsp $ Error: get InputStream failed
+2016-04-27 23:34:28.601:$ Thread:17 $ Connecting $http://en.scut.edu.cn/news/weekly.jsp $ Successful
+2016-04-27 23:34:29.596:$ Thread:11 $ Connecting $http://en.scut.edu.cn/detail.jsp?id=55403 $ Successful
+2016-04-27 23:34:29.596:$ Thread:11 $ Connecting $http://en.scut.edu.cn/new/list1.jsp?directoryid=24068&topid=24067 $ Successful
+2016-04-27 23:34:29.599:$ Thread:11 $ Fetching $ http://en.scut.edu.cn/giving/downloads.jsp $ Error: get InputStream failed
+2016-04-27 23:34:29.618:$ Thread:12 $ Connecting $http://en.scut.edu.cn/detail.jsp?id=55383 $ Successful
+2016-04-27 23:34:29.634:$ Thread:17 $ Fetching $ http://en.scut.edu.cn/news/weekly.jsp $ Successful
+2016-04-27 23:34:29.635:$ Thread:11 $ Fetching $ http://en.scut.edu.cn/detail.jsp?id=55403 $ Successful
+2016-04-27 23:34:29.636:$ Thread:11 $ Complete $http://en.scut.edu.cn/news/weekly.jsp Successful $
+2016-04-27 23:34:29.636:$ Thread:11 $ Parsing $ http://en.scut.edu.cn/news/weekly.jsp $ Successful
+2016-04-27 23:34:29.636:$ Thread:11 $ Fetching $ http://en.scut.edu.cn/new/list1.jsp?directoryid=24068&topid=24067 $ Successful
+2016-04-27 23:34:29.636:$ Thread:15 $ Connecting $http://en.scut.edu.cn/detail.jsp?id=55283 $ Successful
+2016-04-27 23:34:29.636:$ Thread:15 $ Connecting $http://en.scut.edu.cn/detail.jsp?id=55319 $ Successful
+2016-04-27 23:34:29.639:$ Thread:16 $ Fetching $ http://en.scut.edu.cn/contact.jsp $ Successful
+2016-04-27 23:34:29.659:$ Thread:15 $ Parsing $ http://en.scut.edu.cn/detail.jsp?id=55283 $ Successful
+2016-04-27 23:34:29.659:$ Thread:15 $ Complete $http://en.scut.edu.cn/detail.jsp?id=55283 Successful $
+2016-04-27 23:34:29.664:$ Thread:17 $ Connecting $http://en.scut.edu.cn/detail.jsp?id=55265 $ Successful
+2016-04-27 23:34:29.671:$ Thread:12 $ Fetching $ http://en.scut.edu.cn/detail.jsp?id=55246 $ Successful
+2016-04-27 23:34:29.671:$ Thread:12 $ Parsing $ http://en.scut.edu.cn/detail.jsp?id=55246 $ Successful
+2016-04-27 23:34:29.672:$ Thread:16 $ Complete $http://en.scut.edu.cn/detail.jsp?id=55246 Successful $
+2016-04-27 23:34:29.672:$ Thread:16 $ Connecting $http://en.scut.edu.cn/detail.jsp?id=26883 $ Successful
+2016-04-27 23:34:29.676:$ Thread:16 $ Connecting $http://www2.scut.edu.cn/architecture-en/ $ Successful
+2016-04-27 23:34:29.693:$ Thread:15 $ Parseing $ http://en.scut.edu.cn/detail.jsp?id=55265Error $Found malformed URL: javascript:window.close();
+2016-04-27 23:34:29.694:$ Thread:12 $ Connecting $http://www2.scut.edu.cn/biology-en/ $ Successful
+2016-04-27 23:34:29.695:$ Thread:16 $ Fetching $ http://en.scut.edu.cn/detail.jsp?id=26883 $ Successful
+2016-04-27 23:34:29.702:$ Thread:12 $ Parseing $ http://en.scut.edu.cn/detail.jsp?id=26883Error $Found malformed URL: javascript:window.close();
+2016-04-27 23:34:29.703:$ Thread:12 $ Parsing $ http://en.scut.edu.cn/detail.jsp?id=26883 $ Successful
+2016-04-27 23:34:29.703:$ Thread:12 $ Complete $http://en.scut.edu.cn/detail.jsp?id=26883 Successful $
+2016-04-27 23:34:29.703:$ Thread:15 $ Connecting $http://www.scut.edu.cn/slib/ $ Successful
+2016-04-27 23:34:29.712:$ Thread:12 $ Fetching $ http://www2.scut.edu.cn/biology-en/ $ Successful
+2016-04-27 23:34:29.719:$ Thread:17 $ Connecting $http://www2.scut.edu.cn/s/27/t/3/13/61/info4961.htm $ Successful
+2016-04-27 23:34:29.728:$ Thread:16 $ Fetching $ http://www2.scut.edu.cn/sba-en/ $ Successful
+2016-04-27 23:34:29.732:$ Thread:16 $ Parsing $ http://www2.scut.edu.cn/arts-en/ $ Successful
+2016-04-27 23:34:29.741:$ Thread:16 $ Complete $http://www2.scut.edu.cn/arts-en/ Successful $
+2016-04-27 23:34:29.750:$ Thread:12 $ Parsing $ http://www2.scut.edu.cn/biology-en/ $ Successful
+2016-04-27 23:34:29.750:$ Thread:15 $ Fetching $ http://www2.scut.edu.cn/s/27/t/3/13/61/info4961.htm $ Successful
+2016-04-27 23:34:29.757:$ Thread:17 $ Complete $http://www2.scut.edu.cn/biology-en/ Successful $
+2016-04-27 23:34:29.758:$ Thread:17 $ Connecting $http://www.scut.edu.cn/favicon.ico $ Successful
+2016-04-27 23:34:29.758:$ Thread:12 $ Parsing $ http://www2.scut.edu.cn/sba-en/ $ Successful
+2016-04-27 23:34:29.766:$ Thread:16 $ Complete $http://www2.scut.edu.cn/sba-en/ Successful $
+2016-04-27 23:34:29.766:$ Thread:17 $ Fetching $ Error $ Not processing because content type is: image/x-icon
+2016-04-27 23:34:29.768:$ Thread:17 $ Connecting $http://www.scut.edu.cn/page/portal.htm $ Successful
+2016-04-27 23:34:29.768:$ Thread:17 $ Parsing $ http://www2.scut.edu.cn/s/27/t/3/13/61/info4961.htm $ Successful
+2016-04-27 23:34:29.772:$ Thread:16 $ Complete $http://www2.scut.edu.cn/s/27/t/3/13/61/info4961.htm Successful $
+2016-04-27 23:34:29.775:$ Thread:16 $ Fetching $ http://www.scut.edu.cn/page/portal.htm $ Successful
+2016-04-27 23:34:29.776:$ Thread:17 $ Parsing $ http://www.scut.edu.cn/page/portal.htm $ Successful
+2016-04-27 23:34:29.779:$ Thread:17 $ Connecting $http://www.scut.edu.cn/journal/ $ Successful
+2016-04-27 23:34:29.780:$ Thread:17 $ Complete $http://www.scut.edu.cn/page/portal.htm Successful $
+2016-04-27 23:34:29.786:$ Thread:17 $ Connecting $http://www2.scut.edu.cn/s/27/t/3/p/31/list.htm $ Successful
+2016-04-27 23:34:29.799:$ Thread:16 $ Fetching $ http://www2.scut.edu.cn/s/27/t/3/p/31/list.htm $ Successful
+2016-04-27 23:34:29.844:$ Thread:11 $ Fetching $ http://www2.scut.edu.cn/s/27/t/3/0e/36/info134710.htm $ Successful
+2016-04-27 23:34:29.845:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/s/27/t/3/07/45/info132933.htm $ Successful
+2016-04-27 23:34:29.848:$ Thread:16 $ Fetching $ http://en.scut.edu.cn/detail.jsp?id=55317 $ Successful
+2016-04-27 23:34:29.848:$ Thread:16 $ Parseing $ http://en.scut.edu.cn/detail.jsp?id=55317Error $Found malformed URL: javascript:window.close();
+2016-04-27 23:34:29.851:$ Thread:11 $ Parsing $ http://en.scut.edu.cn/detail.jsp?id=55317 $ Successful
+2016-04-27 23:34:29.852:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/s/27/t/3/06/8b/info132747.htm $ Successful
+2016-04-27 23:34:29.852:$ Thread:11 $ Complete $http://en.scut.edu.cn/detail.jsp?id=55317 Successful $
+2016-04-27 23:34:29.858:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/s/27/t/3/f1/f1/info127473.htm $ Successful
+2016-04-27 23:34:29.862:$ Thread:16 $ Fetching $ http://www2.scut.edu.cn/s/27/t/3/06/8b/info132747.htm $ Successful
+2016-04-27 23:34:29.864:$ Thread:17 $ Fetching $ http://www2.scut.edu.cn/s/27/t/3/07/45/info132933.htm $ Successful
+2016-04-27 23:34:29.868:$ Thread:17 $ Fetching $ http://www.scut.edu.cn/press/ $ Successful
+2016-04-27 23:34:29.868:$ Thread:17 $ Connecting $http://www2.scut.edu.cn/s/27/t/3/0e/36/info134710.htm $ Successful
+2016-04-27 23:34:29.872:$ Thread:17 $ Parsing $ http://www.scut.edu.cn/press/ $ Successful
+2016-04-27 23:34:29.876:$ Thread:17 $ Complete $http://www.scut.edu.cn/press/ Successful $
+2016-04-27 23:34:29.879:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/s/27/t/3/ea/45/info125509.htm $ Successful
+2016-04-27 23:34:29.879:$ Thread:11 $ Parsing $ http://www2.scut.edu.cn/s/27/t/3/06/8b/info132747.htm $ Successful
+2016-04-27 23:34:29.879:$ Thread:11 $ Complete $http://www2.scut.edu.cn/s/27/t/3/06/8b/info132747.htm Successful $
+2016-04-27 23:34:29.881:$ Thread:17 $ Fetching $ http://www2.scut.edu.cn/s/27/t/3/ea/45/info125509.htm $ Successful
+2016-04-27 23:34:29.891:$ Thread:17 $ Parsing $ http://www2.scut.edu.cn/s/27/t/3/07/45/info132933.htm $ Successful
+2016-04-27 23:34:29.892:$ Thread:17 $ Complete $http://www2.scut.edu.cn/s/27/t/3/07/45/info132933.htm Successful $
+2016-04-27 23:34:29.900:$ Thread:16 $ Connecting $http://www.scut.edu.cn/magazine/index.html $ Successful
+2016-04-27 23:34:29.900:$ Thread:16 $ Complete $http://www2.scut.edu.cn/s/27/t/3/f1/f1/info127473.htm Successful $
+2016-04-27 23:34:29.900:$ Thread:16 $ Parsing $ http://www2.scut.edu.cn/s/27/t/3/f1/f1/info127473.htm $ Successful
+2016-04-27 23:34:29.901:$ Thread:16 $ Connecting $http://www2.scut.edu.cn/s/27/t/3/ea/44/info125508.htm $ Successful
+2016-04-27 23:34:29.901:$ Thread:16 $ Fetching $ http://www2.scut.edu.cn/s/27/t/3/f1/f1/info127473.htm $ Successful
+2016-04-27 23:34:29.901:$ Thread:16 $ Fetching $ http://www2.scut.edu.cn/s/27/t/3/ea/44/info125508.htm $ Successful
+2016-04-27 23:34:29.905:$ Thread:16 $ Complete $http://www2.scut.edu.cn/s/27/t/3/0e/36/info134710.htm Successful $
+2016-04-27 23:34:29.907:$ Thread:17 $ Connecting $http://cxzy.scut.edu.cn $ Successful
+2016-04-27 23:34:29.913:$ Thread:17 $ Connecting $http://www2.scut.edu.cn/s/27/t/3/0e/34/info134708.htm $ Successful
+2016-04-27 23:34:29.919:$ Thread:17 $ Fetching $ http://www2.scut.edu.cn/s/27/t/3/0e/34/info134708.htm $ Successful
+2016-04-27 23:34:29.940:$ Thread:16 $ Fetching $ http://www2.scut.edu.cn/s/27/t/3/0e/78/info134776.htm $ Successful
+2016-04-27 23:34:29.946:$ Thread:11 $ Fetching $ http://cxzy.scut.edu.cn $ Successful
+2016-04-27 23:34:29.947:$ Thread:11 $ Parsing $ http://www2.scut.edu.cn/s/27/t/3/0e/34/info134708.htm $ Successful
+2016-04-27 23:34:29.948:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/s/27/t/3/0c/e4/info134372.htm $ Successful
+2016-04-27 23:34:29.952:$ Thread:17 $ Connecting $http://www2.scut.edu.cn/s/27/t/3/0b/5f/info133983.htm $ Successful
+2016-04-27 23:34:29.952:$ Thread:17 $ Parsing $ http://www2.scut.edu.cn/s/27/t/3/0e/78/info134776.htm $ Successful
+2016-04-27 23:34:29.952:$ Thread:17 $ Complete $http://www.scut.edu.cn/magazine/index.html Successful $
+2016-04-27 23:34:29.952:$ Thread:17 $ Fetching $ http://www2.scut.edu.cn/s/27/t/3/0c/e4/info134372.htm $ Successful
+2016-04-27 23:34:29.960:$ Thread:11 $ Complete $http://www2.scut.edu.cn/s/27/t/3/0e/78/info134776.htm Successful $
+2016-04-27 23:34:29.961:$ Thread:11 $ Complete $http://cxzy.scut.edu.cn Successful $
+2016-04-27 23:34:29.961:$ Thread:11 $ Parsing $ http://cxzy.scut.edu.cn $ Successful
+2016-04-27 23:34:29.961:$ Thread:11 $ Parsing $ http://www.scut.edu.cn/magazine/index.html $ Successful
+2016-04-27 23:34:29.961:$ Thread:16 $ Complete $http://www2.scut.edu.cn/s/27/t/3/0e/34/info134708.htm Successful $
+2016-04-27 23:34:29.961:$ Thread:11 $ Fetching $ http://www.scut.edu.cn/magazine/index.html $ Successful
+2016-04-27 23:34:29.961:$ Thread:11 $ Complete $http://www2.scut.edu.cn/s/27/t/3/ea/45/info125509.htm Successful $
+2016-04-27 23:34:29.962:$ Thread:16 $ Connecting $http://www2.scut.edu.cn/s/27/t/3/0e/78/info134776.htm $ Successful
+2016-04-27 23:34:29.962:$ Thread:16 $ Parsing $ http://www2.scut.edu.cn/s/27/t/3/ea/45/info125509.htm $ Successful
+2016-04-27 23:34:29.972:$ Thread:16 $ Parsing $ http://www2.scut.edu.cn/s/27/t/3/0e/36/info134710.htm $ Successful
+2016-04-27 23:34:29.973:$ Thread:16 $ Complete $http://www2.scut.edu.cn/s/27/t/3/p/32/list.htm Successful $
+2016-04-27 23:34:29.979:$ Thread:16 $ Connecting $http://www2.scut.edu.cn/s/27/t/3/0b/3f/info133951.htm $ Successful
+2016-04-27 23:34:30.045:$ Thread:16 $ Fetching $ http://www2.scut.edu.cn/s/27/t/3/0b/3f/info133951.htm $ Successful
+2016-04-27 23:34:30.047:$ Thread:16 $ Parsing $ http://www2.scut.edu.cn/s/27/t/3/0b/5f/info133983.htm $ Successful
+2016-04-27 23:34:30.057:$ Thread:17 $ Complete $http://www2.scut.edu.cn/s/27/t/3/0c/e4/info134372.htm Successful $
+2016-04-27 23:34:30.061:$ Thread:16 $ Connecting $http://www2.scut.edu.cn/s/27/t/3/p/35/list.htm $ Successful
+2016-04-27 23:34:30.069:$ Thread:16 $ Fetching $ http://www2.scut.edu.cn/s/27/t/3/p/34/list.htm $ Successful
+2016-04-27 23:34:30.119:$ Thread:11 $ Fetching $ http://www2.scut.edu.cn/s/27/t/3/p/35/list.htm $ Successful
+2016-04-27 23:34:30.454:$ Thread:15 $ Parsing $ http://www2.scut.edu.cn/s/27/t/3/0b/3f/info133951.htm $ Successful
+2016-04-27 23:34:30.455:$ Thread:15 $ Parseing $ http://www2.scut.edu.cn/s/27/t/3/p/34/list.htmError $Found malformed URL: javascript:if(true){gotourl='/s/27/t/3/p/34/i//list.htm';location.href=gotourl.replace('i/','i/'+document.all('pageindex_pdt').value)}
+2016-04-27 23:34:30.455:$ Thread:15 $ Parseing $ http://www2.scut.edu.cn/s/27/t/3/p/35/list.htmError $Found malformed URL: javascript:if(true){gotourl='/s/27/t/3/p/35/i//list.htm';location.href=gotourl.replace('i/','i/'+document.all('pageindex_pdt').value)}
+2016-04-27 23:34:30.456:$ Thread:16 $ Parseing $ http://www2.scut.edu.cn/s/27/t/3/p/33/list.htmError $Found malformed URL: javascript:if(true){gotourl='/s/27/t/3/p/33/i//list.htm';location.href=gotourl.replace('i/','i/'+document.all('pageindex_pdt').value)}
+2016-04-27 23:34:30.457:$ Thread:16 $ Connecting $https://security.scut.edu.cn/cas/index.jsp?service=http://my.scut.edu.cn/login&renew=true $ Error: open connection failed
+2016-04-27 23:34:30.458:$ Thread:16 $ Parsing $ http://www2.scut.edu.cn/s/27/t/3/p/34/list.htm $ Successful
+2016-04-27 23:34:30.458:$ Thread:16 $ Parsing $ http://www2.scut.edu.cn/s/27/t/3/p/33/list.htm $ Successful
+2016-04-27 23:34:30.458:$ Thread:16 $ Connecting $http://www2.scut.edu.cn/s/27/t/3/0d/af/info134575.htm $ Successful
+2016-04-27 23:34:30.459:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/s/27/t/3/p/34/list.htm $ Successful
+2016-04-27 23:34:30.459:$ Thread:17 $ Fetching $ http://www2.scut.edu.cn/s/27/t/3/p/33/list.htm $ Successful
+2016-04-27 23:34:30.459:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/s/27/t/3/0d/7e/info134526.htm $ Successful
+2016-04-27 23:34:30.459:$ Thread:11 $ Parsing $ http://www2.scut.edu.cn/s/27/t/3/p/35/list.htm $ Successful
+2016-04-27 23:34:30.459:$ Thread:11 $ Complete $http://www2.scut.edu.cn/s/27/t/3/0b/3f/info133951.htm Successful $
+2016-04-27 23:34:30.459:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/s/27/t/3/09/7f/info133503.htm $ Successful
+2016-04-27 23:34:30.461:$ Thread:15 $ Complete $http://www2.scut.edu.cn/s/27/t/3/p/34/list.htm Successful $
+2016-04-27 23:34:30.462:$ Thread:15 $ Complete $http://www2.scut.edu.cn/s/27/t/3/p/33/list.htm Successful $
+2016-04-27 23:34:30.465:$ Thread:16 $ Complete $http://www2.scut.edu.cn/s/27/t/3/p/35/list.htm Successful $
+2016-04-27 23:34:30.465:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/s/27/t/3/0c/b1/info134321.htm $ Successful
+2016-04-27 23:34:30.465:$ Thread:17 $ Connecting $http://www.scut.edu.cn/top/ $ Successful
+2016-04-27 23:34:30.466:$ Thread:17 $ Connecting $http://www.scut.edu.cn/page/about1.htm $ Successful
+2016-04-27 23:34:30.476:$ Thread:15 $ Fetching $ http://www2.scut.edu.cn/s/27/t/3/0d/7e/info134526.htm $ Successful
+2016-04-27 23:34:30.484:$ Thread:11 $ Connecting $http://cxzy.scut.edu.cn/index.jsp $ Successful
+2016-04-27 23:34:30.485:$ Thread:16 $ Fetching $ http://www2.scut.edu.cn/s/27/t/3/09/7f/info133503.htm $ Successful
+2016-04-27 23:34:30.487:$ Thread:17 $ Fetching $ http://www.scut.edu.cn/top/ $ Successful
+2016-04-27 23:34:30.487:$ Thread:17 $ Parsing $ http://www2.scut.edu.cn/s/27/t/3/0d/af/info134575.htm $ Successful
+2016-04-27 23:34:30.487:$ Thread:17 $ Fetching $ http://www.scut.edu.cn/page/about1.htm $ Successful
+2016-04-27 23:34:30.487:$ Thread:17 $ Fetching $ http://www2.scut.edu.cn/s/27/t/3/0d/af/info134575.htm $ Successful
+2016-04-27 23:34:30.501:$ Thread:17 $ Parsing $ http://www2.scut.edu.cn/s/27/t/3/0d/7e/info134526.htm $ Successful
+2016-04-27 23:34:30.501:$ Thread:11 $ Complete $http://www2.scut.edu.cn/s/27/t/3/0d/af/info134575.htm Successful $
+2016-04-27 23:34:30.501:$ Thread:11 $ Parsing $ http://www.scut.edu.cn/top/ $ Successful
+2016-04-27 23:34:30.502:$ Thread:11 $ Fetching $ http://www2.scut.edu.cn/s/27/t/3/0c/b1/info134321.htm $ Successful
+2016-04-27 23:34:30.516:$ Thread:16 $ Fetching $ http://cxzy.scut.edu.cn/index.jsp $ Successful
+2016-04-27 23:34:30.517:$ Thread:16 $ Complete $http://www.scut.edu.cn/top/ Successful $
+2016-04-27 23:34:30.517:$ Thread:11 $ Complete $http://www2.scut.edu.cn/s/27/t/3/0d/7e/info134526.htm Successful $
+2016-04-27 23:34:30.523:$ Thread:16 $ Connecting $http://my.scut.edu.cn $ Successful
+2016-04-27 23:34:30.524:$ Thread:16 $ Connecting $http://www2.scut.edu.cn/s/27/t/3/78/4d/info96333.htm $ Successful
+2016-04-27 23:34:30.526:$ Thread:15 $ Parsing $ http://www2.scut.edu.cn/s/27/t/3/0c/b1/info134321.htm $ Successful
+2016-04-27 23:34:30.527:$ Thread:15 $ Connecting $http://www2.scut.edu.cn/s/27/t/3/78/4c/info96332.htm $ Successful
+2016-04-27 23:34:30.530:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/s/27/t/3/77/c5/info96197.htm $ Successful
+2016-04-27 23:34:30.531:$ Thread:17 $ Parsing $ http://www.scut.edu.cn/page/about1.htm $ Successful
+2016-04-27 23:34:30.532:$ Thread:17 $ Complete $http://www2.scut.edu.cn/s/27/t/3/0c/b1/info134321.htm Successful $
+2016-04-27 23:34:30.532:$ Thread:16 $ Fetching $ http://my.scut.edu.cn $ Error: get InputStream failed
+2016-04-27 23:34:30.532:$ Thread:16 $ Parsing $ http://cxzy.scut.edu.cn/index.jsp $ Successful
+2016-04-27 23:34:30.532:$ Thread:16 $ Complete $http://www.scut.edu.cn/page/about1.htm Successful $
+2016-04-27 23:34:30.538:$ Thread:16 $ Fetching $ http://www2.scut.edu.cn/s/27/t/3/78/4d/info96333.htm $ Successful
+2016-04-27 23:34:30.538:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/s/27/t/3/0c/43/info3139.htm $ Successful
+2016-04-27 23:34:30.540:$ Thread:15 $ Complete $http://cxzy.scut.edu.cn/index.jsp Successful $
+2016-04-27 23:34:30.545:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/s/27/t/3/0c/45/info3141.htm $ Successful
+2016-04-27 23:34:30.553:$ Thread:15 $ Fetching $ http://www2.scut.edu.cn/s/27/t/3/77/c5/info96197.htm $ Successful
+2016-04-27 23:34:30.553:$ Thread:15 $ Fetching $ http://www2.scut.edu.cn/s/27/t/3/78/4c/info96332.htm $ Successful
+2016-04-27 23:34:30.558:$ Thread:17 $ Fetching $ http://www2.scut.edu.cn/s/27/t/3/0c/43/info3139.htm $ Successful
+2016-04-27 23:34:30.570:$ Thread:17 $ Connecting $http://60years.scut.edu.cn/ $ Error: open connection failed
+2016-04-27 23:34:30.570:$ Thread:17 $ Connecting $http://www2.scut.edu.cn/s/27/t/3/0c/46/info3142.htm $ Successful
+2016-04-27 23:34:30.580:$ Thread:16 $ Fetching $ http://www2.scut.edu.cn/s/27/t/3/0c/45/info3141.htm $ Successful
+2016-04-27 23:34:30.583:$ Thread:16 $ Parsing $ http://www2.scut.edu.cn/s/27/t/3/0c/43/info3139.htm $ Successful
+2016-04-27 23:34:30.583:$ Thread:16 $ Connecting $http://www2.scut.edu.cn/s/27/t/3/0c/48/info3144.htm $ Successful
+2016-04-27 23:34:30.587:$ Thread:15 $ Parsing $ http://www2.scut.edu.cn/s/27/t/3/78/4d/info96333.htm $ Successful
+2016-04-27 23:34:30.587:$ Thread:15 $ Parsing $ http://www2.scut.edu.cn/s/27/t/3/77/c5/info96197.htm $ Successful
+2016-04-27 23:34:30.587:$ Thread:15 $ Complete $http://www2.scut.edu.cn/s/27/t/3/0c/43/info3139.htm Successful $
+2016-04-27 23:34:30.588:$ Thread:15 $ Parsing $ http://www2.scut.edu.cn/s/27/t/3/78/4c/info96332.htm $ Successful
+2016-04-27 23:34:30.589:$ Thread:15 $ Complete $http://www2.scut.edu.cn/s/27/t/3/78/4d/info96333.htm Successful $
+2016-04-27 23:34:30.590:$ Thread:15 $ Complete $http://www2.scut.edu.cn/s/27/t/3/77/c5/info96197.htm Successful $
+2016-04-27 23:34:30.592:$ Thread:15 $ Connecting $http://www2.scut.edu.cn/s/27/t/3/p/41/list.htm $ Successful
+2016-04-27 23:34:30.594:$ Thread:17 $ Complete $http://www2.scut.edu.cn/s/27/t/3/78/4c/info96332.htm Successful $
+2016-04-27 23:34:30.594:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/s/27/t/3/p/41/c/54/list.htm $ Successful
+2016-04-27 23:34:30.596:$ Thread:15 $ Connecting $http://www2.scut.edu.cn/s/27/t/3/p/41/c/55/list.htm $ Successful
+2016-04-27 23:34:30.597:$ Thread:15 $ Fetching $ http://www2.scut.edu.cn/s/27/t/3/0c/46/info3142.htm $ Successful
+2016-04-27 23:34:30.598:$ Thread:17 $ Parsing $ http://www2.scut.edu.cn/s/27/t/3/0c/45/info3141.htm $ Successful
+2016-04-27 23:34:30.599:$ Thread:17 $ Connecting $http://www2.scut.edu.cn/s/27/t/3/p/41/c/56/list.htm $ Successful
+2016-04-27 23:34:30.600:$ Thread:17 $ Fetching $ http://www2.scut.edu.cn/s/27/t/3/p/41/list.htm $ Successful
+2016-04-27 23:34:30.631:$ Thread:11 $ Fetching $ http://www2.scut.edu.cn/s/27/t/3/p/41/c/54/list.htm $ Successful
+2016-04-27 23:34:30.631:$ Thread:11 $ Fetching $ http://www2.scut.edu.cn/s/27/t/3/p/41/c/56/list.htm $ Successful
+2016-04-27 23:34:30.645:$ Thread:17 $ Fetching $ http://www2.scut.edu.cn/s/27/t/3/0c/48/info3144.htm $ Successful
+2016-04-27 23:34:30.646:$ Thread:17 $ Fetching $ http://www2.scut.edu.cn/s/27/t/3/p/41/c/55/list.htm $ Successful
+2016-04-27 23:34:30.653:$ Thread:16 $ Parsing $ http://www2.scut.edu.cn/s/27/t/3/0c/46/info3142.htm $ Successful
+2016-04-27 23:34:30.657:$ Thread:16 $ Complete $http://www2.scut.edu.cn/s/27/t/3/09/7f/info133503.htm Successful $
+2016-04-27 23:34:30.658:$ Thread:16 $ Parsing $ http://www2.scut.edu.cn/s/27/t/3/p/41/c/54/list.htm $ Successful
+2016-04-27 23:34:30.658:$ Thread:16 $ Connecting $http://www2.scut.edu.cn/s/27/t/3/p/42/list.htm $ Successful
+2016-04-27 23:34:30.660:$ Thread:11 $ Parsing $ http://www2.scut.edu.cn/s/27/t/3/p/41/list.htm $ Successful
+2016-04-27 23:34:30.665:$ Thread:15 $ Complete $http://www2.scut.edu.cn/s/27/t/3/0c/46/info3142.htm Successful $
+2016-04-27 23:34:30.665:$ Thread:15 $ Connecting $http://www2.scut.edu.cn/s/27/t/3/p/5/list.htm $ Successful
+2016-04-27 23:34:30.669:$ Thread:11 $ Complete $http://www2.scut.edu.cn/s/27/t/3/p/41/c/54/list.htm Successful $
+2016-04-27 23:34:30.669:$ Thread:11 $ Parsing $ http://www2.scut.edu.cn/s/27/t/3/p/41/c/56/list.htm $ Successful
+2016-04-27 23:34:30.670:$ Thread:11 $ Complete $http://www2.scut.edu.cn/s/27/t/3/0c/45/info3141.htm Successful $
+2016-04-27 23:34:30.670:$ Thread:11 $ Parsing $ http://www2.scut.edu.cn/s/27/t/3/09/7f/info133503.htm $ Successful
+2016-04-27 23:34:30.670:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/s/27/t/3/p/33/list.htm $ Successful
+2016-04-27 23:34:30.670:$ Thread:11 $ Parsing $ http://www2.scut.edu.cn/s/27/t/3/0c/e4/info134372.htm $ Successful
+2016-04-27 23:34:30.671:$ Thread:11 $ Complete $http://www2.scut.edu.cn/s/27/t/3/0b/5f/info133983.htm Successful $
+2016-04-27 23:34:30.671:$ Thread:11 $ Complete $http://www2.scut.edu.cn/s/27/t/3/ea/44/info125508.htm Successful $
+2016-04-27 23:34:30.671:$ Thread:11 $ Parsing $ http://www2.scut.edu.cn/s/27/t/3/ea/44/info125508.htm $ Successful
+2016-04-27 23:34:30.673:$ Thread:11 $ Fetching $ http://www2.scut.edu.cn/s/27/t/3/0b/5f/info133983.htm $ Successful
+2016-04-27 23:34:30.673:$ Thread:11 $ Complete $http://www2.scut.edu.cn/s/27/t/3/p/31/list.htm Successful $
+2016-04-27 23:34:30.673:$ Thread:16 $ Parsing $ http://www2.scut.edu.cn/s/27/t/3/p/32/list.htm $ Successful
+2016-04-27 23:34:30.673:$ Thread:16 $ Parseing $ http://www2.scut.edu.cn/s/27/t/3/p/32/list.htmError $Found malformed URL: javascript:if(true){gotourl='/s/27/t/3/p/32/i//list.htm';location.href=gotourl.replace('i/','i/'+document.all('pageindex_pdt').value)}
+2016-04-27 23:34:30.673:$ Thread:16 $ Parsing $ http://www2.scut.edu.cn/s/27/t/3/p/31/list.htm $ Successful
+2016-04-27 23:34:30.673:$ Thread:16 $ Parseing $ http://www2.scut.edu.cn/s/27/t/3/p/31/list.htmError $Found malformed URL: javascript:if(true){gotourl='/s/27/t/3/p/31/i//list.htm';location.href=gotourl.replace('i/','i/'+document.all('pageindex_pdt').value)}
+2016-04-27 23:34:30.673:$ Thread:16 $ Connecting $http://www.scut.edu.cn/press/ $ Successful
+2016-04-27 23:34:30.674:$ Thread:11 $ Fetching $ http://www2.scut.edu.cn/s/27/t/3/p/32/list.htm $ Successful
+2016-04-27 23:34:30.674:$ Thread:16 $ Complete $http://www.scut.edu.cn/journal/ Successful $
+2016-04-27 23:34:30.674:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/s/27/t/3/p/32/list.htm $ Successful
+2016-04-27 23:34:30.674:$ Thread:16 $ Parsing $ http://www.scut.edu.cn/journal/ $ Successful
+2016-04-27 23:34:30.674:$ Thread:11 $ Complete $http://www.scut.edu.cn/slib/ Successful $
+2016-04-27 23:34:30.674:$ Thread:16 $ Fetching $ http://www.scut.edu.cn/journal/ $ Successful
+2016-04-27 23:34:30.675:$ Thread:11 $ Parsing $ http://www.scut.edu.cn/slib/ $ Successful
+2016-04-27 23:34:30.675:$ Thread:16 $ Fetching $ http://www.scut.edu.cn/slib/ $ Successful
+2016-04-27 23:34:30.675:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/sba-en/ $ Successful
+2016-04-27 23:34:30.675:$ Thread:16 $ Fetching $ http://www2.scut.edu.cn/arts-en/ $ Successful
+2016-04-27 23:34:30.675:$ Thread:16 $ Complete $http://www2.scut.edu.cn/architecture-en/ Successful $
+2016-04-27 23:34:30.675:$ Thread:16 $ Parsing $ http://en.scut.edu.cn/detail.jsp?id=55244 $ Successful
+2016-04-27 23:34:30.675:$ Thread:16 $ Parseing $ http://en.scut.edu.cn/detail.jsp?id=55244Error $Found malformed URL: javascript:window.close();
+2016-04-27 23:34:30.675:$ Thread:16 $ Parsing $ http://www2.scut.edu.cn/architecture-en/ $ Successful
+2016-04-27 23:34:30.676:$ Thread:16 $ Fetching $ http://en.scut.edu.cn/detail.jsp?id=55244 $ Successful
+2016-04-27 23:34:30.676:$ Thread:16 $ Parsing $ http://en.scut.edu.cn/detail.jsp?id=55265 $ Successful
+2016-04-27 23:34:30.678:$ Thread:15 $ Complete $http://en.scut.edu.cn/detail.jsp?id=55319 Successful $
+2016-04-27 23:34:30.678:$ Thread:15 $ Connecting $http://www2.scut.edu.cn/arts-en/ $ Successful
+2016-04-27 23:34:30.678:$ Thread:15 $ Fetching $ http://en.scut.edu.cn/detail.jsp?id=55265 $ Successful
+2016-04-27 23:34:30.678:$ Thread:15 $ Parsing $ http://en.scut.edu.cn/detail.jsp?id=55319 $ Successful
+2016-04-27 23:34:30.678:$ Thread:15 $ Parseing $ http://en.scut.edu.cn/detail.jsp?id=55319Error $Found malformed URL: javascript:window.close();
+2016-04-27 23:34:30.678:$ Thread:15 $ Fetching $ http://www2.scut.edu.cn/architecture-en/ $ Successful
+2016-04-27 23:34:30.679:$ Thread:15 $ Fetching $ http://en.scut.edu.cn/detail.jsp?id=55319 $ Successful
+2016-04-27 23:34:30.679:$ Thread:15 $ Parseing $ http://en.scut.edu.cn/detail.jsp?id=55246Error $Found malformed URL: javascript:window.close();
+2016-04-27 23:34:30.681:$ Thread:17 $ Fetching $ http://en.scut.edu.cn/detail.jsp?id=55143 $ Successful
+2016-04-27 23:34:30.681:$ Thread:17 $ Parsing $ http://www2.scut.edu.cn/s/27/t/3/p/41/c/55/list.htm $ Successful
+2016-04-27 23:34:30.681:$ Thread:17 $ Complete $http://www2.scut.edu.cn/s/27/t/3/p/41/c/55/list.htm Successful $
+2016-04-27 23:34:30.682:$ Thread:17 $ Connecting $http://www.scut.edu.cn/telephone/tel82.htm $ Successful
+2016-04-27 23:34:30.682:$ Thread:17 $ Parsing $ http://en.scut.edu.cn/detail.jsp?id=55143 $ Successful
+2016-04-27 23:34:30.684:$ Thread:11 $ Complete $http://en.scut.edu.cn/detail.jsp?id=55143 Successful $
+2016-04-27 23:34:30.687:$ Thread:15 $ Connecting $http://www2.scut.edu.cn/ce-en/ $ Successful
+2016-04-27 23:34:30.694:$ Thread:11 $ Fetching $ http://www.scut.edu.cn/telephone/tel82.htm $ Successful
+2016-04-27 23:34:30.695:$ Thread:11 $ Fetching $ http://www2.scut.edu.cn/auto-en/ $ Successful
+2016-04-27 23:34:30.695:$ Thread:11 $ Connecting $http://www.scut.edu.cn/webpage/about.htm $ Successful
+2016-04-27 23:34:30.695:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/auto-en/ $ Successful
+2016-04-27 23:34:30.695:$ Thread:11 $ Parseing $ http://en.scut.edu.cn/detail.jsp?id=55143Error $Found malformed URL: javascript:window.close();
+2016-04-27 23:34:30.696:$ Thread:15 $ Parseing $ http://www2.scut.edu.cn/s/27/t/3/p/41/c/55/list.htmError $Found malformed URL: javascript:if(true){gotourl='/s/27/t/3/p/41/c/55/i//list.htm';location.href=gotourl.replace('i/','i/'+document.all('pageindex_pdt').value)}
+2016-04-27 23:34:30.726:$ Thread:15 $ Complete $http://www2.scut.edu.cn/auto-en/ Successful $
+2016-04-27 23:34:30.733:$ Thread:16 $ Connecting $http://www.scut.edu.cn/webpage/group.htm $ Successful
+2016-04-27 23:34:30.735:$ Thread:16 $ Complete $http://www2.scut.edu.cn/ce-en/ Successful $
+2016-04-27 23:34:30.739:$ Thread:16 $ Parsing $ http://www2.scut.edu.cn/ce-en/ $ Successful
+2016-04-27 23:34:30.739:$ Thread:16 $ Connecting $https://security.scut.edu.cn/cas/login $ Error: open connection failed
+2016-04-27 23:34:30.740:$ Thread:16 $ Fetching $ http://www.scut.edu.cn/webpage/group.htm $ Successful
+2016-04-27 23:34:30.748:$ Thread:15 $ Connecting $http://www2.scut.edu.cn/science/publish/news/keyanjigou/guojiagongchen/3j39ib71gqctb0.html $ Successful
+2016-04-27 23:34:30.748:$ Thread:16 $ Connecting $http://www2.scut.edu.cn/science/publish/news/keyanjigou/guojiagongchen/3jbo0443q53hvg.html $ Successful
+2016-04-27 23:34:30.748:$ Thread:17 $ Connecting $http://www.scut.edu.cn/webpage/yj.htm $ Successful
+2016-04-27 23:34:30.752:$ Thread:16 $ Connecting $http://www2.scut.edu.cn/eemd/ $ Successful
+2016-04-27 23:34:30.752:$ Thread:17 $ Parsing $ http://www2.scut.edu.cn/s/27/t/3/0f/6c/info3948.htm $ Successful
+2016-04-27 23:34:30.753:$ Thread:17 $ Complete $http://www2.scut.edu.cn/s/27/t/3/0f/6c/info3948.htm Successful $
+2016-04-27 23:34:30.753:$ Thread:15 $ Fetching $ http://www2.scut.edu.cn/eemd/ $ Successful
+2016-04-27 23:34:30.753:$ Thread:16 $ Complete $http://www.scut.edu.cn/webpage/group.htm Successful $
+2016-04-27 23:34:30.754:$ Thread:11 $ Connecting $http://www.scut.edu.cn/webpage/{link} $ Successful
+2016-04-27 23:34:30.753:$ Thread:15 $ Fetching $ http://www2.scut.edu.cn/science/publish/news/keyanjigou/guojiagongchen/3j39ib71gqctb0.html $ Error: get InputStream failed
+2016-04-27 23:34:30.755:$ Thread:15 $ Fetching $ http://www2.scut.edu.cn/science/publish/news/keyanjigou/guojiagongchen/3jbo0443q53hvg.html $ Error: get InputStream failed
+2016-04-27 23:34:30.761:$ Thread:11 $ Fetching $ http://www.scut.edu.cn/webpage/yj.htm $ Successful
+2016-04-27 23:34:30.763:$ Thread:11 $ Connecting $http://www.scut.edu.cn/webpage/st.htm $ Successful
+2016-04-27 23:34:30.765:$ Thread:15 $ Fetching $ http://www.scut.edu.cn/webpage/{link} $ Error: get InputStream failed
+2016-04-27 23:34:30.765:$ Thread:15 $ Parsing $ http://www.scut.edu.cn/webpage/yj.htm $ Successful
+2016-04-27 23:34:30.775:$ Thread:16 $ Complete $http://www.scut.edu.cn/webpage/yj.htm Successful $
+2016-04-27 23:34:30.778:$ Thread:16 $ Fetching $ http://www.scut.edu.cn/webpage/st.htm $ Successful
+2016-04-27 23:34:30.779:$ Thread:15 $ Connecting $http://www.lib.scut.edu.cn/ $ Successful
+2016-04-27 23:34:30.781:$ Thread:17 $ Connecting $http://www.scut.edu.cn/webpage/history.htm $ Successful
+2016-04-27 23:34:30.781:$ Thread:17 $ Parsing $ http://www2.scut.edu.cn/eemd/ $ Successful
+2016-04-27 23:34:30.782:$ Thread:15 $ Parsing $ http://www.scut.edu.cn/webpage/st.htm $ Successful
+2016-04-27 23:34:30.782:$ Thread:11 $ Complete $http://www.scut.edu.cn/webpage/st.htm Successful $
+2016-04-27 23:34:30.782:$ Thread:17 $ Complete $http://www2.scut.edu.cn/eemd/ Successful $
+2016-04-27 23:34:30.783:$ Thread:17 $ Connecting $http://www2.scut.edu.cn/s/135/t/141/p/1/c/4121/list.htm $ Successful
+2016-04-27 23:34:30.784:$ Thread:16 $ Fetching $ http://www.lib.scut.edu.cn/ $ Successful
+2016-04-27 23:34:30.784:$ Thread:16 $ Parsing $ http://www.scut.edu.cn/webpage/group.htm $ Successful
+2016-04-27 23:34:30.784:$ Thread:17 $ Fetching $ http://www.scut.edu.cn/webpage/history.htm $ Successful
+2016-04-27 23:34:30.785:$ Thread:17 $ Parsing $ http://www.lib.scut.edu.cn/ $ Successful
+2016-04-27 23:34:30.785:$ Thread:17 $ Complete $http://www.lib.scut.edu.cn/ Successful $
+2016-04-27 23:34:30.785:$ Thread:15 $ Connecting $http://www2.scut.edu.cn/s/135/t/141/p/1/c/4121/d/4122/list.htm $ Successful
+2016-04-27 23:34:30.788:$ Thread:11 $ Connecting $http://www.scut.edu.cn/webpage/logo.htm $ Successful
+2016-04-27 23:34:30.796:$ Thread:15 $ Parsing $ http://www.scut.edu.cn/webpage/history.htm $ Successful
+2016-04-27 23:34:30.797:$ Thread:16 $ Fetching $ http://www2.scut.edu.cn/s/135/t/141/p/1/c/4121/list.htm $ Successful
+2016-04-27 23:34:30.797:$ Thread:15 $ Parsing $ http://www.scut.edu.cn/webpage/jg.htm $ Successful
+2016-04-27 23:34:30.797:$ Thread:16 $ Fetching $ http://www.scut.edu.cn/webpage/jg.htm $ Successful
+2016-04-27 23:34:30.804:$ Thread:15 $ Connecting $http://www.scut.edu.cn/webpage/jg.htm $ Successful
+2016-04-27 23:34:30.805:$ Thread:16 $ Connecting $http://www2.scut.edu.cn/s/135/t/141/p/1/c/4121/d/4571/list.htm $ Successful
+2016-04-27 23:34:30.813:$ Thread:15 $ Connecting $http://www2.scut.edu.cn/s/135/t/141/p/1/c/4121/d/6429/list.htm $ Successful
+2016-04-27 23:34:30.813:$ Thread:11 $ Complete $http://www2.scut.edu.cn/s/135/t/141/p/1/c/4121/list.htm Successful $
+2016-04-27 23:34:30.813:$ Thread:16 $ Connecting $http://www2.scut.edu.cn/s/135/t/141/main.htm $ Successful
+2016-04-27 23:34:30.817:$ Thread:17 $ Fetching $ http://www2.scut.edu.cn/s/135/t/141/p/1/c/4121/d/6429/list.htm $ Successful
+2016-04-27 23:34:30.824:$ Thread:15 $ Complete $http://www2.scut.edu.cn/s/135/t/141/p/1/c/4121/d/4122/list.htm Successful $
+2016-04-27 23:34:30.831:$ Thread:15 $ Parseing $ http://www2.scut.edu.cn/s/135/t/141/p/1/c/4121/d/4122/list.htmError $Found malformed URL: javascript:if(true){gotourl='/s/135/t/141/p/1/c/4121/d/4122/i//list.htm';location.href=gotourl.replace('i/','i/'+document.all('pageindex_pdt').value)}
+2016-04-27 23:34:30.823:$ Thread:17 $ Parsing $ http://www2.scut.edu.cn/s/135/t/141/p/1/c/4121/d/4122/list.htm $ Successful
+2016-04-27 23:34:30.832:$ Thread:15 $ Fetching $ http://www2.scut.edu.cn/s/135/t/141/p/1/c/4121/d/4569/list.htm $ Successful
+2016-04-27 23:34:30.832:$ Thread:17 $ Connecting $http://www2.scut.edu.cn/s/135/t/141/e2/2c/info123436.htm $ Successful
+2016-04-27 23:34:30.840:$ Thread:17 $ Connecting $http://www2.scut.edu.cn/s/135/t/141/a7/d7/info108503.htm $ Successful
+2016-04-27 23:34:30.842:$ Thread:15 $ Fetching $ http://www2.scut.edu.cn/s/135/t/141/a7/d7/info108503.htm $ Successful
+2016-04-27 23:34:30.847:$ Thread:11 $ Fetching $ http://www2.scut.edu.cn/s/135/t/141/e2/2c/info123436.htm $ Successful
+2016-04-27 23:34:30.854:$ Thread:11 $ Parsing $ http://www2.scut.edu.cn/s/135/t/141/p/1/c/4121/d/4569/list.htm $ Successful
+2016-04-27 23:34:30.857:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/s/135/t/141/a1/3a/info106810.htm $ Successful
+2016-04-27 23:34:30.858:$ Thread:11 $ Parseing $ http://www2.scut.edu.cn/s/135/t/141/p/1/c/4121/d/4569/list.htmError $Found malformed URL: javascript:if(true){gotourl='/s/135/t/141/p/1/c/4121/d/4569/i//list.htm';location.href=gotourl.replace('i/','i/'+document.all('pageindex_pdt').value)}
+2016-04-27 23:34:30.858:$ Thread:17 $ Complete $http://www2.scut.edu.cn/s/135/t/141/p/1/c/4121/d/4569/list.htm Successful $
+2016-04-27 23:34:30.860:$ Thread:16 $ Parseing $ http://www2.scut.edu.cn/s/135/t/141/p/1/c/4121/d/6429/list.htmError $Found malformed URL: javascript:if(true){gotourl='/s/135/t/141/p/1/c/4121/d/6429/i//list.htm';location.href=gotourl.replace('i/','i/'+document.all('pageindex_pdt').value)}
+2016-04-27 23:34:30.860:$ Thread:17 $ Parsing $ http://www2.scut.edu.cn/s/135/t/141/a7/d7/info108503.htm $ Successful
+2016-04-27 23:34:30.861:$ Thread:17 $ Connecting $http://www2.scut.edu.cn/s/135/t/141/0c/34/info134196.htm $ Successful
+2016-04-27 23:34:30.861:$ Thread:17 $ Parsing $ http://www2.scut.edu.cn/s/135/t/141/p/1/c/4121/d/6429/list.htm $ Successful
+2016-04-27 23:34:30.861:$ Thread:17 $ Connecting $http://www.scut.edu.cn/webpage/leaders.htm $ Successful
+2016-04-27 23:34:30.867:$ Thread:15 $ Complete $http://www2.scut.edu.cn/s/135/t/141/p/1/c/4121/d/6429/list.htm Successful $
+2016-04-27 23:34:30.867:$ Thread:15 $ Complete $http://www2.scut.edu.cn/s/135/t/141/e2/2c/info123436.htm Successful $
+2016-04-27 23:34:30.867:$ Thread:16 $ Parsing $ http://www2.scut.edu.cn/s/135/t/141/e2/2c/info123436.htm $ Successful
+2016-04-27 23:34:30.868:$ Thread:17 $ Fetching $ http://www2.scut.edu.cn/s/135/t/141/0c/34/info134196.htm $ Successful
+2016-04-27 23:34:30.868:$ Thread:17 $ Fetching $ http://www2.scut.edu.cn/s/135/t/141/a1/3a/info106810.htm $ Successful
+2016-04-27 23:34:30.872:$ Thread:15 $ Fetching $ http://www2.scut.edu.cn/s/135/t/141/main.htm $ Successful
+2016-04-27 23:34:30.873:$ Thread:15 $ Complete $http://www2.scut.edu.cn/s/135/t/141/a7/d7/info108503.htm Successful $
+2016-04-27 23:34:30.875:$ Thread:11 $ Fetching $ http://www.scut.edu.cn/webpage/leaders.htm $ Successful
+2016-04-27 23:34:30.875:$ Thread:11 $ Parsing $ http://www2.scut.edu.cn/s/135/t/141/a1/3a/info106810.htm $ Successful
+2016-04-27 23:34:30.884:$ Thread:15 $ Complete $http://www2.scut.edu.cn/s/135/t/141/a1/3a/info106810.htm Successful $
+2016-04-27 23:34:30.885:$ Thread:15 $ Connecting $http://www.scut.edu.cn/academic/blank.htm $ Successful
+2016-04-27 23:34:30.885:$ Thread:15 $ Connecting $http://map.scut.edu.cn/ $ Successful
+2016-04-27 23:34:30.887:$ Thread:16 $ Connecting $http://www.scut.edu.cn/webpage/view.htm $ Successful
+2016-04-27 23:34:30.889:$ Thread:15 $ Parsing $ http://www.scut.edu.cn/webpage/leaders.htm $ Successful
+2016-04-27 23:34:30.892:$ Thread:15 $ Complete $http://www.scut.edu.cn/webpage/leaders.htm Successful $
+2016-04-27 23:34:30.893:$ Thread:15 $ Parsing $ http://www.scut.edu.cn/webpage/view.htm $ Successful
+2016-04-27 23:34:30.893:$ Thread:15 $ Connecting $http://www2.scut.edu.cn/sie-cn/ $ Successful
+2016-04-27 23:34:30.902:$ Thread:15 $ Complete $http://www.scut.edu.cn/webpage/view.htm Successful $
+2016-04-27 23:34:30.902:$ Thread:15 $ Fetching $ http://www2.scut.edu.cn/sie-cn/ $ Successful
+2016-04-27 23:34:30.941:$ Thread:16 $ Connecting $http://www.scut.edu.cn/course/blank.html $ Successful
+2016-04-27 23:34:30.941:$ Thread:16 $ Fetching $ http://map.scut.edu.cn/ $ Successful
+2016-04-27 23:34:30.957:$ Thread:11 $ Complete $http://www2.scut.edu.cn/s/135/t/141/0c/34/info134196.htm Successful $
+2016-04-27 23:34:30.957:$ Thread:11 $ Parsing $ http://www2.scut.edu.cn/s/135/t/141/0c/34/info134196.htm $ Successful
+2016-04-27 23:34:30.961:$ Thread:11 $ Fetching $ http://www.scut.edu.cn/webpage/view.htm $ Successful
+2016-04-27 23:34:30.961:$ Thread:11 $ Fetching $ http://www.scut.edu.cn/course/blank.html $ Error: get InputStream failed
+2016-04-27 23:34:30.962:$ Thread:11 $ Parseing $ http://map.scut.edu.cn/Error $Found malformed URL: javascript:smallmapsearch.doindexpagenavgsearch(1,'82');
+2016-04-27 23:34:30.971:$ Thread:11 $ Connecting $http://www.scut.edu.cn/sie/blank.htm $ Successful
+2016-04-27 23:34:30.972:$ Thread:11 $ Connecting $http://www.scut.edu.cn/webpage/magazine.htm $ Successful
+2016-04-27 23:34:30.979:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/science/ $ Successful
+2016-04-27 23:34:30.994:$ Thread:11 $ Fetching $ http://www.scut.edu.cn/sie/blank.htm $ Error: get InputStream failed
+2016-04-27 23:34:30.997:$ Thread:11 $ Parseing $ http://map.scut.edu.cn/Error $Found malformed URL: javascript:smallmapsearch.doindexpagenavgsearch(1,'84');
+2016-04-27 23:34:31.000:$ Thread:11 $ Parseing $ http://map.scut.edu.cn/Error $Found malformed URL: javascript:hnlgui.domenu('schoolbus');
+2016-04-27 23:34:31.000:$ Thread:11 $ Fetching $ http://www2.scut.edu.cn/science/ $ Successful
+2016-04-27 23:34:31.026:$ Thread:11 $ Parseing $ http://map.scut.edu.cn/Error $Found malformed URL: javascript:hnlgui.domenu('busstation');
+2016-04-27 23:34:31.027:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/s/41/t/18/p/1/c/713/list.htm $ Successful
+2016-04-27 23:34:31.053:$ Thread:11 $ Parseing $ http://map.scut.edu.cn/Error $Found malformed URL: javascript:smallmapsearch.doindexpagenavgsearch(1,'85');
+2016-04-27 23:34:31.054:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/s/41/t/18/p/1/c/714/list.htm $ Successful
+2016-04-27 23:34:31.059:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/s/41/t/18/p/1/c/712/list.htm $ Successful
+2016-04-27 23:34:31.067:$ Thread:11 $ Parseing $ http://map.scut.edu.cn/Error $Found malformed URL: javascript:smallmapsearch.doindexpagenavgsearch(1,'86');
+2016-04-27 23:34:31.067:$ Thread:11 $ Parsing $ http://www.scut.edu.cn/webpage/magazine.htm $ Successful
+2016-04-27 23:34:31.073:$ Thread:11 $ Fetching $ http://www.scut.edu.cn/webpage/magazine.htm $ Successful
+2016-04-27 23:34:31.078:$ Thread:11 $ Parseing $ http://map.scut.edu.cn/Error $Found malformed URL: javascript:smallmapsearch.doindexpagenavgsearch(1,'83');
+2016-04-27 23:34:31.082:$ Thread:11 $ Parseing $ http://map.scut.edu.cn/Error $Found malformed URL: javascript:;
+2016-04-27 23:34:31.082:$ Thread:11 $ Parseing $ http://map.scut.edu.cn/Error $Found malformed URL: javascript:;
+2016-04-27 23:34:31.094:$ Thread:11 $ Parseing $ http://map.scut.edu.cn/Error $Found malformed URL: javascript:;
+2016-04-27 23:34:31.094:$ Thread:11 $ Parsing $ http://www2.scut.edu.cn/science/ $ Successful
+2016-04-27 23:34:31.094:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/s/41/t/18/p/1/c/715/list.htm $ Successful
+2016-04-27 23:34:31.102:$ Thread:11 $ Parseing $ http://map.scut.edu.cn/Error $Found malformed URL: javascript:smallmapsearch.doindexpagenavgsearch(1,'81');
+2016-04-27 23:34:31.102:$ Thread:11 $ Connecting $http://www.scut.edu.cn/xuebao $ Successful
+2016-04-27 23:34:31.106:$ Thread:11 $ Fetching $ http://www2.scut.edu.cn/s/41/t/18/p/1/c/713/list.htm $ Successful
+2016-04-27 23:34:31.121:$ Thread:11 $ Fetching $ http://www2.scut.edu.cn/s/41/t/18/p/1/c/714/list.htm $ Successful
+2016-04-27 23:34:31.122:$ Thread:16 $ Parseing $ http://map.scut.edu.cn/Error $Found malformed URL: javascript:closevr();
+2016-04-27 23:34:31.128:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/s/41/t/18/p/1/c/716/list.htm $ Successful
+2016-04-27 23:34:31.134:$ Thread:16 $ Fetching $ http://www2.scut.edu.cn/s/41/t/18/p/1/c/712/list.htm $ Successful
+2016-04-27 23:34:31.453:$ Thread:17 $ Connecting $http://www2.scut.edu.cn/s/41/t/18/p/1/c/717/list.htm $ Successful
+2016-04-27 23:34:31.459:$ Thread:17 $ Connecting $http://www2.scut.edu.cn/s/41/main.htm $ Successful
+2016-04-27 23:34:31.459:$ Thread:17 $ Parseing $ http://www2.scut.edu.cn/s/41/t/18/p/1/c/712/list.htmError $Found malformed URL: javascript:if(true){gotourl='/s/41/t/18/p/1/c/712/i//list.htm';location.href=gotourl.replace('i/','i/'+document.all('pageindex_pdt').value)}
+2016-04-27 23:34:31.460:$ Thread:17 $ Parseing $ http://www2.scut.edu.cn/s/41/t/18/p/1/c/714/list.htmError $Found malformed URL: javascript:if(true){gotourl='/s/41/t/18/p/1/c/714/i//list.htm';location.href=gotourl.replace('i/','i/'+document.all('pageindex_pdt').value)}
+2016-04-27 23:34:31.461:$ Thread:15 $ Connecting $http://www2.scut.edu.cn/s/41/t/18/p/1/c/720/list.htm $ Successful
+2016-04-27 23:34:31.461:$ Thread:15 $ Complete $http://www.scut.edu.cn/webpage/magazine.htm Successful $
+2016-04-27 23:34:31.462:$ Thread:15 $ Connecting $http://www2.scut.edu.cn/s/41/t/18/p/1/c/726/list.htm $ Successful
+2016-04-27 23:34:31.466:$ Thread:11 $ Fetching $ http://www2.scut.edu.cn/s/41/t/18/p/1/c/715/list.htm $ Successful
+2016-04-27 23:34:31.494:$ Thread:15 $ Connecting $http://www2.scut.edu.cn/s/41/t/18/p/1/c/718/list.htm $ Successful
+2016-04-27 23:34:31.495:$ Thread:15 $ Complete $http://www2.scut.edu.cn/science/ Successful $
+2016-04-27 23:34:31.495:$ Thread:15 $ Connecting $http://www2.scut.edu.cn/s/41/t/18/p/1/c/722/list.htm $ Successful
+2016-04-27 23:34:31.506:$ Thread:17 $ Parsing $ http://www2.scut.edu.cn/s/41/t/18/p/1/c/713/list.htm $ Successful
+2016-04-27 23:34:31.507:$ Thread:17 $ Parseing $ http://www2.scut.edu.cn/s/41/t/18/p/1/c/715/list.htmError $Found malformed URL: javascript:if(true){gotourl='/s/41/t/18/p/1/c/715/i//list.htm';location.href=gotourl.replace('i/','i/'+document.all('pageindex_pdt').value)}
+2016-04-27 23:34:31.507:$ Thread:16 $ Parseing $ http://map.scut.edu.cn/Error $Found malformed URL: javascript:;
+2016-04-27 23:34:31.508:$ Thread:16 $ Fetching $ http://www2.scut.edu.cn/s/41/t/18/p/1/c/716/list.htm $ Successful
+2016-04-27 23:34:31.511:$ Thread:15 $ Parsing $ http://www2.scut.edu.cn/s/135/t/141/main.htm $ Successful
+2016-04-27 23:34:31.511:$ Thread:15 $ Connecting $http://www2.scut.edu.cn/s/41/t/18/p/11/list.htm $ Successful
+2016-04-27 23:34:31.511:$ Thread:15 $ Fetching $ http://www2.scut.edu.cn/s/41/t/18/p/1/c/717/list.htm $ Successful
+2016-04-27 23:34:31.511:$ Thread:15 $ Parsing $ http://map.scut.edu.cn/ $ Successful
+2016-04-27 23:34:31.512:$ Thread:15 $ Connecting $http://www2.scut.edu.cn/s/41/t/18/p/1/c/712/d/2789/list.htm $ Successful
+2016-04-27 23:34:31.513:$ Thread:11 $ Parsing $ http://www2.scut.edu.cn/sie-cn/ $ Successful
+2016-04-27 23:34:31.513:$ Thread:11 $ Parsing $ http://www2.scut.edu.cn/s/41/t/18/p/1/c/714/list.htm $ Successful
+2016-04-27 23:34:31.524:$ Thread:17 $ Parsing $ http://www2.scut.edu.cn/s/41/t/18/p/1/c/712/list.htm $ Successful
+2016-04-27 23:34:31.524:$ Thread:17 $ Fetching $ http://www2.scut.edu.cn/s/41/main.htm $ Successful
+2016-04-27 23:34:31.529:$ Thread:15 $ Fetching $ http://www2.scut.edu.cn/s/41/t/18/p/1/c/726/list.htm $ Successful
+2016-04-27 23:34:31.529:$ Thread:15 $ Connecting $http://www2.scut.edu.cn/s/41/t/18/59/20/info22816.htm $ Successful
+2016-04-27 23:34:31.538:$ Thread:16 $ Fetching $ http://www.scut.edu.cn/xuebao $ Successful
+2016-04-27 23:34:31.550:$ Thread:15 $ Fetching $ http://www2.scut.edu.cn/s/41/t/18/p/1/c/722/list.htm $ Successful
+2016-04-27 23:34:31.550:$ Thread:15 $ Parseing $ http://www2.scut.edu.cn/s/41/t/18/p/1/c/717/list.htmError $Found malformed URL: javascript:if(true){gotourl='/s/41/t/18/p/1/c/717/i//list.htm';location.href=gotourl.replace('i/','i/'+document.all('pageindex_pdt').value)}
+2016-04-27 23:34:31.550:$ Thread:15 $ Connecting $https://cas.scut.edu.cn/amserver/ui/login?goto=http%3a%2f%2fkygl.7i2.cas.scut.edu.cn%2fbusiness%2fssologin.jsp $ Error: open connection failed
+2016-04-27 23:34:31.551:$ Thread:11 $ Parsing $ http://www2.scut.edu.cn/s/41/t/18/p/1/c/715/list.htm $ Successful
+2016-04-27 23:34:31.551:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/s/41/t/18/59/1f/info22815.htm $ Successful
+2016-04-27 23:34:31.552:$ Thread:11 $ Fetching $ http://www2.scut.edu.cn/s/41/t/18/p/1/c/718/list.htm $ Successful
+2016-04-27 23:34:31.557:$ Thread:15 $ Complete $http://www2.scut.edu.cn/s/135/t/141/main.htm Successful $
+2016-04-27 23:34:31.558:$ Thread:15 $ Complete $http://www2.scut.edu.cn/s/41/t/18/p/1/c/713/list.htm Successful $
+2016-04-27 23:34:31.566:$ Thread:15 $ Complete $http://map.scut.edu.cn/ Successful $
+2016-04-27 23:34:31.568:$ Thread:16 $ Complete $http://www2.scut.edu.cn/s/41/t/18/p/1/c/714/list.htm Successful $
+2016-04-27 23:34:31.569:$ Thread:16 $ Fetching $ http://www2.scut.edu.cn/s/41/t/18/p/1/c/720/list.htm $ Successful
+2016-04-27 23:34:31.569:$ Thread:15 $ Fetching $ http://www2.scut.edu.cn/s/41/t/18/p/11/list.htm $ Successful
+2016-04-27 23:34:31.585:$ Thread:11 $ Complete $http://www2.scut.edu.cn/s/41/t/18/p/1/c/712/list.htm Successful $
+2016-04-27 23:34:31.587:$ Thread:17 $ Parseing $ http://www2.scut.edu.cn/s/41/t/18/p/1/c/722/list.htmError $Found malformed URL: javascript:if(true){gotourl='/s/41/t/18/p/1/c/722/i//list.htm';location.href=gotourl.replace('i/','i/'+document.all('pageindex_pdt').value)}
+2016-04-27 23:34:31.587:$ Thread:17 $ Fetching $ http://www2.scut.edu.cn/s/41/t/18/p/1/c/712/d/2789/list.htm $ Successful
+2016-04-27 23:34:31.592:$ Thread:11 $ Parsing $ http://www2.scut.edu.cn/s/41/t/18/p/1/c/716/list.htm $ Successful
+2016-04-27 23:34:31.592:$ Thread:15 $ Connecting $http://www2.scut.edu.cn/s/41/t/18/p/1/c/721/list.htm $ Successful
+2016-04-27 23:34:31.593:$ Thread:15 $ Parsing $ http://www.scut.edu.cn/xuebao $ Successful
+2016-04-27 23:34:31.593:$ Thread:11 $ Parsing $ http://www2.scut.edu.cn/s/41/main.htm $ Successful
+2016-04-27 23:34:31.600:$ Thread:15 $ Fetching $ http://www2.scut.edu.cn/s/41/t/18/59/20/info22816.htm $ Successful
+2016-04-27 23:34:31.600:$ Thread:15 $ Parsing $ http://www2.scut.edu.cn/s/41/t/18/p/1/c/717/list.htm $ Successful
+2016-04-27 23:34:31.601:$ Thread:15 $ Connecting $http://www2.scut.edu.cn/s/41/t/18/59/1e/info22814.htm $ Successful
+2016-04-27 23:34:31.609:$ Thread:17 $ Connecting $http://www2.scut.edu.cn/s/41/t/18/59/22/info22818.htm $ Successful
+2016-04-27 23:34:31.609:$ Thread:17 $ Parseing $ http://www2.scut.edu.cn/s/41/t/18/p/1/c/712/d/2789/list.htmError $Found malformed URL: javascript:if(true){gotourl='/s/41/t/18/p/1/c/712/d/2789/i//list.htm';location.href=gotourl.replace('i/','i/'+document.all('pageindex_pdt').value)}
+2016-04-27 23:34:31.609:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/s/41/t/18/p/14/list.htm $ Successful
+2016-04-27 23:34:31.609:$ Thread:11 $ Parsing $ http://www2.scut.edu.cn/s/135/t/141/p/1/c/4121/list.htm $ Successful
+2016-04-27 23:34:31.613:$ Thread:11 $ Parseing $ http://www2.scut.edu.cn/s/135/t/141/p/1/c/4121/list.htmError $Found malformed URL: javascript:if(true){gotourl='/s/135/t/141/p/1/c/4121/i//list.htm';location.href=gotourl.replace('i/','i/'+document.all('pageindex_pdt').value)}
+2016-04-27 23:34:31.613:$ Thread:11 $ Connecting $http://sites.scut.edu.cn $ Successful
+2016-04-27 23:34:31.614:$ Thread:11 $ Parsing $ http://www2.scut.edu.cn/s/41/t/18/p/1/c/726/list.htm $ Successful
+2016-04-27 23:34:31.614:$ Thread:11 $ Parseing $ http://www2.scut.edu.cn/s/41/t/18/p/1/c/720/list.htmError $Found malformed URL: javascript:if(true){gotourl='/s/41/t/18/p/1/c/720/i//list.htm';location.href=gotourl.replace('i/','i/'+document.all('pageindex_pdt').value)}
+2016-04-27 23:34:31.632:$ Thread:15 $ Connecting $http://www2.scut.edu.cn/s/41/t/18/p/12/list.htm $ Successful
+2016-04-27 23:34:31.634:$ Thread:16 $ Parsing $ http://www2.scut.edu.cn/s/41/t/18/p/1/c/718/list.htm $ Successful
+2016-04-27 23:34:31.635:$ Thread:16 $ Connecting $http://www2.scut.edu.cn/gjs/index.htm $ Successful
+2016-04-27 23:34:31.635:$ Thread:16 $ Fetching $ http://www2.scut.edu.cn/s/41/t/18/59/1f/info22815.htm $ Successful
+2016-04-27 23:34:31.636:$ Thread:17 $ Connecting $http://www2.scut.edu.cn/s/41/t/18/59/21/info22817.htm $ Successful
+2016-04-27 23:34:31.640:$ Thread:17 $ Parseing $ http://www2.scut.edu.cn/s/135/t/141/p/1/c/4121/d/4571/list.htmError $Found malformed URL: javascript:if(true){gotourl='/s/135/t/141/p/1/c/4121/d/4571/i//list.htm';location.href=gotourl.replace('i/','i/'+document.all('pageindex_pdt').value)}
+2016-04-27 23:34:31.642:$ Thread:17 $ Fetching $ http://www2.scut.edu.cn/s/41/t/18/p/1/c/721/list.htm $ Successful
+2016-04-27 23:34:31.642:$ Thread:17 $ Connecting $http://www.scut.edu.cn/nfjz $ Successful
+2016-04-27 23:34:31.644:$ Thread:11 $ Complete $http://www2.scut.edu.cn/s/41/t/18/p/1/c/716/list.htm Successful $
+2016-04-27 23:34:31.644:$ Thread:11 $ Complete $http://www.scut.edu.cn/xuebao Successful $
+2016-04-27 23:34:31.652:$ Thread:11 $ Complete $http://www2.scut.edu.cn/s/41/main.htm Successful $
+2016-04-27 23:34:31.657:$ Thread:11 $ Parsing $ http://www2.scut.edu.cn/s/41/t/18/p/1/c/722/list.htm $ Successful
+2016-04-27 23:34:31.657:$ Thread:11 $ Fetching $ http://www2.scut.edu.cn/s/41/t/18/p/14/list.htm $ Successful
+2016-04-27 23:34:31.664:$ Thread:16 $ Parsing $ http://www2.scut.edu.cn/s/41/t/18/p/1/c/712/d/2789/list.htm $ Successful
+2016-04-27 23:34:31.664:$ Thread:16 $ Connecting $http://www2.scut.edu.cn/s/41/t/18/ab/94/info109460.htm $ Successful
+2016-04-27 23:34:31.667:$ Thread:17 $ Parsing $ http://www2.scut.edu.cn/s/41/t/18/59/20/info22816.htm $ Successful
+2016-04-27 23:34:31.668:$ Thread:17 $ Complete $http://www2.scut.edu.cn/s/41/t/18/p/1/c/717/list.htm Successful $
+2016-04-27 23:34:31.669:$ Thread:17 $ Connecting $http://www2.scut.edu.cn/s/41/t/18/ea/35/info125493.htm $ Successful
+2016-04-27 23:34:31.673:$ Thread:17 $ Parsing $ http://www2.scut.edu.cn/s/41/t/18/p/11/list.htm $ Successful
+2016-04-27 23:34:31.673:$ Thread:16 $ Complete $http://www2.scut.edu.cn/s/41/t/18/p/1/c/715/list.htm Successful $
+2016-04-27 23:34:31.673:$ Thread:16 $ Fetching $ http://www2.scut.edu.cn/s/135/t/141/p/1/c/4121/d/4571/list.htm $ Successful
+2016-04-27 23:34:31.674:$ Thread:16 $ Connecting $http://www2.scut.edu.cn/s/135/t/141/p/1/c/4121/d/4569/list.htm $ Successful
+2016-04-27 23:34:31.674:$ Thread:16 $ Fetching $ http://www2.scut.edu.cn/s/135/t/141/p/1/c/4121/d/4122/list.htm $ Successful
+2016-04-27 23:34:31.674:$ Thread:16 $ Complete $http://www.scut.edu.cn/webpage/jg.htm Successful $
+2016-04-27 23:34:31.674:$ Thread:16 $ Complete $http://www.scut.edu.cn/webpage/history.htm Successful $
+2016-04-27 23:34:31.676:$ Thread:15 $ Fetching $ http://www.scut.edu.cn/webpage/logo.htm $ Successful
+2016-04-27 23:34:31.677:$ Thread:16 $ Fetching $ http://www2.scut.edu.cn/s/41/t/18/p/12/list.htm $ Successful
+2016-04-27 23:34:31.678:$ Thread:17 $ Connecting $http://www2.scut.edu.cn/s/41/t/18/0d/37/info134455.htm $ Successful
+2016-04-27 23:34:31.682:$ Thread:16 $ Parsing $ http://www2.scut.edu.cn/s/135/t/141/p/1/c/4121/d/4571/list.htm $ Successful
+2016-04-27 23:34:31.682:$ Thread:16 $ Connecting $http://www2.scut.edu.cn/s/41/t/18/0c/ce/info134350.htm $ Successful
+2016-04-27 23:34:31.684:$ Thread:17 $ Fetching $ http://www2.scut.edu.cn/gjs/index.htm $ Successful
+2016-04-27 23:34:31.684:$ Thread:17 $ Complete $http://www2.scut.edu.cn/s/41/t/18/p/1/c/718/list.htm Successful $
+2016-04-27 23:34:31.688:$ Thread:11 $ Parseing $ http://www2.scut.edu.cn/s/41/t/18/p/14/list.htmError $Found malformed URL: javascript:if(true){gotourl='/s/41/t/18/p/14/i//list.htm';location.href=gotourl.replace('i/','i/'+document.all('pageindex_pdt').value)}
+2016-04-27 23:34:31.688:$ Thread:11 $ Parsing $ http://www2.scut.edu.cn/s/41/t/18/p/1/c/720/list.htm $ Successful
+2016-04-27 23:34:31.688:$ Thread:16 $ Complete $http://www2.scut.edu.cn/s/41/t/18/p/1/c/722/list.htm Successful $
+2016-04-27 23:34:31.688:$ Thread:11 $ Fetching $ http://sites.scut.edu.cn $ Successful
+2016-04-27 23:34:31.688:$ Thread:11 $ Connecting $http://www.scut.edu.cn/security/blank.htm $ Successful
+2016-04-27 23:34:31.690:$ Thread:17 $ Connecting $http://www2.scut.edu.cn/s/41/t/18/0c/54/info134228.htm $ Successful
+2016-04-27 23:34:31.690:$ Thread:17 $ Fetching $ http://www2.scut.edu.cn/s/41/t/18/59/21/info22817.htm $ Successful
+2016-04-27 23:34:31.701:$ Thread:17 $ Fetching $ http://www2.scut.edu.cn/s/41/t/18/ea/35/info125493.htm $ Successful
+2016-04-27 23:34:31.709:$ Thread:11 $ Complete $http://www2.scut.edu.cn/s/41/t/18/p/1/c/712/d/2789/list.htm Successful $
+2016-04-27 23:34:31.709:$ Thread:11 $ Fetching $ http://www.scut.edu.cn/nfjz $ Successful
+2016-04-27 23:34:31.711:$ Thread:15 $ Connecting $http://www2.scut.edu.cn/s/41/t/18/0c/15/info134165.htm $ Successful
+2016-04-27 23:34:31.714:$ Thread:16 $ Complete $http://www2.scut.edu.cn/s/41/t/18/59/20/info22816.htm Successful $
+2016-04-27 23:34:31.715:$ Thread:16 $ Connecting $http://www2.scut.edu.cn/s/41/t/18/0c/35/info134197.htm $ Successful
+2016-04-27 23:34:31.717:$ Thread:11 $ Complete $http://www2.scut.edu.cn/s/41/t/18/p/11/list.htm Successful $
+2016-04-27 23:34:31.721:$ Thread:16 $ Fetching $ http://www2.scut.edu.cn/s/41/t/18/ab/94/info109460.htm $ Successful
+2016-04-27 23:34:31.721:$ Thread:16 $ Parsing $ http://www2.scut.edu.cn/s/41/t/18/p/1/c/721/list.htm $ Successful
+2016-04-27 23:34:31.724:$ Thread:11 $ Parsing $ http://www.scut.edu.cn/webpage/logo.htm $ Successful
+2016-04-27 23:34:31.724:$ Thread:11 $ Fetching $ http://www2.scut.edu.cn/s/41/t/18/59/22/info22818.htm $ Successful
+2016-04-27 23:34:31.736:$ Thread:15 $ Connecting $http://www2.scut.edu.cn/s/56/t/419/main.htm $ Successful
+2016-04-27 23:34:31.740:$ Thread:11 $ Complete $http://www2.scut.edu.cn/s/135/t/141/p/1/c/4121/d/4571/list.htm Successful $
+2016-04-27 23:34:31.744:$ Thread:17 $ Fetching $ http://www2.scut.edu.cn/s/41/t/18/0d/37/info134455.htm $ Successful
+2016-04-27 23:34:31.744:$ Thread:15 $ Parsing $ http://www2.scut.edu.cn/s/41/t/18/p/14/list.htm $ Successful
+2016-04-27 23:34:31.744:$ Thread:17 $ Complete $http://www2.scut.edu.cn/s/41/t/18/p/1/c/720/list.htm Successful $
+2016-04-27 23:34:31.745:$ Thread:17 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/e7/c2/info124866.htm $ Successful
+2016-04-27 23:34:31.745:$ Thread:17 $ Fetching $ http://www2.scut.edu.cn/s/41/t/18/0c/ce/info134350.htm $ Successful
+2016-04-27 23:34:31.748:$ Thread:15 $ Parsing $ http://www2.scut.edu.cn/gjs/index.htm $ Successful
+2016-04-27 23:34:31.749:$ Thread:15 $ Parsing $ http://sites.scut.edu.cn $ Successful
+2016-04-27 23:34:31.749:$ Thread:11 $ Parseing $ http://www2.scut.edu.cn/s/41/t/18/p/12/list.htmError $Found malformed URL: javascript:if(true){gotourl='/s/41/t/18/p/12/i//list.htm';location.href=gotourl.replace('i/','i/'+document.all('pageindex_pdt').value)}
+2016-04-27 23:34:31.749:$ Thread:15 $ Parsing $ http://www2.scut.edu.cn/s/41/t/18/59/21/info22817.htm $ Successful
+2016-04-27 23:34:31.749:$ Thread:11 $ Fetching $ http://www.scut.edu.cn/security/blank.htm $ Error: get InputStream failed
+2016-04-27 23:34:31.749:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/e4/0c/info123916.htm $ Successful
+2016-04-27 23:34:31.750:$ Thread:15 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/e4/0b/info123915.htm $ Successful
+2016-04-27 23:34:31.751:$ Thread:17 $ Parsing $ http://www.scut.edu.cn/nfjz $ Successful
+2016-04-27 23:34:31.751:$ Thread:17 $ Parsing $ http://www2.scut.edu.cn/s/41/t/18/p/12/list.htm $ Successful
+2016-04-27 23:34:31.752:$ Thread:17 $ Fetching $ http://www2.scut.edu.cn/s/41/t/18/0c/54/info134228.htm $ Successful
+2016-04-27 23:34:31.759:$ Thread:15 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/e3/e7/info123879.htm $ Successful
+2016-04-27 23:34:31.773:$ Thread:11 $ Fetching $ http://www2.scut.edu.cn/s/41/t/18/0e/cb/info134859.htm $ Successful
+2016-04-27 23:34:31.774:$ Thread:15 $ Fetching $ http://www2.scut.edu.cn/s/41/t/18/0c/15/info134165.htm $ Successful
+2016-04-27 23:34:31.796:$ Thread:16 $ Fetching $ http://www2.scut.edu.cn/s/41/t/18/0c/35/info134197.htm $ Successful
+2016-04-27 23:34:31.796:$ Thread:17 $ Complete $http://www2.scut.edu.cn/s/41/t/18/p/1/c/721/list.htm Successful $
+2016-04-27 23:34:31.797:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/e3/ca/info123850.htm $ Successful
+2016-04-27 23:34:31.797:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/e3/d3/info123859.htm $ Successful
+2016-04-27 23:34:31.797:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/s/41/t/18/0e/cb/info134859.htm $ Successful
+2016-04-27 23:34:31.797:$ Thread:11 $ Parsing $ http://www2.scut.edu.cn/s/41/t/18/59/1f/info22815.htm $ Successful
+2016-04-27 23:34:31.800:$ Thread:16 $ Fetching $ http://www2.scut.edu.cn/s/41/t/18/59/1e/info22814.htm $ Successful
+2016-04-27 23:34:31.810:$ Thread:16 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/0d/95/info134549.htm $ Successful
+2016-04-27 23:34:31.815:$ Thread:17 $ Complete $http://www2.scut.edu.cn/s/41/t/18/p/14/list.htm Successful $
+2016-04-27 23:34:31.816:$ Thread:17 $ Fetching $ http://www2.scut.edu.cn/s/56/t/419/main.htm $ Successful
+2016-04-27 23:34:31.816:$ Thread:17 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/0d/59/info134489.htm $ Successful
+2016-04-27 23:34:31.817:$ Thread:15 $ Parsing $ http://www2.scut.edu.cn/s/41/t/18/ab/94/info109460.htm $ Successful
+2016-04-27 23:34:31.818:$ Thread:15 $ Complete $http://sites.scut.edu.cn Successful $
+2016-04-27 23:34:31.819:$ Thread:15 $ Complete $http://www2.scut.edu.cn/gjs/index.htm Successful $
+2016-04-27 23:34:31.820:$ Thread:15 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/0c/55/info134229.htm $ Successful
+2016-04-27 23:34:31.823:$ Thread:17 $ Fetching $ http://www2.scut.edu.cn/s/56/t/402/e7/c2/info124866.htm $ Successful
+2016-04-27 23:34:31.823:$ Thread:11 $ Parsing $ http://www2.scut.edu.cn/s/41/t/18/0d/37/info134455.htm $ Successful
+2016-04-27 23:34:31.824:$ Thread:11 $ Complete $http://www2.scut.edu.cn/s/41/t/18/p/12/list.htm Successful $
+2016-04-27 23:34:31.825:$ Thread:11 $ Fetching $ http://www2.scut.edu.cn/s/56/t/402/e4/0b/info123915.htm $ Successful
+2016-04-27 23:34:31.825:$ Thread:15 $ Complete $http://www.scut.edu.cn/nfjz Successful $
+2016-04-27 23:34:31.828:$ Thread:15 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/e7/c2/info124866.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:31.828:$ Thread:15 $ Parsing $ http://www2.scut.edu.cn/s/41/t/18/0c/54/info134228.htm $ Successful
+2016-04-27 23:34:31.830:$ Thread:15 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/e7/c2/info124866.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:31.833:$ Thread:16 $ Fetching $ http://www2.scut.edu.cn/s/56/t/402/e4/0c/info123916.htm $ Successful
+2016-04-27 23:34:31.834:$ Thread:16 $ Fetching $ http://www2.scut.edu.cn/s/56/t/402/e3/e7/info123879.htm $ Successful
+2016-04-27 23:34:31.834:$ Thread:16 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/e4/0b/info123915.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:31.837:$ Thread:16 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/e4/0c/info123916.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:32.769:$ Thread:12 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/e4/0b/info123915.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:32.769:$ Thread:12 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/e7/c2/info124866.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:32.775:$ Thread:12 $ Complete $http://www2.scut.edu.cn/s/41/t/18/59/21/info22817.htm Successful $
+2016-04-27 23:34:32.780:$ Thread:12 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/e3/e7/info123879.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:32.781:$ Thread:12 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/e4/0c/info123916.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:32.784:$ Thread:12 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/e7/c2/info124866.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:32.784:$ Thread:12 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/e4/0b/info123915.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:32.787:$ Thread:12 $ Complete $http://www.scut.edu.cn/webpage/logo.htm Successful $
+2016-04-27 23:34:32.792:$ Thread:12 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/e3/e7/info123879.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:32.801:$ Thread:12 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/e3/e7/info123879.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:35.806:$ Thread:17 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/e4/0c/info123916.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:35.806:$ Thread:17 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/e7/c2/info124866.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:35.807:$ Thread:15 $ Fetching $ http://www2.scut.edu.cn/s/56/t/402/e3/d3/info123859.htm $ Successful
+2016-04-27 23:34:35.807:$ Thread:15 $ Parsing $ http://www2.scut.edu.cn/s/41/t/18/59/22/info22818.htm $ Successful
+2016-04-27 23:34:35.808:$ Thread:15 $ Parsing $ http://www2.scut.edu.cn/s/41/t/18/ea/35/info125493.htm $ Successful
+2016-04-27 23:34:35.810:$ Thread:17 $ Complete $http://www2.scut.edu.cn/s/41/t/18/p/1/c/726/list.htm Successful $
+2016-04-27 23:34:35.811:$ Thread:17 $ Fetching $ http://www.scut.edu.cn/academic/blank.htm $ Successful
+2016-04-27 23:34:35.814:$ Thread:11 $ Complete $http://www2.scut.edu.cn/sie-cn/ Successful $
+2016-04-27 23:34:35.814:$ Thread:17 $ Parseing $ http://www2.scut.edu.cn/s/41/t/18/p/1/c/721/list.htmError $Found malformed URL: javascript:if(true){gotourl='/s/41/t/18/p/1/c/721/i//list.htm';location.href=gotourl.replace('i/','i/'+document.all('pageindex_pdt').value)}
+2016-04-27 23:34:35.814:$ Thread:11 $ Parsing $ http://www2.scut.edu.cn/auto-en/ $ Successful
+2016-04-27 23:34:35.814:$ Thread:17 $ Complete $http://www.scut.edu.cn/webpage/about.htm Successful $
+2016-04-27 23:34:35.814:$ Thread:11 $ Fetching $ http://www2.scut.edu.cn/s/27/t/3/0f/6c/info3948.htm $ Successful
+2016-04-27 23:34:35.814:$ Thread:17 $ Parsing $ http://www.scut.edu.cn/webpage/about.htm $ Successful
+2016-04-27 23:34:35.815:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/s/27/t/3/0f/6c/info3948.htm $ Successful
+2016-04-27 23:34:35.815:$ Thread:17 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/0c/2f/info134191.htm $ Successful
+2016-04-27 23:34:35.815:$ Thread:11 $ Complete $http://www2.scut.edu.cn/s/41/t/18/59/1f/info22815.htm Successful $
+2016-04-27 23:34:35.815:$ Thread:17 $ Complete $http://www2.scut.edu.cn/s/41/t/18/ab/94/info109460.htm Successful $
+2016-04-27 23:34:35.816:$ Thread:12 $ Fetching $ http://www2.scut.edu.cn/s/56/t/402/0d/59/info134489.htm $ Successful
+2016-04-27 23:34:35.817:$ Thread:15 $ Parsing $ http://www2.scut.edu.cn/s/41/t/18/59/1e/info22814.htm $ Successful
+2016-04-27 23:34:35.818:$ Thread:15 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/ea/90/info125584.htm $ Successful
+2016-04-27 23:34:35.818:$ Thread:15 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/0d/59/info134489.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:35.819:$ Thread:15 $ Fetching $ http://www2.scut.edu.cn/s/56/t/402/0c/55/info134229.htm $ Successful
+2016-04-27 23:34:35.820:$ Thread:17 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/0d/59/info134489.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:35.822:$ Thread:15 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/08/1b/info133147.htm $ Successful
+2016-04-27 23:34:35.823:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/e8/bf/info125119.htm $ Successful
+2016-04-27 23:34:35.824:$ Thread:15 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/0d/59/info134489.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:35.825:$ Thread:17 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/dc/89/info121993.htm $ Successful
+2016-04-27 23:34:35.828:$ Thread:11 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/0d/59/info134489.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:35.828:$ Thread:11 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/0d/59/info134489.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:35.829:$ Thread:11 $ Complete $http://www2.scut.edu.cn/s/41/t/18/0c/54/info134228.htm Successful $
+2016-04-27 23:34:35.829:$ Thread:15 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/0c/55/info134229.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:35.830:$ Thread:15 $ Complete $http://www2.scut.edu.cn/s/41/t/18/0d/37/info134455.htm Successful $
+2016-04-27 23:34:35.833:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/db/e0/info121824.htm $ Successful
+2016-04-27 23:34:35.834:$ Thread:15 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/0d/59/info134489.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:35.835:$ Thread:15 $ Connecting $http://www2.scut.edu.cn/picture/article/56/ac/88/d72bdfbc4c69bcb76c099c936f83/4944ba9b-6f16-4962-ae3a-7ef5936203b6.docx $ Successful
+2016-04-27 23:34:35.837:$ Thread:17 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/0c/55/info134229.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:35.843:$ Thread:17 $ Connecting $ http://search.scut.edu.cn:8080/index.html $ Error: connection timeout for 1 times
+2016-04-27 23:34:35.845:$ Thread:11 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/0c/55/info134229.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:35.846:$ Thread:11 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/0d/59/info134489.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:35.847:$ Thread:17 $ Connecting $http://www2.scut.edu.cn/picture/article/56/d5/17/d36598ec46efb56579dd84a51066/a32c548d-addc-4005-8c2f-f511670af8cf.docx $ Successful
+2016-04-27 23:34:35.848:$ Thread:11 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/0c/55/info134229.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:35.851:$ Thread:17 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/0d/59/info134489.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:35.856:$ Thread:17 $ Connecting $http://www2.scut.edu.cn/picture/article/56/24/42/15b4f4d54aa7b2fd0912bf0b1ad1/03942ffd-1566-4b0d-a817-a0bd9714e65a.docx $ Successful
+2016-04-27 23:34:35.856:$ Thread:17 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/0c/55/info134229.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:35.859:$ Thread:11 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/0d/59/info134489.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:35.861:$ Thread:12 $ Connecting $http://www2.scut.edu.cn/picture/article/56/27/4a/12f9ea8b45fdaf81595bc59c2e97/53401112-2931-4fb7-a7aa-ac95d7eef5ba.docx $ Successful
+2016-04-27 23:34:35.862:$ Thread:17 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/0c/55/info134229.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:35.864:$ Thread:12 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/d5/74/info120180.htm $ Successful
+2016-04-27 23:34:35.865:$ Thread:12 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/0c/55/info134229.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:35.868:$ Thread:11 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/0c/55/info134229.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:35.868:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/0c/05/info134149.htm $ Successful
+2016-04-27 23:34:35.874:$ Thread:17 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/0c/55/info134229.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:35.874:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/bf/fe/info114686.htm $ Successful
+2016-04-27 23:34:35.877:$ Thread:12 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/c5/da/info116186.htm $ Successful
+2016-04-27 23:34:35.879:$ Thread:11 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/0c/55/info134229.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:35.879:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/c0/9b/info114843.htm $ Successful
+2016-04-27 23:34:35.882:$ Thread:17 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/ca/47/info117319.htm $ Successful
+2016-04-27 23:34:35.882:$ Thread:17 $ Parsing $ http://www2.scut.edu.cn/s/56/t/402/e7/c2/info124866.htm $ Successful
+2016-04-27 23:34:35.883:$ Thread:17 $ Parsing $ http://www2.scut.edu.cn/s/56/t/402/e4/0c/info123916.htm $ Successful
+2016-04-27 23:34:35.883:$ Thread:17 $ Complete $http://www2.scut.edu.cn/s/41/t/18/59/22/info22818.htm Successful $
+2016-04-27 23:34:35.883:$ Thread:16 $ Complete $http://www2.scut.edu.cn/s/41/t/18/ea/35/info125493.htm Successful $
+2016-04-27 23:34:35.886:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/cb/2b/info117547.htm $ Successful
+2016-04-27 23:34:35.892:$ Thread:17 $ Parsing $ http://www.scut.edu.cn/academic/blank.htm $ Successful
+2016-04-27 23:34:35.892:$ Thread:16 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/main.htm $ Successful
+2016-04-27 23:34:35.893:$ Thread:16 $ Parsing $ http://www2.scut.edu.cn/s/56/t/402/e4/0b/info123915.htm $ Successful
+2016-04-27 23:34:35.893:$ Thread:16 $ Parsing $ http://www2.scut.edu.cn/s/56/t/402/e3/d3/info123859.htm $ Successful
+2016-04-27 23:34:35.894:$ Thread:16 $ Connecting $http://www2.scut.edu.cn/s/41/t/18/p/15/list.htm $ Successful
+2016-04-27 23:34:35.894:$ Thread:16 $ Connecting $http://www2.scut.edu.cn/s/41/t/18/0b/d9/info134105.htm $ Successful
+2016-04-27 23:34:35.894:$ Thread:16 $ Complete $http://www2.scut.edu.cn/s/41/t/18/59/1e/info22814.htm Successful $
+2016-04-27 23:34:35.894:$ Thread:16 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/0d/59/info134489.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:35.894:$ Thread:16 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/a4/91/info107665.htm $ Successful
+2016-04-27 23:34:35.908:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/a4/93/info107667.htm $ Successful
+2016-04-27 23:34:35.910:$ Thread:17 $ Parsing $ http://www2.scut.edu.cn/s/56/t/402/e3/e7/info123879.htm $ Successful
+2016-04-27 23:34:35.910:$ Thread:17 $ Fetching $ http://www2.scut.edu.cn/s/56/t/402/08/1b/info133147.htm $ Successful
+2016-04-27 23:34:35.910:$ Thread:17 $ Fetching $ http://www2.scut.edu.cn/s/56/t/402/ea/90/info125584.htm $ Successful
+2016-04-27 23:34:35.915:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/a2/e4/info107236.htm $ Successful
+2016-04-27 23:34:35.916:$ Thread:12 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/8d/ba/info36282.htm $ Successful
+2016-04-27 23:34:35.917:$ Thread:12 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/08/1b/info133147.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:35.917:$ Thread:12 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/ea/90/info125584.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:35.925:$ Thread:11 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/08/1b/info133147.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:35.926:$ Thread:12 $ Fetching $ http://www2.scut.edu.cn/s/56/t/402/e8/bf/info125119.htm $ Successful
+2016-04-27 23:34:35.926:$ Thread:12 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/a2/e8/info107240.htm $ Successful
+2016-04-27 23:34:35.934:$ Thread:12 $ Fetching $ http://www2.scut.edu.cn/s/56/t/402/dc/89/info121993.htm $ Successful
+2016-04-27 23:34:35.934:$ Thread:12 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/ea/90/info125584.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:35.934:$ Thread:12 $ Parsing $ http://www2.scut.edu.cn/s/56/t/419/main.htm $ Successful
+2016-04-27 23:34:35.934:$ Thread:12 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/09/ca/info133578.htm $ Successful
+2016-04-27 23:34:35.935:$ Thread:12 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/08/1b/info133147.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:38.859:$ Thread:15 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/ea/90/info125584.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:38.859:$ Thread:15 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/e8/bf/info125119.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:38.864:$ Thread:15 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/dc/89/info121993.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:38.864:$ Thread:15 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/08/1b/info133147.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:38.877:$ Thread:15 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/ea/90/info125584.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:38.895:$ Thread:15 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/a2/e5/info107237.htm $ Successful
+2016-04-27 23:34:38.904:$ Thread:15 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/e8/bf/info125119.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:38.909:$ Thread:15 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/dc/89/info121993.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:38.910:$ Thread:15 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/08/1b/info133147.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:38.910:$ Thread:15 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/ea/90/info125584.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:38.910:$ Thread:15 $ Fetching $ http://www2.scut.edu.cn/s/56/t/402/0a/89/info133769.htm $ Successful
+2016-04-27 23:34:38.918:$ Thread:15 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/e8/bf/info125119.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:38.941:$ Thread:15 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/08/1b/info133147.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:41.924:$ Thread:16 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/dc/89/info121993.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:41.925:$ Thread:16 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/ea/90/info125584.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:41.925:$ Thread:16 $ Fetching $ http://www2.scut.edu.cn/s/56/t/402/db/e0/info121824.htm $ Successful
+2016-04-27 23:34:41.925:$ Thread:16 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/e8/bf/info125119.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:41.931:$ Thread:16 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/0a/89/info133769.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:44.932:$ Thread:12 $ Complete $http://www2.scut.edu.cn/s/56/t/419/main.htm Successful $
+2016-04-27 23:34:44.932:$ Thread:12 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/e8/bf/info125119.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:44.932:$ Thread:12 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/0a/89/info133769.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:44.933:$ Thread:17 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/db/e0/info121824.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:44.937:$ Thread:17 $ Fetching $ http://www2.scut.edu.cn/picture/article/56/ac/88/d72bdfbc4c69bcb76c099c936f83/4944ba9b-6f16-4962-ae3a-7ef5936203b6.docx $ Successful
+2016-04-27 23:34:44.939:$ Thread:12 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/e8/bf/info125119.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:44.939:$ Thread:12 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/0a/89/info133769.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:44.940:$ Thread:12 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/db/e0/info121824.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:44.947:$ Thread:17 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/e8/bf/info125119.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:44.950:$ Thread:17 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/a2/ea/info107242.htm $ Successful
+2016-04-27 23:34:44.955:$ Thread:17 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/0a/89/info133769.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:44.955:$ Thread:17 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/db/e0/info121824.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:44.960:$ Thread:17 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/e8/bf/info125119.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:44.961:$ Thread:12 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/a2/e9/info107241.htm $ Successful
+2016-04-27 23:34:44.961:$ Thread:12 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/0a/89/info133769.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:44.970:$ Thread:12 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/db/e0/info121824.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:44.974:$ Thread:17 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/e8/bf/info125119.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:44.974:$ Thread:17 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/a2/eb/info107243.htm $ Successful
+2016-04-27 23:34:44.974:$ Thread:12 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/0a/89/info133769.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:44.980:$ Thread:17 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/db/e0/info121824.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:44.980:$ Thread:17 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/e8/bf/info125119.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:44.980:$ Thread:17 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/a2/ec/info107244.htm $ Successful
+2016-04-27 23:34:44.981:$ Thread:17 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/0a/89/info133769.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:44.984:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/a2/ee/info107246.htm $ Successful
+2016-04-27 23:34:44.985:$ Thread:11 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/dc/89/info121993.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:44.987:$ Thread:17 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/0a/89/info133769.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:44.988:$ Thread:12 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/db/e0/info121824.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:44.992:$ Thread:11 $ Fetching $ http://www2.scut.edu.cn/picture/article/56/d5/17/d36598ec46efb56579dd84a51066/a32c548d-addc-4005-8c2f-f511670af8cf.docx $ Successful
+2016-04-27 23:34:44.993:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/a2/ef/info107247.htm $ Successful
+2016-04-27 23:34:44.993:$ Thread:11 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/0a/89/info133769.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:44.993:$ Thread:12 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/db/e0/info121824.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:44.993:$ Thread:12 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/dc/89/info121993.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:44.996:$ Thread:12 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/0a/89/info133769.htm $ Successful
+2016-04-27 23:34:44.997:$ Thread:11 $ Parsing $ http://www2.scut.edu.cn/s/56/t/402/0d/59/info134489.htm $ Successful
+2016-04-27 23:34:44.998:$ Thread:17 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/db/e0/info121824.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:44.998:$ Thread:17 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/0a/89/info133769.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:44.998:$ Thread:17 $ Fetching $ http://www2.scut.edu.cn/picture/article/56/24/42/15b4f4d54aa7b2fd0912bf0b1ad1/03942ffd-1566-4b0d-a817-a0bd9714e65a.docx $ Successful
+2016-04-27 23:34:45.003:$ Thread:16 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/a2/f2/info107250.htm $ Successful
+2016-04-27 23:34:45.004:$ Thread:15 $ Fetching $ http://www2.scut.edu.cn/picture/article/56/27/4a/12f9ea8b45fdaf81595bc59c2e97/53401112-2931-4fb7-a7aa-ac95d7eef5ba.docx $ Successful
+2016-04-27 23:34:45.005:$ Thread:12 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/a2/f1/info107249.htm $ Successful
+2016-04-27 23:34:45.005:$ Thread:15 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/a2/f0/info107248.htm $ Successful
+2016-04-27 23:34:45.005:$ Thread:15 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/a2/f4/info107252.htm $ Successful
+2016-04-27 23:34:45.013:$ Thread:12 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/a2/f5/info107253.htm $ Successful
+2016-04-27 23:34:45.013:$ Thread:12 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/d5/74/info120180.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:45.014:$ Thread:16 $ Fetching $ http://www2.scut.edu.cn/s/56/t/402/0c/05/info134149.htm $ Successful
+2016-04-27 23:34:45.027:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/a2/f6/info107254.htm $ Successful
+2016-04-27 23:34:45.030:$ Thread:16 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/d5/74/info120180.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:45.030:$ Thread:12 $ Parsing $ http://www2.scut.edu.cn/s/56/t/402/0c/55/info134229.htm $ Successful
+2016-04-27 23:34:45.030:$ Thread:16 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/0c/05/info134149.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:45.030:$ Thread:16 $ Fetching $ http://www2.scut.edu.cn/s/56/t/402/d5/74/info120180.htm $ Successful
+2016-04-27 23:34:45.030:$ Thread:16 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/a2/f3/info107251.htm $ Successful
+2016-04-27 23:34:45.030:$ Thread:16 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/db/e0/info121824.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:45.030:$ Thread:16 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/db/e0/info121824.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:45.031:$ Thread:16 $ Parsing $ http://www2.scut.edu.cn/s/41/t/18/0c/35/info134197.htm $ Successful
+2016-04-27 23:34:45.034:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/0b/ad/info134061.htm $ Successful
+2016-04-27 23:34:45.036:$ Thread:12 $ Fetching $ http://www2.scut.edu.cn/s/56/t/402/c5/da/info116186.htm $ Successful
+2016-04-27 23:34:45.036:$ Thread:12 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/d5/74/info120180.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:45.036:$ Thread:16 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/0c/05/info134149.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:45.037:$ Thread:16 $ Fetching $ http://www2.scut.edu.cn/s/56/t/402/bf/fe/info114686.htm $ Successful
+2016-04-27 23:34:45.037:$ Thread:16 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/d5/74/info120180.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:45.044:$ Thread:11 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/d5/74/info120180.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:45.047:$ Thread:11 $ Complete $http://www2.scut.edu.cn/s/56/t/402/e7/c2/info124866.htm Successful $
+2016-04-27 23:34:45.047:$ Thread:11 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/d5/74/info120180.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:45.047:$ Thread:11 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/0c/05/info134149.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:45.047:$ Thread:11 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/c5/da/info116186.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:45.047:$ Thread:11 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/bf/fe/info114686.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:45.056:$ Thread:11 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/c5/da/info116186.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:45.056:$ Thread:15 $ Complete $http://www2.scut.edu.cn/s/56/t/402/e4/0c/info123916.htm Successful $
+2016-04-27 23:34:45.057:$ Thread:11 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/c5/da/info116186.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:45.057:$ Thread:15 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/0c/05/info134149.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:45.060:$ Thread:11 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/c5/da/info116186.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:45.060:$ Thread:11 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/bf/fe/info114686.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:45.065:$ Thread:11 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/bf/fe/info114686.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:45.065:$ Thread:11 $ Fetching $ http://www2.scut.edu.cn/s/56/t/402/c0/9b/info114843.htm $ Successful
+2016-04-27 23:34:45.066:$ Thread:11 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/c5/da/info116186.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:45.066:$ Thread:11 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/0c/05/info134149.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:45.071:$ Thread:11 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/bf/fe/info114686.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:45.085:$ Thread:15 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/a2/f8/info107256.htm $ Successful
+2016-04-27 23:34:45.085:$ Thread:15 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/c5/da/info116186.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:45.085:$ Thread:15 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/bf/fe/info114686.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:45.089:$ Thread:15 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/a2/f7/info107255.htm $ Successful
+2016-04-27 23:34:45.089:$ Thread:15 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/c0/9b/info114843.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:45.089:$ Thread:15 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/0c/05/info134149.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:45.093:$ Thread:15 $ Connecting $http://www2.scut.edu.cn/s/56/t/402/a4/92/info107666.htm $ Successful
+2016-04-27 23:34:45.126:$ Thread:15 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/c5/da/info116186.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:45.126:$ Thread:15 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/bf/fe/info114686.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:45.126:$ Thread:15 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/c0/9b/info114843.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:45.126:$ Thread:15 $ Fetching $ http://www2.scut.edu.cn/s/56/t/402/cb/2b/info117547.htm $ Successful
+2016-04-27 23:34:45.126:$ Thread:15 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/0c/05/info134149.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:48.129:$ Thread:16 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/c5/da/info116186.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:48.129:$ Thread:16 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/c0/9b/info114843.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:48.130:$ Thread:16 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/0c/05/info134149.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:48.130:$ Thread:16 $ Complete $http://www.scut.edu.cn/academic/blank.htm Successful $
+2016-04-27 23:34:48.133:finish crawling
+2016-04-27 23:34:48.133:the number of urls that were found:430
+2016-04-27 23:34:48.133:the number of urls that were processed:158
+2016-04-27 23:34:48.136:$ Thread:17 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/cb/2b/info117547.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:48.137:the number of urls that resulted in an error:54
+2016-04-27 23:34:48.138:0.3814mins
+2016-04-27 23:34:48.140:$ Thread:17 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/c5/da/info116186.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:48.140:$ Thread:17 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/c0/9b/info114843.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:48.141:$ Thread:17 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/d5/74/info120180.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:48.141:$ Thread:17 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/d5/74/info120180.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:48.142:$ Thread:11 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/d5/74/info120180.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:48.143:$ Thread:11 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/d5/74/info120180.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:48.146:$ Thread:17 $ Fetching $ http://www2.scut.edu.cn/s/56/t/402/0d/95/info134549.htm $ Successful
+2016-04-27 23:34:48.147:$ Thread:17 $ Fetching $ http://www2.scut.edu.cn/s/56/t/402/e3/ca/info123850.htm $ Successful
+2016-04-27 23:34:48.150:$ Thread:11 $ Parsing $ http://www2.scut.edu.cn/s/41/t/18/0c/15/info134165.htm $ Successful
+2016-04-27 23:34:48.150:$ Thread:11 $ Parsing $ http://www2.scut.edu.cn/s/41/t/18/0c/ce/info134350.htm $ Successful
+2016-04-27 23:34:48.150:$ Thread:11 $ Fetching $ http://www.scut.edu.cn/webpage/about.htm $ Successful
+2016-04-27 23:34:48.150:$ Thread:11 $ Fetching $ http://www2.scut.edu.cn/ce-en/ $ Successful
+2016-04-27 23:34:48.150:$ Thread:11 $ Parsing $ http://www.scut.edu.cn/telephone/tel82.htm $ Successful
+2016-04-27 23:34:48.154:$ Thread:17 $ Fetching $ http://www2.scut.edu.cn/s/27/t/3/p/5/list.htm $ Successful
+2016-04-27 23:34:48.154:$ Thread:17 $ Complete $http://en.scut.edu.cn/detail.jsp?id=55265 Successful $
+2016-04-27 23:34:48.156:$ Thread:16 $ Complete $http://en.scut.edu.cn/detail.jsp?id=55244 Successful $
+2016-04-27 23:34:48.162:$ Thread:17 $ Connecting $http://www2.scut.edu.cn/party_sch/ $ Successful
+2016-04-27 23:34:48.169:$ Thread:11 $ Connecting $http://www.scut.edu.cn/index2011.html $ Successful
+2016-04-27 23:34:48.171:$ Thread:15 $ Connecting $http://www2.scut.edu.cn/s/27/t/3/0a/63/info133731.htm $ Successful
+2016-04-27 23:34:48.173:$ Thread:16 $ Fetching $ http://www2.scut.edu.cn/s/27/t/3/p/42/list.htm $ Successful
+2016-04-27 23:34:48.174:$ Thread:17 $ Complete $http://www2.scut.edu.cn/s/27/t/3/p/41/c/56/list.htm Successful $
+2016-04-27 23:34:48.174:$ Thread:17 $ Connecting $http://www2.scut.edu.cn/s/27/t/3/0f/67/info3943.htm $ Successful
+2016-04-27 23:34:48.178:$ Thread:11 $ Complete $http://www2.scut.edu.cn/s/27/t/3/p/41/list.htm Successful $
+2016-04-27 23:34:48.178:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/s/27/t/3/0f/66/info3942.htm $ Successful
+2016-04-27 23:34:48.184:$ Thread:17 $ Parsing $ http://www2.scut.edu.cn/s/27/t/3/0c/48/info3144.htm $ Successful
+2016-04-27 23:34:48.184:$ Thread:11 $ Connecting $http://en.scut.edu.cn/detail.jsp?id=55244 $ Successful
+2016-04-27 23:34:48.184:$ Thread:17 $ Complete $http://en.scut.edu.cn/contact.jsp Successful $
+2016-04-27 23:34:48.185:$ Thread:11 $ Parsing $ http://en.scut.edu.cn/contact.jsp $ Successful
+2016-04-27 23:34:48.185:$ Thread:11 $ Parseing $ http://en.scut.edu.cn/detail.jsp?id=55283Error $Found malformed URL: javascript:window.close();
+2016-04-27 23:34:48.185:$ Thread:11 $ Connecting $http://en.scut.edu.cn/detail.jsp?id=55317 $ Successful
+2016-04-27 23:34:48.196:$ Thread:16 $ Complete $http://en.scut.edu.cn/detail.jsp?id=55383 Successful $
+2016-04-27 23:34:48.197:$ Thread:16 $ Fetching $ http://en.scut.edu.cn/detail.jsp?id=55283 $ Successful
+2016-04-27 23:34:48.202:$ Thread:16 $ Connecting $http://en.scut.edu.cn/detail.jsp?id=55143 $ Successful
+2016-04-27 23:34:48.203:$ Thread:16 $ Connecting $http://en.scut.edu.cn/detail.jsp?id=55213 $ Successful
+2016-04-27 23:34:48.203:$ Thread:16 $ Complete $http://en.scut.edu.cn/detail.jsp?id=55403 Successful $
+2016-04-27 23:34:48.203:$ Thread:16 $ Connecting $http://en.scut.edu.cn/detail.jsp?id=55246 $ Successful
+2016-04-27 23:34:48.203:$ Thread:16 $ Complete $http://en.scut.edu.cn/new/list1.jsp?directoryid=24068&topid=24067 Successful $
+2016-04-27 23:34:48.203:$ Thread:16 $ Parsing $ http://en.scut.edu.cn/detail.jsp?id=55403 $ Successful
+2016-04-27 23:34:48.203:$ Thread:16 $ Parseing $ http://en.scut.edu.cn/detail.jsp?id=55403Error $Found malformed URL: javascript:window.close();
+2016-04-27 23:34:48.203:$ Thread:16 $ Parsing $ http://en.scut.edu.cn/new/list1.jsp?directoryid=24068&topid=24067 $ Successful
+2016-04-27 23:34:48.204:$ Thread:16 $ Fetching $ http://en.scut.edu.cn/detail.jsp?id=55383 $ Successful
+2016-04-27 23:34:48.204:$ Thread:16 $ Fetching $ http://en.scut.edu.cn/giving/acknowledgement.jsp $ Error: get InputStream failed
+2016-04-27 23:34:48.204:$ Thread:16 $ Connecting $http://en.scut.edu.cn/contact.jsp $ Successful
+2016-04-27 23:34:48.204:$ Thread:16 $ Fetching $ http://en.scut.edu.cn/giving/studentfieldfund.jsp $ Error: get InputStream failed
+2016-04-27 23:34:48.204:$ Thread:16 $ Connecting $http://en.scut.edu.cn/giving/downloads.jsp $ Successful
+2016-04-27 23:34:48.204:$ Thread:16 $ Connecting $http://en.scut.edu.cn/giving/giveonline.jsp $ Successful
+2016-04-27 23:34:48.205:$ Thread:16 $ Fetching $ http://en.scut.edu.cn/alumni/service.jsp $ Error: get InputStream failed
+2016-04-27 23:34:48.205:$ Thread:16 $ Connecting $http://en.scut.edu.cn/giving/studentprogramsfund.jsp $ Successful
+2016-04-27 23:34:48.205:$ Thread:16 $ Parsing $ http://en.scut.edu.cn/index.jsp $ Successful
+2016-04-27 23:34:48.205:$ Thread:16 $ Connecting $http://en.scut.edu.cn/aboutscut/stafffaculty.jsp $ Successful
+2016-04-27 23:34:48.205:$ Thread:16 $ Fetching $ http://en.scut.edu.cn/ $ Successful
+2016-04-27 23:34:48.205:$ Thread:16 $ Fetching $ http://en.scut.edu.cn/aboutscut/president.jsp $ Error: get InputStream failed
+2016-04-27 23:34:48.205:$ Thread:16 $ Connecting $http://en.scut.edu.cn/aboutscut/governance.jsp $ Successful
+2016-04-27 23:34:48.205:$ Thread:15 $ Parseing $ http://en.scut.edu.cn/detail.jsp?id=55383Error $Found malformed URL: javascript:window.close();
+2016-04-27 23:34:48.205:$ Thread:11 $ Parsing $ http://en.scut.edu.cn/detail.jsp?id=55383 $ Successful
+2016-04-27 23:34:48.205:$ Thread:15 $ Connecting $http://en.scut.edu.cn/aboutscut/factsfigures.jsp $ Successful
+2016-04-27 23:34:48.205:$ Thread:16 $ Connecting $http://en.scut.edu.cn/aboutscut/president.jsp $ Successful
+2016-04-27 23:34:48.205:$ Thread:11 $ Connecting $http://en.scut.edu.cn/ $ Successful
+2016-04-27 23:34:48.206:$ Thread:16 $ Connecting $http://en.scut.edu.cn/aboutscut/introducing.jsp $ Successful
+2016-04-27 23:34:48.206:$ Thread:15 $ Fetching $ http://www2.scut.edu.cn/scutnxq/ $ Successful
+2016-04-27 23:34:48.206:$ Thread:11 $ Complete $http://www2.scut.edu.cn/s/27/t/3/p/2/c/65/list.htm Successful $
+2016-04-27 23:34:48.206:$ Thread:16 $ Parsing $ http://www2.scut.edu.cn/s/27/t/3/p/2/c/65/list.htm $ Successful
+2016-04-27 23:34:48.206:$ Thread:15 $ Complete $http://www.scut.edu.cn/areabooking/ Successful $
+2016-04-27 23:34:48.206:$ Thread:11 $ Parsing $ http://www.scut.edu.cn/areabooking/ $ Successful
+2016-04-27 23:34:48.206:$ Thread:16 $ Connecting $http://www.scut.edu.cn/areabooking/ $ Successful
+2016-04-27 23:34:48.206:$ Thread:15 $ Parseing $ http://webmail.scut.edu.cn/scutmail/index.jsp?locale=en_usError $Found malformed URL: javascript:bookmarkme()
+2016-04-27 23:34:48.206:$ Thread:16 $ Fetching $ http://www2.scut.edu.cn/s/27/t/3/p/1/c/26/list.htm $ Successful
+2016-04-27 23:34:48.207:$ Thread:16 $ Parseing $ http://webmail.scut.edu.cn/scutmail/cmcu_var/index_scut.jspError $Found malformed URL: javascript:bookmarkme()
+2016-04-27 23:34:48.207:$ Thread:16 $ Adding to workload $ http://mapp.scut.edu.cn/welcome/index.html
+2016-04-27 23:34:48.207:$ Thread:15 $ Fetching $ http://webmail.scut.edu.cn/coremail/help/index_zh_cn.jsp $ Error: get InputStream failed
+2016-04-27 23:34:48.207:$ Thread:15 $ Parseing $ http://mapp.scut.edu.cn/Error $Found malformed URL: javascript:;
+2016-04-27 23:34:48.208:$ Thread:15 $ Adding to workload $ http://mapp.scut.edu.cn/public/images/downloadaapp_icon.ico
+2016-04-27 23:34:48.208:$ Thread:15 $ Connecting $http://webmail.scut.edu.cn/coremail/help/index_zh_cn.jsp $ Successful
+2016-04-27 23:34:48.208:$ Thread:15 $ Adding to workload $ http://web.scut.edu.cn/s/39/t/13/07/d1/info133073.htm
+2016-04-27 23:34:48.208:$ Thread:15 $ Adding to workload $ http://web.scut.edu.cn/s/39/t/13/0e/42/info134722.htm
+2016-04-27 23:34:48.208:$ Thread:15 $ Connecting $http://webmail.scut.edu.cn/scutmail/index.jsp?locale=en_us $ Successful
+2016-04-27 23:34:48.209:$ Thread:15 $ Adding to workload $ http://web.scut.edu.cn/s/39/t/13/p/13/list.htm
+2016-04-27 23:34:48.209:$ Thread:15 $ Adding to workload $ http://news.debug.scut.edu.cn/s/22/t/3/a/28497/info.jspy
+2016-04-27 23:34:48.209:$ Thread:15 $ Adding to workload $ http://web.scut.edu.cn/s/39/t/13/02/d6/info131798.htm
+2016-04-27 23:34:48.209:$ Thread:15 $ Adding to workload $ http://web.scut.edu.cn/s/39/t/13/07/63/info132963.htm
+2016-04-27 23:34:48.209:$ Thread:15 $ Adding to workload $ http://news.scut.edu.cn/s/22/t/3/71/fd/info29181.htm
+2016-04-27 23:34:48.209:$ Thread:15 $ Adding to workload $ http://web.scut.edu.cn/s/39/t/13/p/12/list.htm
+2016-04-27 23:34:48.209:$ Thread:15 $ Adding to workload $ http://news.scut.edu.cn/s/22/t/3/72/45/info29253.htm
+2016-04-27 23:34:48.211:$ Thread:16 $ Parseing $ http://web.scut.edu.cn/Error $Found malformed URL: javascript:void(0)
+2016-04-27 23:34:48.211:$ Thread:16 $ Adding to workload $ http://www3.scut.edu.cn/cxpt
+2016-04-27 23:34:48.211:$ Thread:16 $ Adding to workload $ http://web.scut.edu.cn/
+2016-04-27 23:34:48.213:$ Thread:15 $ Parseing $ http://web.scut.edu.cn/Error $Found malformed URL: javascript:void(0)
+2016-04-27 23:34:48.213:$ Thread:15 $ Adding to workload $ http://web.scut.edu.cn/s/39/t/13/50/40/info20544.htm
+2016-04-27 23:34:48.213:$ Thread:15 $ Adding to workload $ http://web.scut.edu.cn/s/39/t/13/50/43/info20547.htm
+2016-04-27 23:34:48.213:$ Thread:15 $ Adding to workload $ http://web.scut.edu.cn/s/39/t/13/50/49/info20553.htm
+2016-04-27 23:34:48.213:$ Thread:15 $ Adding to workload $ http://web.scut.edu.cn/s/39/t/13/50/44/info20548.htm
+2016-04-27 23:34:48.213:$ Thread:15 $ Adding to workload $ http://web.scut.edu.cn/s/39/t/13/50/45/info20549.htm
+2016-04-27 23:34:48.213:$ Thread:15 $ Adding to workload $ http://web.scut.edu.cn/s/39/t/13/50/4a/info20554.htm
+2016-04-27 23:34:48.213:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/5a/b2/info23218.htm
+2016-04-27 23:34:48.214:$ Thread:15 $ Adding to workload $ http://bbs.scut.edu.cn/live/list.jsp?forumid=475
+2016-04-27 23:34:48.214:$ Thread:16 $ Adding to workload $ http://web.scut.edu.cn/s/39/t/13/p/1/c/561/list.htm
+2016-04-27 23:34:48.214:$ Thread:16 $ Parseing $ http://web.scut.edu.cn/Error $Found malformed URL: javascript:void(0)
+2016-04-27 23:34:48.214:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/dc/9a/info122010.htm
+2016-04-27 23:34:48.215:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/e5/27/info124199.htm
+2016-04-27 23:34:48.215:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/e8/e9/info125161.htm
+2016-04-27 23:34:48.215:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/f2/db/info127707.htm
+2016-04-27 23:34:48.215:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/04/04/info132100.htm
+2016-04-27 23:34:48.215:$ Thread:16 $ Adding to workload $ http://web.scut.edu.cn/s/39/t/13/p/1/c/568/list.htm
+2016-04-27 23:34:48.215:$ Thread:16 $ Adding to workload $ http://web.scut.edu.cn/s/39/t/13/p/1/c/567/list.htm
+2016-04-27 23:34:48.215:$ Thread:16 $ Adding to workload $ http://web.scut.edu.cn/s/39/t/13/p/1/c/566/list.htm
+2016-04-27 23:34:48.215:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/0c/c7/info134343.htm
+2016-04-27 23:34:48.215:$ Thread:16 $ Adding to workload $ http://web.scut.edu.cn/s/39/t/13/p/1/c/565/list.htm
+2016-04-27 23:34:48.215:$ Thread:16 $ Adding to workload $ http://web.scut.edu.cn/s/39/t/13/p/1/c/564/list.htm
+2016-04-27 23:34:48.215:$ Thread:16 $ Adding to workload $ http://web.scut.edu.cn/s/39/t/13/p/1/c/563/list.htm
+2016-04-27 23:34:48.215:$ Thread:16 $ Adding to workload $ http://www.scut.edu.cn/ecard
+2016-04-27 23:34:48.215:$ Thread:16 $ Adding to workload $ http://web.scut.edu.cn/s/39/t/13/p/1/c/562/list.htm
+2016-04-27 23:34:48.216:$ Thread:16 $ Adding to workload $ http://web.scut.edu.cn/s/39/t/65/p/5/c/561/list.htm
+2016-04-27 23:34:48.216:$ Thread:16 $ Adding to workload $ http://web.scut.edu.cn/s/39/t/13/p/1/c/560/list.htm
+2016-04-27 23:34:48.216:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/0c/dd/info134365.htm
+2016-04-27 23:34:48.216:$ Thread:16 $ Adding to workload $ http://web.scut.edu.cn/s/39/t/13/p/1/c/559/list.htm
+2016-04-27 23:34:48.216:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/0c/ec/info134380.htm
+2016-04-27 23:34:48.216:$ Thread:16 $ Adding to workload $ http://web.scut.edu.cn/s/39/t/13/p/1/c/558/list.htm
+2016-04-27 23:34:48.216:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/0c/ee/info134382.htm
+2016-04-27 23:34:48.216:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/0c/ef/info134383.htm
+2016-04-27 23:34:48.216:$ Thread:16 $ Parsing $ http://www2.scut.edu.cn/s/56/t/402/main.htm $ Successful
+2016-04-27 23:34:48.216:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/0d/2e/info134446.htm
+2016-04-27 23:34:48.216:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/0d/39/info134457.htm
+2016-04-27 23:34:48.216:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/0d/43/info134467.htm
+2016-04-27 23:34:48.217:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/0d/b2/info134578.htm
+2016-04-27 23:34:48.217:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/0e/1b/info134683.htm
+2016-04-27 23:34:48.217:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/0e/67/info134759.htm
+2016-04-27 23:34:48.217:$ Thread:16 $ Connecting $http://mapp.scut.edu.cn/ $ Successful
+2016-04-27 23:34:48.217:$ Thread:16 $ Fetching $ http://web.scut.edu.cn/ $ Successful
+2016-04-27 23:34:48.217:$ Thread:16 $ Adding to workload $ http://news.scut.edu.cn/s/22/t/7/72/5f/info29279.htm
+2016-04-27 23:34:48.218:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/a7/2a/info108330.htm
+2016-04-27 23:34:48.218:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/a3/01/info107265.htm
+2016-04-27 23:34:48.218:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/a3/02/info107266.htm
+2016-04-27 23:34:48.218:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/a2/fc/info107260.htm
+2016-04-27 23:34:48.218:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/a2/f9/info107257.htm
+2016-04-27 23:34:48.218:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/a2/fd/info107261.htm
+2016-04-27 23:34:48.218:$ Thread:11 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/a2/fe/info107262.htm
+2016-04-27 23:34:48.218:$ Thread:11 $ Connecting $http://www.scut.edu.cn/webpage/service.htm $ Successful
+2016-04-27 23:34:48.218:$ Thread:11 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/a2/fa/info107258.htm
+2016-04-27 23:34:48.219:$ Thread:11 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/a4/92/info107666.htm
+2016-04-27 23:34:48.219:$ Thread:11 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/a2/f7/info107255.htm
+2016-04-27 23:34:48.219:$ Thread:11 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/a2/f6/info107254.htm
+2016-04-27 23:34:48.219:$ Thread:11 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/a2/f5/info107253.htm
+2016-04-27 23:34:48.219:$ Thread:11 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/a2/f3/info107251.htm
+2016-04-27 23:34:48.219:$ Thread:11 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/a2/f2/info107250.htm
+2016-04-27 23:34:48.219:$ Thread:11 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/a2/f1/info107249.htm
+2016-04-27 23:34:48.219:$ Thread:11 $ Complete $http://map.scut.edu.cn/ Successful $
+2016-04-27 23:34:48.219:$ Thread:11 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/a2/ef/info107247.htm
+2016-04-27 23:34:48.220:$ Thread:11 $ Parsing $ http://map.scut.edu.cn/ $ Successful
+2016-04-27 23:34:48.234:$ Thread:11 $ Connecting $http://www2.scut.edu.cn/xxgk/index.html $ Successful
+2016-04-27 23:34:48.234:$ Thread:11 $ Parseing $ http://map.scut.edu.cn/Error $Found malformed URL: javascript:closevr();
+2016-04-27 23:34:48.234:$ Thread:11 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/a2/ec/info107244.htm
+2016-04-27 23:34:48.234:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/a2/eb/info107243.htm
+2016-04-27 23:34:48.234:$ Thread:11 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/a2/ea/info107242.htm
+2016-04-27 23:34:48.234:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/a2/e9/info107241.htm
+2016-04-27 23:34:48.234:$ Thread:11 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/a2/e7/info107239.htm
+2016-04-27 23:34:48.235:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/a2/e6/info107238.htm
+2016-04-27 23:34:48.235:$ Thread:11 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/a2/e5/info107237.htm
+2016-04-27 23:34:48.235:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/a2/e8/info107240.htm
+2016-04-27 23:34:48.235:$ Thread:11 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/a2/e4/info107236.htm
+2016-04-27 23:34:48.235:$ Thread:11 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/main.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:48.238:$ Thread:15 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/main.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:48.238:$ Thread:15 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/main.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:48.245:$ Thread:15 $ Connecting $http://www.scut.edu.cn/{link} $ Successful
+2016-04-27 23:34:48.245:$ Thread:16 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/main.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:48.245:$ Thread:16 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/main.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:48.245:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/8d/ba/info36282.htm
+2016-04-27 23:34:48.245:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/09/ca/info133578.htm
+2016-04-27 23:34:48.245:$ Thread:16 $ Connecting $http://www.scut.edu.cn/webpage/hotnews.htm $ Successful
+2016-04-27 23:34:48.246:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/a4/91/info107665.htm
+2016-04-27 23:34:48.246:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/4f/83/info85891.htm
+2016-04-27 23:34:48.246:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/bc/62/info113762.htm
+2016-04-27 23:34:48.246:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/bf/81/info114561.htm
+2016-04-27 23:34:48.246:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/bf/fe/info114686.htm
+2016-04-27 23:34:48.246:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/c0/9b/info114843.htm
+2016-04-27 23:34:48.246:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/c5/da/info116186.htm
+2016-04-27 23:34:48.246:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/ca/47/info117319.htm
+2016-04-27 23:34:48.246:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/cb/2b/info117547.htm
+2016-04-27 23:34:48.246:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/d5/74/info120180.htm
+2016-04-27 23:34:48.246:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/picture/article/56/27/4a/12f9ea8b45fdaf81595bc59c2e97/53401112-2931-4fb7-a7aa-ac95d7eef5ba.docx
+2016-04-27 23:34:48.246:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/picture/article/56/24/42/15b4f4d54aa7b2fd0912bf0b1ad1/03942ffd-1566-4b0d-a817-a0bd9714e65a.docx
+2016-04-27 23:34:48.246:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/picture/article/56/d5/17/d36598ec46efb56579dd84a51066/a32c548d-addc-4005-8c2f-f511670af8cf.docx
+2016-04-27 23:34:48.246:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/picture/article/56/ac/88/d72bdfbc4c69bcb76c099c936f83/4944ba9b-6f16-4962-ae3a-7ef5936203b6.docx
+2016-04-27 23:34:48.247:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/db/e0/info121824.htm
+2016-04-27 23:34:48.247:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/dc/89/info121993.htm
+2016-04-27 23:34:48.247:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/e8/bf/info125119.htm
+2016-04-27 23:34:48.247:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/ea/90/info125584.htm
+2016-04-27 23:34:48.247:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/08/1b/info133147.htm
+2016-04-27 23:34:48.247:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/0a/89/info133769.htm
+2016-04-27 23:34:48.247:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/0b/ad/info134061.htm
+2016-04-27 23:34:48.247:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/0c/05/info134149.htm
+2016-04-27 23:34:48.247:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/0c/2f/info134191.htm
+2016-04-27 23:34:48.247:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/0c/55/info134229.htm
+2016-04-27 23:34:48.247:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/0d/59/info134489.htm
+2016-04-27 23:34:48.247:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/0d/95/info134549.htm
+2016-04-27 23:34:48.247:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/e3/ca/info123850.htm
+2016-04-27 23:34:48.247:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/e3/d3/info123859.htm
+2016-04-27 23:34:48.248:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/e3/e7/info123879.htm
+2016-04-27 23:34:48.249:$ Thread:17 $ Connecting $http://www2.scut.edu.cn/s/56/t/113/main.htm $ Successful
+2016-04-27 23:34:48.249:$ Thread:17 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/e4/0c/info123916.htm
+2016-04-27 23:34:48.249:$ Thread:17 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/e7/c2/info124866.htm
+2016-04-27 23:34:48.249:$ Thread:15 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/main.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:48.257:$ Thread:17 $ Connecting $http://www.scut.edu.cn/webpage/spotlights.htm?={link} $ Successful
+2016-04-27 23:34:48.260:$ Thread:15 $ Connecting $http://www2.scut.edu.cn/s/100/t/97/main.htm $ Successful
+2016-04-27 23:34:48.262:$ Thread:16 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/main.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:48.262:$ Thread:17 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/main.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:48.263:$ Thread:17 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/main.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:48.263:$ Thread:17 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/main.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:48.270:$ Thread:15 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/main.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:48.270:$ Thread:16 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/main.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:48.271:$ Thread:16 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/main.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:48.276:$ Thread:15 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/main.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:48.276:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/419/main.htm
+2016-04-27 23:34:48.276:$ Thread:16 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/main.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:48.276:$ Thread:17 $ Parseing $ http://www2.scut.edu.cn/s/56/t/402/main.htmError $Found malformed URL: javascript:void(0);
+2016-04-27 23:34:48.276:$ Thread:15 $ Adding to workload $ http://www2.scut.edu.cn/s/56/t/402/main.htm
+2016-04-27 23:34:48.277:$ Thread:17 $ Fetching $ http://www.scut.edu.cn/houqin $ Successful
+2016-04-27 23:34:48.277:$ Thread:17 $ Connecting $http://www2.scut.edu.cn/s/56/t/341/main.jspy $ Successful
+2016-04-27 23:34:48.277:$ Thread:17 $ Parseing $ http://map.scut.edu.cn/Error $Found malformed URL: javascript:;
+2016-04-27 23:34:48.279:$ Thread:16 $ Parseing $ http://map.scut.edu.cn/Error $Found malformed URL: javascript:;
+2016-04-27 23:34:48.292:$ Thread:17 $ Parseing $ http://map.scut.edu.cn/Error $Found malformed URL: javascript:;
+2016-04-27 23:34:48.292:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/0c/54/info134228.htm
+2016-04-27 23:34:48.292:$ Thread:17 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/0c/ce/info134350.htm
+2016-04-27 23:34:48.292:$ Thread:17 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/0e/cb/info134859.htm
+2016-04-27 23:34:48.292:$ Thread:17 $ Adding to workload $ http://www.scut.edu.cn/nfjz
+2016-04-27 23:34:48.292:$ Thread:17 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/ea/35/info125493.htm
+2016-04-27 23:34:48.292:$ Thread:17 $ Adding to workload $ http://www2.scut.edu.cn/gjs/index.htm
+2016-04-27 23:34:48.292:$ Thread:17 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/p/12/list.htm
+2016-04-27 23:34:48.292:$ Thread:17 $ Parseing $ http://map.scut.edu.cn/Error $Found malformed URL: javascript:smallmapsearch.doindexpagenavgsearch(1,'86');
+2016-04-27 23:34:48.293:$ Thread:16 $ Adding to workload $ http://www2.scut.edu.cn/s/41/t/18/0d/37/info134455.htm
+2016-04-27 23:34:48.293:$ Thread:16 $ Parseing $ http://map.scut.edu.cn/Error $Found malformed URL: javascript:smallmapsearch.doindexpagenavgsearch(1,'85');
+2016-04-27 23:34:48.298:$ Thread:17 $ Parseing $ http://map.scut.edu.cn/Error $Found malformed URL: javascript:hnlgui.domenu('busstation');
+2016-04-27 23:34:48.299:$ Thread:16 $ Parseing $ http://map.scut.edu.cn/Error $Found malformed URL: javascript:hnlgui.domenu('schoolbus');
+2016-04-27 23:34:48.304:$ Thread:17 $ Parseing $ http://map.scut.edu.cn/Error $Found malformed URL: javascript:smallmapsearch.doindexpagenavgsearch(1,'84');
+2016-04-27 23:34:48.307:$ Thread:17 $ Parseing $ http://map.scut.edu.cn/Error $Found malformed URL: javascript:smallmapsearch.doindexpagenavgsearch(1,'83');
+2016-04-27 23:34:58.131:finish crawling
+2016-04-27 23:34:58.132:the number of urls that were found:430
+2016-04-27 23:34:58.132:the number of urls that were processed:168
+2016-04-27 23:34:58.132:the number of urls that resulted in an error:55
+2016-04-27 23:34:58.132:0.5479833333333334mins
