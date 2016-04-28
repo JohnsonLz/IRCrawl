@@ -28,6 +28,7 @@ import com.googlecode.asyn4j.core.callback.AsynCallBack;
 import com.googlecode.asyn4j.service.AsynService;
 import com.googlecode.asyn4j.service.AsynServiceImpl;
 import com.googlecode.asyn4j.core.handler.CacheAsynWorkHandler;
+import com.googlecode.asyn4j.core.WorkWeight;
 
 public class Asyn_Crawl {
 
@@ -35,6 +36,7 @@ public class Asyn_Crawl {
 
 		this.asynService = as;
 		this.starttime = System.currentTimeMillis();
+		this.run = true;
 		file = new File(Context.sharedContext().getValueByName("urlPath"));
 		file.mkdirs();
 		if (!file.exists()) {
@@ -54,16 +56,30 @@ public class Asyn_Crawl {
 		}
 		else {
 
-			asynService.close();
-			Log.l("finish crawling");
-			Log.l("the number of urls that were found:" + numFindUrl);
-			Log.l("the number of urls that were processed:" + urlProcessed.size());
-			Log.l("the number of urls that resulted in an error:" + urlError.size());
-			long endtime = System.currentTimeMillis();	
-			Log.l((double)(endtime-starttime)/60000 + "mins");
-			return;
+			asyn_close();
 		}
 		
+	}
+
+	private synchronized void asyn_close() {
+
+		if(run == false) {
+			return;
+		}
+		run = false;
+		asynService.addWork(new logService(), "log", new Object[]{"urlWaiting is null"}, new AsynCallBack() {
+
+			@Override
+			public void doNotify(){
+				asynService.close();
+				Log.l("finish crawling");
+				Log.l("the number of urls that were found:" + numFindUrl);
+				Log.l("the number of urls that were processed:" + urlProcessed.size());
+				Log.l("the number of urls that resulted in an error:" + urlError.size());
+				long endtime = System.currentTimeMillis();	
+				Log.l((double)(endtime-starttime)/60000 + "mins");							
+			}
+		}, WorkWeight.LOW);
 	}
 
 	private void asyn_connectURL(final String strUrl, int repeat) {
@@ -254,6 +270,20 @@ public class Asyn_Crawl {
 		}
 	}
 
+	protected class closeService {
+
+		public void close() {
+
+			asynService.close();
+			Log.l("finish crawling");
+			Log.l("the number of urls that were found:" + numFindUrl);
+			Log.l("the number of urls that were processed:" + urlProcessed.size());
+			Log.l("the number of urls that resulted in an error:" + urlError.size());
+			long endtime = System.currentTimeMillis();	
+			Log.l((double)(endtime-starttime)/60000 + "mins");			
+		}
+	}
+
 
 	protected class HTMLParse extends HTMLEditorKit {
 		public HTMLEditorKit.Parser getParser() {
@@ -268,9 +298,7 @@ public class Asyn_Crawl {
 
 		public Parser(URL base) {
 			this.base = base;
-			System.out.println("parse");
 			depth = urlDepth.get(base.toString());
-			System.out.println(depth);
 		}
 
 		public void handleSimpleTag(HTML.Tag t, MutableAttributeSet a, int pos) {
@@ -399,11 +427,12 @@ public class Asyn_Crawl {
 	private long starttime;
 	private File file;
 	private final int depthCrawl = Integer.parseInt(Context.sharedContext().getValueByName("depth"));
+	private boolean run;
 	
 	public static void main(String[] args) {
 
 
-        AsynService asynService =  AsynServiceImpl.getService(300, 3000L, 5, 1, 10000L);   
+        AsynService asynService =  AsynServiceImpl.getService(300, 3000L, 5, 1, 3000L);   
         //asynService.setWorkQueueFullHandler(new CacheAsynWorkHandler()); 
         asynService.init();  
 		Asyn_Crawl crawl = new Asyn_Crawl(asynService);
