@@ -48,6 +48,14 @@ public class object {
 		System.out.println((t1==null ? t2==null : t1.equals(t2)));	
 	}
 
+	public object(Object o) {
+		this.o = o;
+	}
+	private Object o;
+
+	public synchronized void notify() {
+		
+	}
 
 
 	public static void main(String args[]) {

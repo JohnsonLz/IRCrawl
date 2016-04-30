@@ -14,6 +14,6 @@
 	<log>
 		<console>true</console>
 		<file>true</file>
-		<debug>true</debug>
+		<debug>false</debug>
 	</log>
 </configure>

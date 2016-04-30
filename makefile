@@ -12,6 +12,7 @@ FLAGS := -d ./bin/ $(LD)
 target:
 	javac $(FLAGS) $(SRC_PATH)Context.java
 	javac $(FLAGS) $(SRC_PATH)Log.java
+	javac $(FLAGS) $(SRC_PATH)Asyn_Http.java
 	javac $(FLAGS) $(SRC_PATH)Asyn_Crawl.java
 
 run:
